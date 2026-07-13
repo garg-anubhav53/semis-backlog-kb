@@ -40,3 +40,8 @@
 | XFAB | 2026-07-13 | BTB ~0.87, backlog declining, no order signal; NO SIGNAL |
 | VSH | 2026-07-13 | 10 sell-side analysts covering; fails <4-analyst coverage-void threshold; COVERAGE KILL |
 | AMAT/LRCX/KLAC/AEIS/MKSI/ENTG/TER | 2026-07-13 | All >$4B market cap (EDGAR EFTS Scout B returns large-caps only; keyword search skews toward large disclosing companies) |
+| FROHF | 2026-07-13 | 45-day cooldown from Run 9 WATCH analysis (2026-07-13); do not re-analyze until 2026-08-27 |
+| COMT / COTN.SW | 2026-07-13 | Comet Group AG; 10 active analysts — exceeds <4-analyst coverage-void threshold; COVERAGE KILL |
+| SLAHF / 4109.T | 2026-07-13 | Stella Chemifa Corporation; 7 active analysts — exceeds <4-analyst coverage-void threshold; COVERAGE KILL |
+| 4203.T | 2026-07-13 | Sumitomo Bakelite Co. Ltd.; 21 sell-side analysts covering; far exceeds <4-analyst threshold; COVERAGE KILL |
+| OSTKF | 2026-07-13 | Osaka Titanium Technologies Co. Ltd.; 8 sell-side analysts; revenue declining -9.56% YoY; no backlog signal identified; NO SIGNAL + COVERAGE KILL |

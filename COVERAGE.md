@@ -1,9 +1,9 @@
 # Coverage Map
 
 ## Cursor
-Last run: 2026-07-13 (Run 9 complete)
-Run count: 9
-Total companies analyzed: 15 unique (KLIC, ELMT, INTT, ASYS, ICHR, COHU, UCTT at scout level + SHMD, FORM, MTRN, AEHR, HURC, RELL, FROHF, IQEPF)
+Last run: 2026-07-13 (Run 10 complete)
+Run count: 10
+Total companies analyzed: 17 unique (KLIC, ELMT, INTT, ASYS, ICHR, COHU, UCTT at scout level + SHMD, FORM, MTRN, AEHR, HURC, RELL, FROHF, IQEPF, XPP, TPLKF)
 
 ## Analyzed
 | Ticker | Date | Verdict | Score | Notes |
@@ -22,6 +22,8 @@ Total companies analyzed: 15 unique (KLIC, ELMT, INTT, ASYS, ICHR, COHU, UCTT at
 | RELL | 2026-07-13 | CANDIDATE | medium-high | Q4 earnings July 29; BTB 1.28x implied; SIC 5065 bypass; PMT at half WFE growth rate |
 | FROHF | 2026-07-13 | WATCH | — | GICS 4520 exclusion + 2 analysts + fiscal-year stub masks WFE-consumable operating leverage; ¥350B guidance pending primary TSE filing verification |
 | IQEPF | 2026-07-13 | CANDIDATE | — | Tower SEMI multi-year InP deal + MACOM £30M investment; AIM-listed; InP volume ramp deferred to 2027; strategic review cleared 6 weeks ago |
+| XPP | 2026-07-13 | WATCH | — | UK-industrial classification void; 6 analysts with underwater consensus; £16.4M cash-backed prepayment; £115.8M order book (1.53x BTB); 4 Aug H1 catalyst |
+| TPLKF | 2026-07-13 | CANDIDATE | — | 8-analyst HBM name; 3.4x EV/Sales above preference zone; €121.6M Q1 orders already in consensus; Q1 EBITDA miss ambiguous; 6 Aug H1 print resolves |
 
 ## Run History
 | Run | Date | Companies Analyzed | Results | Push Status |
@@ -35,9 +37,10 @@ Total companies analyzed: 15 unique (KLIC, ELMT, INTT, ASYS, ICHR, COHU, UCTT at
 | 7 | 2026-07-13 | AEHR (—), HURC (65) | 1 WATCH, 1 PASS | KB_UPDATED (manual direct write) |
 | 8 | 2026-07-13 | RELL (medium-high) | 0 WATCH, 1 CANDIDATE | PENDING |
 | 9 | 2026-07-13 | FROHF (—), IQEPF (—) | 1 WATCH, 1 CANDIDATE | KB_UPDATED (manual direct write) |
+| 10 | 2026-07-13 | XPP (—), TPLKF (—) | 1 WATCH, 1 CANDIDATE | KB_UPDATED (manual direct write) |
 
 ## Do Not Re-Analyze (45-day cooldown)
-ICHR, ASYS, COHU, KLIC, ELMT, INTT, UCTT, SHMD, FORM, MTRN, AEHR, HURC, RELL, FROHF, IQEPF — all analyzed 2026-07-13; skip until 2026-08-27
+ICHR, ASYS, COHU, KLIC, ELMT, INTT, UCTT, SHMD, FORM, MTRN, AEHR, HURC, RELL, FROHF, IQEPF, XPP, TPLKF — all analyzed 2026-07-13; skip until 2026-08-27
 
 ## Scout Pipeline (next runs — apply valuation gate first)
 | Ticker | Company | ~Mkt Cap | Signal | Priority |
