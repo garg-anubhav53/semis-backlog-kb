@@ -1,9 +1,9 @@
 # Coverage Map
 
 ## Cursor
-Last run: 2026-07-13 (Run 5 complete)
-Run count: 5
-Total companies analyzed: 9 unique (KLIC, ELMT, INTT, ASYS, ICHR, COHU, UCTT at scout level + SHMD, FORM)
+Last run: 2026-07-13 (Run 6 complete)
+Run count: 6
+Total companies analyzed: 10 unique (KLIC, ELMT, INTT, ASYS, ICHR, COHU, UCTT at scout level + SHMD, FORM, MTRN)
 
 ## Analyzed
 | Ticker | Date | Verdict | Score | Notes |
@@ -16,6 +16,7 @@ Total companies analyzed: 9 unique (KLIC, ELMT, INTT, ASYS, ICHR, COHU, UCTT at 
 | INTT | 2026-07-13 | MONITOR | 54 | Needs Q2 order print ≥$34M to upgrade |
 | SHMD | 2026-07-13 | WATCH | 72 | Analyzed run 5; foreign-issuer coverage void; Q2 guidance update (July 14) |
 | FORM | 2026-07-13 | CANDIDATE | 68 | Analyzed run 5; 2027 Farmers Branch ramp not yet modeled |
+| MTRN | 2026-07-13 | CANDIDATE | medium | Record backlog; defense $60M Q1 bookings; Electronic Materials EBITDA 2x YoY; miscategorization asymmetry; August 5 Q2 binary |
 
 ## Run History
 | Run | Date | Companies Analyzed | Results | Push Status |
@@ -25,14 +26,14 @@ Total companies analyzed: 9 unique (KLIC, ELMT, INTT, ASYS, ICHR, COHU, UCTT at 
 | 3 | 2026-07-13 | ELMT (69), INTT (54) | 1 WATCH, 1 MONITOR | PUSH_FAILED (no write scope on PAT) |
 | 4 | 2026-07-13 | KLIC (70), ASYS (63) | 1 WATCH, 1 MONITOR | PUSH_FAILED (no write scope on PAT) |
 | 5 | 2026-07-13 | SHMD (72), FORM (68) | 1 WATCH, 1 CANDIDATE | KB_UPDATED (manual direct write) |
+| 6 | 2026-07-13 | MTRN (medium) | 0 WATCH, 1 CANDIDATE | PENDING |
 
 ## Do Not Re-Analyze (45-day cooldown)
-ICHR, ASYS, COHU, KLIC, ELMT, INTT, UCTT, SHMD, FORM — all analyzed 2026-07-13; skip until 2026-08-27
+ICHR, ASYS, COHU, KLIC, ELMT, INTT, UCTT, SHMD, FORM, MTRN — all analyzed 2026-07-13; skip until 2026-08-27
 
 ## Scout Pipeline (next runs — apply valuation gate first)
 | Ticker | Company | ~Mkt Cap | Signal | Priority |
 |--------|---------|----------|--------|----------|
-| AXTI | AXT Inc. | ~$100-150M | +74% YoY revenue; InP/GaAs substrate; compound semi | High |
-| ACMR | ACM Research | ~$2.0B | Shipments +54% vs revenue +34% deferred gap | Medium |
+| CYBE | CyberOptics | ~$230M | Wafer inspection sensors (WaferSense); 2-4 analysts; sub-$500M; need 2026 backlog confirmation | High |
 | ACLS | Axcelis Technologies | ~$1.8B | $453M backlog; check 12-mo price first | Medium |
 | PLAB | Photronics | ~$800-950M | $330M capex; accounting flag — deprioritize | Low |

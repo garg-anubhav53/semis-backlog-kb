@@ -35,3 +35,75 @@ For future runs, the implication is directional. Lean *harder* into the corners 
 - **FORM — CANDIDATE.** Real signal (record HBM-driven results, fully-booked 2026, a genuine 2027 Farmers Branch step-change likely not yet in out-year consensus models), but the asymmetry is unclear-to-absent: 6–8 analysts is normal coverage not neglect, HBM probe cards are among the *most* obvious AI picks-and-shovels rather than an invisible exposure, and an 11.6% drop on a large beat signals an actively-contested, valuation-debated stock — not a neglected one. The only edge is a modeling-timing gap on the 2027 ramp, hostage to single-facility execution risk. Watch the Q2 print (late July) and any GPU-revenue recognition in Q3 as a re-rating trigger, but do not treat this as a coverage-gap asymmetry, because it isn't one.
 
 - *(No PASS this run — both carry a live signal; the distinction is WATCH vs CANDIDATE on asymmetry quality, not signal presence.)*
+
+---
+---
+
+# Cross-Company Synthesis — Run 6 (MTRN)
+
+Date: 2026-07-13
+Analyst posture: skeptical. Question is asymmetry, not quality.
+*(Appended below the prior FORM/SHMD synthesis to preserve it; this is a distinct run with a single forensic candidate.)*
+
+## Verdict headline
+
+**MTRN → CANDIDATE (hold, do not upgrade).** Real backlog signal, decaying edge. The only genuinely structural piece of the thesis (miscategorization / fund-flow bypass) is intact; every other leg of the asymmetry is either public or actively closing. This is mostly a good company in a well-telegraphed cycle — with one narrow inefficiency a backlog system cannot cleanly arbitrage on a 23-day horizon.
+
+## 1. MTRN assessment — structural asymmetry or already in the market?
+
+Split the thesis into its four load-bearing claims and price each:
+
+**(a) Record backlog +20% YoY — PUBLIC.** It was in a press release; anyone on Materion's IR page has it. Zero asymmetry in the disclosure itself. The one non-public wrinkle is that backlog is given as a percentage only, no dollar figure — but that opacity cuts both ways: it stops *you* sizing it too. It is a modeling nuisance, not an edge.
+
+**(b) Q1 revenue beat +14.75% — PRICED.** This is the most damning point against a WATCH. The street was already surprised once, in public, and had a full quarter to re-baseline. A beat that has already printed is history, not asymmetry. The only live question is whether Q2 (Aug 5) beats *again*, and a backlog-signal system has no differentiated read on that versus the sell-side that just re-modeled off Q1.
+
+**(c) Coverage void (3–6 analysts) — DECAYING, and this is the key point.** The thin-coverage thesis requires the void to *persist*. It is not persisting: Baird and KeyBanc initiated March/April 2026. Coverage is expanding right now — the inefficiency is being competed away in real time. You are not early to a coverage void; you are arriving as it closes. A void two banks just filled is not a moat.
+
+**(d) Miscategorized as specialty metals, not semiconductor — STRUCTURAL, the one durable leg.** Electronic Materials has direct WFE-supply-chain exposure, but the ticker sits in industrials/specialty-metals fund buckets, so semiconductor- and AI-thematic flows structurally bypass it. Unlike coverage, this does not close when an analyst writes a note — only on re-rating/re-classification, which is slow. This is the real reason MTRN isn't simply priced like a WFE name.
+
+**Net read:** Three of four legs are public or decaying. The single structural leg is real but *slow* — it does not convert on the Aug 5 catalyst, and a backlog-signal system is the wrong instrument to harvest a fund-flow-classification arbitrage. Compounding the skepticism: semiconductor order rate is only +10% YoY against pure-plays' 30–50%, so MTRN is not even a clean WFE proxy — it is a diversified specialty-materials company with a semi *sleeve* plus a defense growth *option* (RFQ-to-contract lag 3–6 months, unconverted). That is "a good company in a good cycle the market already knows about," plus one narrow structural discount. CANDIDATE, not WATCH. It does not clear the bar for deep diligence today.
+
+## 2. Pipeline depletion — where we are in the discovery cycle
+
+The Run 6 shape is the story: **15 scouted → 13 gate-killed → 1 forensic → 0 clean signals.** Read the *reasons*, not the count:
+
+- **Price kills** (AXTI +5,100%; priors ASYS +572%, ICHR +323%, COHU +213%, UCTT +230%): names the market already discovered and bid up. The signal was real and is now *in the price*. The discovery cycle working against us.
+- **Market-cap kills** (AMAT, LRCX, KLAC, AEIS, MKSI, ENTG, TER, ACMR, AXTI all >$4B): several re-rated *through* the $4B ceiling this cycle. The cap gate fires more often because the market already re-rated the obvious WFE beneficiaries — the gate isn't stricter, the universe inflated past it.
+- **Coverage/multiple borderline kills** (WOLF, ROG, NOVT): the "almost" names now fail because the void is already gone.
+
+The macro file calls the cycle "broad-based and well-telegraphed," large-caps "extensively covered and priced," sell-side "universally bullish." A well-telegraphed cycle in later innings (DRAM/HBM peak ~Q1 2027) is definitionally a hard place to find unpriced information. Runs 1–5 skimmed the accessible asymmetry (KLIC, ELMT, SHMD were the genuine finds; ASYS/ICHR/COHU the too-late ones). Run 6 returning one soft candidate after 15 kills is not noise — it is the signature of a maturing discovery cycle.
+
+**Is the edge shrinking? Yes** — not to zero, but the easy plays are mined out. Residual edge is migrating to (i) structural inefficiencies that don't self-correct (miscategorization, fund-flow bypass) and (ii) genuinely off-screen names below where the pipeline currently fishes. Re-scouting $1–4B semi-equipment names will keep returning cap kills and priced-in beats. The screen needs to move, not the gate.
+
+## 3. What would upgrade MTRN to WATCH — specific conditions
+
+Not "better fundamentals." These specific events, in priority order:
+
+1. **Aug 5 Q2 prints AND the 10-Q discloses a dollar backlog figure.** A hard $ number (enough to compute backlog/quarterly-revenue coverage) removes the opacity that makes today's signal un-sizable. Percentage-only stays PASS-level; a dollar figure is diligence-able.
+2. **Q2 beats consensus a *second* consecutive time AND FY2026 EPS guide raised to ≥$6.50.** Converts "surprised once" into a re-rating trend the miscategorization discount hasn't caught up to.
+3. **A named defense contract award converts the $300M+ RFQ pipeline** — a firm booking materially above the Q1 $60M defense number, disclosed as contract not RFQ. De-risks the option that is currently just pipeline.
+4. **Coverage stays ≤6 analysts *through* the Aug print despite a second beat.** Counterintuitive but decisive: if the void persists after two public beats, the miscategorization discount is proven *durable*. If coverage jumps to 8–10, the last real leg is gone → PASS.
+5. **Electronic Materials holds ≥28% EBITDA margin AND semi order rate accelerates from +10% toward ≥20% YoY** — the semi sleeve starts behaving like an actual WFE beneficiary.
+
+Trigger to WATCH on **#1 + (#2 or #3)**. Anything less holds at CANDIDATE. Loss of #4 is an automatic downgrade to PASS.
+
+## 4. Run 7 focus — where unpriced information still is
+
+The Run 6 kill pattern tells you where *not* to look and, by inversion, where to. Stop re-scouting $1–4B pure-play semi-equipment names — that cohort returns cap kills and public beats. Redirect Run 7 to:
+
+- **Sub-$500M caps where supply-chain demand precedes revenue recognition** (macro point d) — the cohort the current screen underweights; push the scout floor down before it drifts into the $1–4B cap-kill band.
+- **Miscategorized dual-exposure names — the MTRN pattern done right.** Specialty-materials / industrials / defense-bucketed names with real WFE or advanced-packaging exposure that thematic flows bypass, but where the miscategorization leg is *paired with a still-open coverage void* (≤4 analysts, no recent initiations) so the edge isn't already decaying.
+- **Advanced-packaging / HBM sub-tier suppliers** — macro names these the fastest-growing WFE segments for several years. The obvious HBM names are >$4B; the unpriced layer is sub-suppliers of test, handling, thermal, and interconnect for advanced packaging not tagged "HBM."
+- **BTB >1.20, sub-$500M cap cohort** (macro target cohort) — cleanest remaining quantitative screen.
+- **Fresh IPOs (<~12 months) with one-time accounting distortions** (macro point c) — RPO/deferred-revenue or purchase-accounting noise creating false negatives, the ASC-606/RPO trap MTRN illustrates, on a name with no coverage at all.
+- **Filter up front: China exposure <20% revenue; exclude anything already >+200% trailing-12-month** so scout capacity isn't spent on names the gate will kill anyway.
+
+Meta-point: five consecutive heavy-kill runs mean the pipeline is fishing a pool the market has already worked. Run 7's yield depends on moving *down* in market cap and *sideways* into miscategorized/uncovered buckets — not on running the same semi-equipment screen a seventh time.
+
+## Decision log — Run 6
+
+| Company | Decision | One-line reason |
+|---|---|---|
+| MTRN | **CANDIDATE** (hold) | Real record-backlog signal; beat already public, coverage closing, semi sleeve lags — only miscategorization is structural, and it's slow. Not diligence-ready. |
+
+Prior WATCH (KLIC, ELMT, SHMD), CANDIDATE (FORM), MONITOR (INTT), and price-kills (ASYS, ICHR, COHU, UCTT) remain on 45-day cooldown; not re-assessed this run.
