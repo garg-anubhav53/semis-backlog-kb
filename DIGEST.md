@@ -1,70 +1,76 @@
 # Semiconductor Backlog KB — Digest
 
-## Validated WATCH List (post-price-screen, all-time)
+## Doctrine: Institutional Exclusion Zone
 
-| Rank | Ticker | Company | Score | Verdict | Date | Key Signal |
-|------|--------|---------|-------|---------|------|------------|
-| 1 | KLIC | Kulicke & Soffa Industries | 70 | WATCH | 2026-07-13 | GM inflected 24.9%→49.4%; TCB capacity expanding to $400M; ASE record $8.5B capex corroborates; Q3 guided $310M (+28% seq) |
-| 2 | ELMT | The Elmet Group Co. | 69 | WATCH | 2026-07-13 | Record $113.3M backlog (+52% YoY); B2B 1.30x; 95% converts FY2026; IPO G&A distortion masking true EPS; Lockheed/Raytheon/P&W customers |
-| 3 | SHMD | SCHMID Group N.V. | 72 | WATCH | 2026-07-13 | €97M order book covers FY2026 guidance 1.56x; foreign-issuer coverage void; 6-day-old €37M order; Q2 guidance update imminent (July 14) |
-| 4 | XPP | XP Power plc | — | WATCH | 2026-07-13 | P/S ~1.7–2.1x in asymmetry zone; 6 analysts with underwater consensus targets; £16.4M cash-backed GAAP contract liability; £115.8M order book (1.53x BTB) pre-commits H1 revenue; durable UK-industrial mislabel shields from WFE screens; 4 Aug H1 catalyst |
-| 5 | HURC | Hurco Companies Inc. | 65 | WATCH | 2026-07-13 | BTB 1.29x; orders +41% YoY; 0.6x P/Sales; 1-2 analysts; semi narrative unconfirmed but microstructure asymmetry clear |
-| 6 | FROHF | Ferrotec Holdings | — | WATCH | 2026-07-13 | GICS 4520 exclusion + 2 analysts + fiscal-year stub masks real WFE-consumable operating leverage; ¥350B 9-month guidance pending primary-file verification; EV/Sales ~1.43x; signal fidelity: high (conditional) |
+**The edge is not better information. It is finding real signals in names institutions are structurally excluded from owning.**
 
-## MONITOR / CANDIDATE List
+A fund managing $1B+ needs a minimum position of ~$5-10M to matter. A $60M market cap stock trading $400K/day cannot absorb that without the fund moving the market against itself, breaching liquidity rules, or triggering 5%+ ownership disclosure requirements. No amount of AI-powered research closes this gap — they literally cannot act even when they find the signal.
 
-| Ticker | Company | Score | Verdict | Date | Note |
-|--------|---------|-------|---------|------|------|
-| INTT | inTEST Corporation | 54 | MONITOR | 2026-07-13 | B2B declined to 0.94x; needs Q2 order rebound ≥$34M to upgrade |
-| FORM | FormFactor Inc. | 68 | CANDIDATE | 2026-07-13 | 2026 capacity fully booked; 2027 Farmers Branch ramp not yet modeled; EV/Sales ~1.5x; post-earnings dip re-entry point |
-| MTRN | Materion Corporation | medium | CANDIDATE | 2026-07-13 | August 5 Q2 earnings; second beat + dollar backlog figure upgrades to WATCH |
-| RELL | Richardson Electronics Ltd. | medium-high | CANDIDATE | 2026-07-13 | Q4 earnings July 29: PMT BTB 1.28x implied, $151.2M backlog (2.72x revenue); SIC 5065 bypass real but 3 of 4 asymmetry legs weak; upgrade if PMT re-accelerates to ~+20% YoY on July 29 print |
-| TPLKF | PVA TePla AG | — | CANDIDATE | 2026-07-13 | EV/Sales ~3.4x above preference zone; 8 analysts, premium multiple; €121.6M Q1 order intake (+164% YoY, ~2.2x BTB) but already captured by HBM consensus; 2027-delivery timing gap + Q1 EBITDA collapse (2.5% vs 13.9% prior); 6 Aug H1 catalyst requires Q2 orders ≥50% Q1 AND margin recovery to upgrade |
-| IQEPF | IQE plc | — | CANDIDATE | 2026-07-13 | Tower SEMI multi-year InP deal + MACOM £30M strategic investment; AIM listing + 3 active analysts; InP inflection likely 2027; strategic review overhang cleared 6 weeks ago; signal fidelity: medium |
+An individual can buy 1,000 shares with zero market impact.
 
-## Price-Screen Kills (>+80% 12-month return — thesis already priced in) & Analytic Kills (asymmetry void)
+**Screen criteria for the exclusion zone (all required):**
+- Market cap: $20M–$150M
+- Average daily dollar volume: <$2M
+- Sell-side analysts: 0–2
+- Must be in semiconductor supply chain (equipment, materials, components, chemicals, subsystems)
+- Active SEC or foreign filer (10-Q/20-F within last 90 days)
 
-| Ticker | Company | Est. 12-Mo Return | Score When Analyzed | Note |
-|--------|---------|-------------------|---------------------|------|
-| ASYS | Amtech Systems | +572% | 75 | Strongest signal found; market got there first |
-| ICHR | Ichor Holdings | +323% | 78 | GM inflection real; already captured in price |
-| COHU | Cohu, Inc. | +213% | 75 | AI compute orders +211% YoY; already priced |
-| UCTT | Ultra Clean Holdings | ~+230% | n/a | Eliminated at scout stage |
-| AEHR | Aehr Test Systems | unclear/binary | — | 4-6 analysts, already labeled AI play; imminent Q4 FY2026 earnings (0-4 weeks); binary print, not structural asymmetry |
-| PSK | PSK Inc. | +473% | — | KOSDAQ semi-equipment OEM; fully priced in |
-| JUSUNG | Jusung Engineering | +773.7% | — | KOSDAQ semi-equipment OEM; euphoric move; thesis priced in |
-| EUGENE | Eugene Technology | +136.22% | — | KOSDAQ display-equipment related; priced in |
-| WONIK | Wonik IPS | +143.9% | — | KOSDAQ memory-related capex; priced in |
-| TES | TES Co. Ltd | ~+80% | — | KOSDAQ semiconductor-related; co-moved with complex surge |
-
-## Analytic Kills (fundamental issues, Run 9)
-
-| Ticker | Company | Reason |
-|--------|---------|--------|
-| LEENO | Leeno Industrial | Market cap >$4B estimated; CAP KILL |
-| AIXTRON | Aixtron SE | Forward P/E 67.4x, multi-analyst European coverage; VALUATION + COVERAGE KILL |
-| XFAB | X-FAB Silicon Foundries | BTB ~0.87, backlog declining, no order signal; NO SIGNAL |
-| VSH | Vishay Intertechnology | 10 sell-side analysts; COVERAGE KILL (>4 analyst threshold) |
+**Additional structural advantages to look for:**
+- GICS/SIC miscategorization (industrial, specialty chemicals, defense) → bypassed by semiconductor fund screens
+- Foreign listing (TSE, AIM, Euronext, KOSDAQ) with sparse English-language coverage
+- Fresh IPO or SPAC listing with accounting distortions masking true earnings
+- Sub-$150M recipient of CHIPS Act, DoD contract, or SBIR Phase II award
 
 ---
 
-## Macro Observations (accumulated across 10 runs)
+## Current WATCH List (institutionally excluded, signal verified)
 
-1. **AI packaging is idiosyncratic, not a broad WFE recovery.** Axcelis BTB at 0.64x while ASYS AI thermal BTB at 1.09x — demand is structural AI OSAT capex, not cyclical. More durable signal.
-2. **The price screen eliminates most obvious names.** All strongest backlog signals (ASYS, ICHR, COHU, UCTT) were already up 200-572%. Future runs must valuation-gate candidates BEFORE forensic work.
-3. **Best remaining asymmetry:** (a) fresh IPOs with one-time accounting distortions (ELMT), (b) niche sub-systems not yet labeled AI plays (KLIC TCB), (c) names below sell-side coverage thresholds with cheap entry multiples.
-4. **Gate-all-around node transitions add ~30% more process steps per chip** — structural content-per-tool tailwind beyond cyclical WFE unit recovery.
-5. **Run 5 convergence:** SHMD shows genuine structural asymmetry (foreign-issuer coverage void with fresh €37M order, 6-day-old signal); FORM downgraded to CANDIDATE (2027 ramp not yet in models, re-entry on post-earnings dip); VECO killed by pending ACLS M&A. Meta-insight: edge comes from microstructure/optics (new listings, unlabeled subsystems) not demand insight. Three surviving archetypes: foreign-issuer voids, fresh-IPO accounting distortions, unlabeled subsystem reclassification.
-6. **Run 6 convergence:** MTRN has a real record-backlog signal (defense $60M Q1 bookings, Electronic Materials EBITDA 2x YoY) but three of four asymmetry legs are public or decaying. The only durable leg — specialty-metals miscategorization causing WFE fund-flow bypass — is too slow for a 23-day binary event. Edge is shrinking: 15 scouted → 13 gate-killed → 1 soft CANDIDATE. Pipeline must move down-cap (sub-$500M) and sideways into miscategorized/uncovered buckets. AXTI and ACMR both permanently killed (priced in).
-7. **Run 7 convergence:** AEHR killed — 4-6 analysts, already labeled AI play, imminent Q4 earnings binary (0-4 weeks) is a coin-flip trade, not structural asymmetry. HURC WATCH on valuation/microstructure only; semiconductor narrative speculative and unconfirmed. CYBE and IVAC both acquired (removed from pipeline). Run 8 screen: non-semiconductor-labeled names trading <1x P/Sales, sub-$300M, ≤2 analysts, confirmed BTB >1.20.
-8. **#8 — Run 8 convergence:** RELL (Richardson Electronics) CANDIDATE. Universe sub-$300M ex-skip-list down to near-zero genuinely novel names. SIC classification bypass is real but PMT growing at half the WFE cycle rate (+9.7% vs +21.4%) marks it as a WFE-sleeve distributor not a pure-play. July 29 Q4 earnings is the forcing event: upgrade to WATCH if PMT/EDG semiconductor wafer fab revenue accelerates and backlog reaches $155-160M. Gate-kill count this run: 4 of 6 candidates killed. The universe exhaustion is itself the signal — Run 9 must go cross-listed/OTC or international.
-9. **#9 — Run 9 convergence:** KOSDAQ semiconductor-equipment OEM names already up 100-770%; asymmetry retreated to materials/components suppliers (GICS-miscategorized) and non-US-listed names below sell-side radar. FROHF (Japan GICS industrial, 2 analysts, fiscal-year stub) and IQEPF (AIM-listed, 3 analysts) sole survivors; 9 of 11 gate-killed. Universe largely exhausted at screenable OEM layer; Run 10 should focus sub-$200M, Japanese/EU materials suppliers, primary-document-accessible foreign filings. Edge remains but requires labor-intensive foreign-filing work; real signal but lower-conviction than early runs.
-10. **#10 — Run 10 convergence:** Scout moved from OEM pool into mislabeled-supplier corner (UK-industrial buckets, European industrial classifications); produced clearest coverage-void long in several runs. XPP (UK-industrial classification void, 6 analysts underwater consensus, £16.4M cash-backed prepayment, sub-2x P/S) upgraded to high-conviction WATCH on forensic readability; TPLKF (8-analyst HBM name, 3.4x EV/Sales, +164% order signal already captured by consensus, Q1 EBITDA miss ambiguous) held at CANDIDATE. Gate kills: 5 eliminated before forensics (FROHF cooldown + 4 coverage kills: Comet 10 analysts, Stella Chemifa 7 analysts, Sumitomo Bakelite 21 analysts, Osaka Titanium 8 analysts + declining revenue). Pattern holds: edge migrating to non-OEM miscategorized names; louder signals on well-covered HBM remain contested; timing window tightening toward DRAM/HBM peak Q1 2027.
+| Ticker | Company | Verdict | Date | Mkt Cap | Daily Vol | Analysts | Why Excluded | Key Signal |
+|--------|---------|---------|------|---------|-----------|----------|--------------|------------|
+| XPP | XP Power plc | WATCH | 2026-07-13 | ~£200M | thin | 6 (underwater) | UK-industrial mislabel; not in WFE screens | £115.8M order book (1.53x BTB); £16.4M cash-backed contract liabilities; 4 Aug H1 catalyst |
+| SHMD | SCHMID Group N.V. | WATCH | 2026-07-13 | ~$150-350M | thin | ~2 | Foreign-issuer coverage void; recent listing | €97M order book 1.56x covers FY2026; 6-day-old €37M order at time of analysis |
+| FROHF | Ferrotec Holdings | WATCH | 2026-07-13 | small | thin | 2 | GICS 4520 mislabel; fiscal-year stub; Japan-listed | ¥350B 9-month guidance; EV/Sales ~1.43x; WFE-consumable operating leverage |
+| HURC | Hurco Companies Inc. | WATCH | 2026-07-13 | ~$150M | thin | 1-2 | Near-zero coverage; below institutional mandate | 1.29x BTB; orders +41% YoY; 0.6x P/Sales; semiconductor narrative unconfirmed but microstructure asymmetry real |
+| ELMT | The Elmet Group Co. | WATCH | 2026-07-13 | ~$500M | thin | ~2 | Fresh IPO April 2026; accounting distortion | Record $113.3M backlog (+52% YoY); B2B 1.30x; IPO G&A one-time masking true EPS |
 
-## Scout Pipeline (next runs — apply valuation gate first)
+## CANDIDATE List (signal present, asymmetry weaker)
 
-Run 10+ targets: sub-$200M market cap floor, Japanese/European materials and consumables suppliers (not OEMs), foreign-issuer filings (TSE, Euronext, LSE AIM), explicitly prioritize foreign-language documents and non-GICS-4520-listed names. KOSDAQ/TSX/OTC micro-caps (<$100M) with WFE-consumable exposure and <2 analysts. Previous KOSDAQ leads exhausted by July 2026; move to materials layer.
+| Ticker | Company | Verdict | Date | Note |
+|--------|---------|---------|------|------|
+| FORM | FormFactor Inc. | CANDIDATE | 2026-07-13 | 2026 fully booked; 2027 ramp not in models; EV/Sales ~1.5x; post-earnings dip re-entry |
+| MTRN | Materion Corporation | CANDIDATE | 2026-07-13 | Record backlog; defense bookings; specialty-metals mislabel; Aug 5 Q2 binary |
+| RELL | Richardson Electronics | CANDIDATE | 2026-07-13 | BTB ~1.28x implied; SIC 5065 bypass real; July 29 Q4 forcing event |
+| TPLKF | PVA TePla AG | CANDIDATE | 2026-07-13 | €121.6M Q1 orders (+164% YoY) but 8 analysts, 3.4x EV/Sales — asymmetry thin |
+| IQEPF | IQE plc | CANDIDATE | 2026-07-13 | Tower SEMI InP deal + MACOM £30M investment; AIM-listed, 3 analysts; inflection 2027 |
+| INTT | inTEST Corporation | MONITOR | 2026-07-13 | B2B declined to 0.94x; needs Q2 order rebound ≥$34M to upgrade |
+
+## Price-Screen / Asymmetry-Void Kills
+
+| Ticker | Reason |
+|--------|--------|
+| ASYS | +572% 12-mo; strongest signal found but fully priced |
+| ICHR | +323% 12-mo; GM inflection real but captured |
+| COHU | +213% 12-mo; AI compute orders confirmed; captured |
+| UCTT | ~+230% 12-mo; eliminated at scout |
+| KLIC | 12+ analysts; well-covered at $2B; coverage void gone |
+| PSK / JUSUNG / EUGENE / WONIK / TES | KOSDAQ names up 100-770%; euphoric moves |
+| LEENO | Market cap >$4B; cap kill |
+| AIXTRON | 67x forward P/E; multi-analyst European coverage |
+| XFAB | BTB ~0.87; declining backlog; no signal |
+| VSH | 10 analysts; coverage kill |
+| AEHR | 4-6 analysts; already labeled AI play; binary earnings trade |
 
 ---
 
-*Last consolidated: 2026-07-13 — Run 10 complete (XPP WATCH, TPLKF CANDIDATE); 5 gate-kills (FROHF 45-day cooldown, Comet Group 10 analysts, Stella Chemifa 7 analysts, Sumitomo Bakelite 21 analysts, Osaka Titanium 8 analysts); next focus sub-$300M materials/components/consumer-electronics suppliers not classified WFE; watch for 4 Aug XPP catalyst and 6 Aug TPLKF H1 print.*
+## Accumulated Macro Observations
+
+1. **The edge migrates toward miscategorization, not better demand insight.** Every strong demand signal (ASYS, ICHR, COHU) was already priced. The surviving WATCHes (XPP, SHMD, FROHF) are there because classification voids kept them off institutional radar — not because the demand signal was hidden.
+2. **Foreign listings create durable information gaps.** Japanese/AIM/Euronext companies with US OTC listings have thin English-language coverage, disclosure timing gaps, and settlement friction that slows institutional accumulation even after signals are visible.
+3. **SBIR Phase II + CHIPS Act awards create a 3-9 month re-rating lag.** Government contract databases (USASpending.gov, SBIR.gov, NIST CHIPS tracker) are free, rarely screened, and produce genuinely uncovered names.
+4. **Analyst initiation is itself the re-rating catalyst.** The structural edge is being in BEFORE initiation. Once even one analyst initiates, the price re-rates toward the DCF. The bet is on a name graduating out of the exclusion zone.
+5. **Gate-all-around transitions add ~30% more process steps per chip** — structural content-per-tool tailwind beyond cyclical WFE unit recovery.
+6. **Universe exhaustion is the signal to go deeper/sideways.** When 13 of 15 candidates fail the gate in a single run, it means the layer being screened is played out — move down-cap or into non-OEM materials/consumables.
+
+---
+
+*Doctrine formalized: 2026-07-13 — 10 runs completed; 5 institutional-exclusion-zone WATCHes active; next runs source from Finviz Nano/Micro + EDGAR SIC + SBIR Phase II + OTC Markets.*
