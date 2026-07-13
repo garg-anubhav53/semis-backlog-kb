@@ -26,4 +26,8 @@
 | NOVT | 2026-07-13 | 7-10 analysts + EV/Sales ~3.2x + $2.5-3B cap; no coverage void; not a fit |
 | AEHR | 2026-07-13 | 4-6 analysts, already labeled AI play, imminent Q4 earnings binary — not structural asymmetry |
 | IVAC | 2026-07-13 | Acquired by Seagate Technology Holdings (2025), no longer a public filer |
+| PDFS | 2026-07-13 | EV/Sales ~4-6x fails valuation gate |
+| FVPLF/VNP.TO | 2026-07-13 | 4-6 analysts, no BTB confirmed, fails Run 8 screen |
+| IEC | 2026-07-13 | No semiconductor/BTB signal confirmed |
+| CPSH | 2026-07-13 | Cap below $100M floor, no BTB confirmed |
 | AMAT/LRCX/KLAC/AEIS/MKSI/ENTG/TER | 2026-07-13 | All >$4B market cap (EDGAR EFTS Scout B returns large-caps only; keyword search skews toward large disclosing companies) |

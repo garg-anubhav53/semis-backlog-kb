@@ -148,3 +148,20 @@ Meta-point: five consecutive heavy-kill runs mean the pipeline is fishing a pool
 | MTRN | **CANDIDATE** (hold) | Real record-backlog signal; beat already public, coverage closing, semi sleeve lags — only miscategorization is structural, and it's slow. Not diligence-ready. |
 
 Prior WATCH (KLIC, ELMT, SHMD), CANDIDATE (FORM), MONITOR (INTT), and price-kills (ASYS, ICHR, COHU, UCTT) remain on 45-day cooldown; not re-assessed this run.
+
+---
+---
+
+## Run 8 Synthesis — 2026-07-13
+
+**RELL (Richardson Electronics) — CANDIDATE.** One name cleared the gate; four were correctly gate-killed (PDFS on 4–6x EV/Sales, FVPLF on 4–6 analysts and no BTB, IEC on unconfirmed BTB, CPSH sub-$100M). RELL is the only live signal, and it is a real one — but the asymmetry does not survive the four tests the brief asks it to pass.
+
+**The backlog is not information the market lacks.** $151.2M backlog (2.72x quarterly revenue, implied BTB 1.28x, GES +39% YoY) is real and mechanically supported. It is also disclosed — it sits in the filings anyone on RELL's IR page can read. In a $140–150B, +21.4%-YoY, 14/14-bulls WFE cycle, a public backlog on a name the sell-side ignores is not asymmetry; it is data the Street has chosen not to model because RELL is not a WFE proxy. The tell is in the numbers: PMT is +9.7% YoY against WFE consensus +21.4%. A genuine wafer-fab beneficiary tracks the cycle. Growing at half the cycle rate says RELL is a diversified distributor with a semiconductor *sleeve* — the MTRN shape, not the KLIC shape.
+
+**SIC 5065 is a real fund-flow bypass — but the classification is arguably correct, not a mislabel.** Yes, the electronic-distribution code excludes RELL from SOXX/SMH/XSD, and passive/thematic flows structurally skip it. That is the one durable, non-self-correcting leg (it re-rates only on re-classification, which is slow). But EDG is a sub-supplier embedding tubes into other people's tools — RELL genuinely *is* a distributor, not a covert OEM. The "invisibility" is accurate labeling, not market error. A discount for being what you are is not a mispricing.
+
+**The stale $14 PT runs the wrong way.** Price at $16.61 sits 18.6% *above* the sole Northland target. That is the market having already passed the analyst — the crowd re-rated ahead of stale coverage. Neglect would look like price below a stale PT; price above it means the information is already in the tape, not hiding from it. This leg argues *against* asymmetry.
+
+**Four-layer invisibility collapses to one-and-a-half layers.** Layers 1 and 4 are the same point (classification); layer 3 (analyst) works against the thesis; layer 2 (embedded tubes) is real but small. The durable edge is a single slow fund-flow discount on a diluted semi sleeve — not a stack.
+
+**Verdict: CANDIDATE.** Real signal, unclear edge. Not PASS — the SIC-5065 bypass is structural and a July 29 catalyst is live. Not WATCH — the WFE-proxy quality is too diluted (growth at half the cycle) and three of four asymmetry legs fail on scrutiny. *Upgrades to WATCH only if* the July 29 Q4 print shows PMT/EDG re-accelerating toward the WFE +21.4% rate (proving it is a real beneficiary, not a laggard), backlog reaches $155–160M with FY2027 guidance explicitly naming wafer-fab EDG/PMT growth, and deposit-backing rises materially above the current 2.9% cash-secured. Absent PMT convergence on the cycle rate, it holds at CANDIDATE.

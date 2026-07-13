@@ -14,3 +14,4 @@
 | UCTT | Ultra Clean Holdings | n/a | PRICE_KILL | 2026-07-13 | ~+230% 12-mo; eliminated at scout stage |
 | AEHR | Aehr Test Systems | — | PASS | 2026-07-13 | $38.7M backlog, 3.5x BTB, real but 4-6 analysts already labeled as AI; Q4 FY2026 earnings binary (0-4 weeks); not structural asymmetry |
 | HURC | Hurco Companies Inc. | 65 | WATCH | 2026-07-13 | 1-2 analysts genuine coverage void; 1.29x BTB, orders +41% YoY, 0.6x P/Sales far below 2x asymmetry-zone floor; Q3 FY2026 earnings ~September 2026; semi narrative unconfirmed and valued at zero |
+| RELL | Richardson Electronics Ltd. | medium-high | CANDIDATE | 2026-07-13 | BTB ~1.28x implied; $151.2M backlog 2.72x revenue; SIC 5065 bypass real but PMT +9.7% at half WFE rate; July 29 earnings forcing event |
