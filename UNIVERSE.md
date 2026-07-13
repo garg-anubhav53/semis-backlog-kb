@@ -16,11 +16,11 @@ Moat: MONOPOLY | DUOPOLY | QUALIFIED (requalification >12mo) | COMPETING | COMMO
 
 | Ticker | Company | SIC / GICS | Excl. Reason | Date Added | Last Analyzed | Status | Moat |
 |--------|---------|-----------|--------------|------------|---------------|--------|------|
-| XPP | XP Power plc | UK-industrial mislabel | GICS void; thin English coverage | 2026-07-13 | 2026-07-13 | WATCH | UNKNOWN |
-| SHMD | SCHMID Group N.V. | Recent foreign listing | Coverage void; new listing | 2026-07-13 | 2026-07-13 | WATCH | UNKNOWN |
-| FROHF | Ferrotec Holdings | GICS 4520 mislabel | Japan-listed; fiscal stub; industrial label | 2026-07-13 | 2026-07-13 | WATCH | UNKNOWN |
-| HURC | Hurco Companies Inc. | 3599 industrial mach | Near-zero coverage; below mandate | 2026-07-13 | 2026-07-13 | WATCH | UNKNOWN |
-| ELMT | The Elmet Group Co. | 3356 metals | Fresh IPO; one-time G&A distortion | 2026-07-13 | 2026-07-13 | WATCH | UNKNOWN |
+| XPP | XP Power plc | UK-industrial mislabel | GICS void; thin English coverage | 2026-07-13 | 2026-07-13 | WATCH_ASYMMETRY_SPENT | QUALIFIED |
+| SHMD | SCHMID Group N.V. | Recent foreign listing | Coverage void; new listing | 2026-07-13 | 2026-07-13 | TRIAGE_KILL | COMPETING |
+| FROHF | Ferrotec Holdings | GICS 4520 mislabel | Japan-listed; fiscal stub; industrial label | 2026-07-13 | 2026-07-14 | OVERSIZED | MONOPOLY |
+| HURC | Hurco Companies Inc. | 3599 industrial mach | Near-zero coverage; below mandate | 2026-07-13 | 2026-07-14 | SECTOR_KILL | COMPETING |
+| ELMT | The Elmet Group Co. | 3356 metals | Fresh IPO; one-time G&A distortion | 2026-07-13 | 2026-07-14 | WATCH | MONOPOLY |
 | SCIA | SCI Engineered Materials Inc. | 2820 OTC specialty materials | OTC; ~$30M cap; 0 analysts; sputtering targets/PVD coatings for semi | 2026-07-13 | 2026-07-13 | WATCH | UNKNOWN |
 | CVV | CVD Equipment Corporation | 3559 NASDAQ micro-cap | Nasdaq compliance warning; ~$27M cap; 0 analysts; CVD/ALD equip | 2026-07-13 | 2026-07-13 | CANDIDATE | UNKNOWN |
 | FORM | FormFactor Inc. | 3825 instruments | Moderate coverage; borderline cap | 2026-07-13 | 2026-07-13 | CANDIDATE | UNKNOWN |

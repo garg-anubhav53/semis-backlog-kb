@@ -1,62 +1,84 @@
 # Kill List
 
-## Price Screen Kills (>+80% 12-month return)
-| Ticker | Date | 12-Mo Return | Score | Reason |
-|--------|------|-------------|-------|--------|
-| ASYS | 2026-07-13 | +572% | 75 | Strong underlying signal but thesis fully priced; do not re-analyze until major drawdown |
-| ICHR | 2026-07-13 | +323% | 78 | Highest forensic score; GM inflection real; priced in |
-| COHU | 2026-07-13 | +213% | 75 | AI compute orders confirmed; priced in |
-| SMHN.DE | 2026-07-13 | +158.67% | n/a | Price-killed; thesis already captured |
-| UCTT | 2026-07-13 | ~+230% | n/a | Eliminated at scout stage |
-| AXTI | 2026-07-13 | +5,100% | n/a | Price-killed AND cap-killed ($4.1B); substrate revenue story fully priced; remove from pipeline |
-| ACMR | 2026-07-13 | +162% | n/a | Price-killed; shipment-vs-revenue deferred gap was the thesis but market got there |
-| CYBE | 2026-07-13 | n/a | n/a | Acquired by Nordson Corporation (2022), no longer a public filer |
-| PSK | 2026-07-13 | +473% | n/a | KOSDAQ semi-equipment OEM; thesis fully priced in |
-| JUSUNG | 2026-07-13 | +773.7% | n/a | KOSDAQ semi-equipment OEM; euphoric euphoria; thesis fully priced |
-| EUGENE | 2026-07-13 | +136.22% | n/a | KOSDAQ display/semi-adjacent equipment; thesis priced in |
-| WONIK | 2026-07-13 | +143.9% | n/a | KOSDAQ memory-related equipment; thesis priced in |
-| TES | 2026-07-13 | ~+80% | n/a | KOSDAQ semiconductor-related; co-moved with sector surge |
+## Triage Kills (failed pre-diligence gates — no signal research needed)
 
-## Analytic Kills (fundamental issues)
+| Ticker | Date | Kill Type | Reason |
+|--------|------|-----------|--------|
+| SHMD | 2026-07-14 | INTEGRITY KILL | Negative book equity (-€54.6M); active Nasdaq delisting compliance notice (unresolved); shares outstanding 43M→57.8M in months via converts/SEPA (serial dilution); €110M vs €67M revenue discrepancy unreconciled between press release and filings; Schmid family insider lending at discount terms to own public company |
+| HURC | 2026-07-14 | SECTOR KILL | False positive — no semiconductor angle in any 10-K or earnings call. Pure industrial CNC machine tool company. "Electronics" in end-market descriptions triggered screen incorrectly. Remove from semiconductor watchlist permanently. Note: real business, net cash $50M, buy zone $15-17 on industrial cyclical watchlist |
+| AKTS/AKTSQ | 2026-07-13 | INTEGRITY KILL | In or near bankruptcy; AKTSQ OTC suffix indicates post-default |
+| CVV | 2026-07-13 | NO SIGNAL | Zero new system orders Q1 2026; backlog -66% YoY to $4.7M; gross margin collapsed; no moat; SiC market deflation from Chinese supply |
+| HAYN | 2026-07-13 | DEAD KILL | Taken private by Acerinox S.A. November 2024; delisted |
+| IVAC | 2026-07-13 | DEAD KILL | Acquired by Seagate Technology Holdings 2025; no longer public filer |
+| EMKR | 2026-07-13 | DEAD KILL | Acquired by Charlesbank (Velocity One) March 2025; no longer independently traded |
+| TGAN | 2026-07-13 | DEAD KILL | Acquired by Renesas Electronics June 2024; no longer independently traded |
+| CYBE | 2026-07-13 | DEAD KILL | Acquired by Nordson Corporation 2022; no longer public filer |
+| NANX | 2026-07-13 | SECTOR KILL | Pivoted to personal care/beauty; no longer semiconductor supply chain |
+
+## Price Screen Kills (>+80% 12-month return — thesis already priced)
+
+| Ticker | Date | 12-Mo Return | Notes |
+|--------|------|-------------|-------|
+| AXTI | 2026-07-13 | +5,100% | Also cap kill ($4.1B); substrate story fully priced |
+| JUSUNG | 2026-07-13 | +773.7% | KOSDAQ semi-equipment; euphoric move |
+| PSK | 2026-07-13 | +473% | KOSDAQ semi-equipment OEM |
+| ASYS | 2026-07-13 | +572% | BTB >1.0x signal was real; market got there first |
+| ICHR | 2026-07-13 | +323% | GM inflection was real; priced in |
+| UCTT | 2026-07-13 | ~+230% | Eliminated at scout stage |
+| GSIT | 2026-07-13 | +219% | Also cap kill ($261M) |
+| COHU | 2026-07-13 | +213% | AI compute orders confirmed; priced in |
+| ACMR | 2026-07-13 | +162% | Shipment-vs-revenue deferred gap was the thesis; market got there |
+| SMHN.DE | 2026-07-13 | +158.67% | Thesis captured |
+| WONIK | 2026-07-13 | +143.9% | KOSDAQ memory-related equipment |
+| EUGENE | 2026-07-13 | +136.22% | KOSDAQ display/semi-adjacent |
+| TES | 2026-07-13 | ~+80% | KOSDAQ semiconductor-related |
+
+## Cap Kills (market cap above $200M ceiling — graduated from exclusion zone)
+
+| Ticker | Date | Market Cap | Notes |
+|--------|------|-----------|-------|
+| FROHF | 2026-07-14 | ~$2.74B | Mislabeled as small cap; actually 18x our ceiling. Ferrofluidic feedthrough moat is genuine; EV/EBITDA ~9.4x vs. Entegris 15-20x. Track separately for size-agnostic watchlist |
+| LSRCY | 2026-07-13 | ~$27.4B | 180x ceiling; EUV mask inspection monopoly |
+| SCRCF | 2026-07-13 | ~$8-15B | 50-100x ceiling; SCREEN Holdings wafer cleaning |
+| UVACF | 2026-07-13 | ~$1.7B | 11x ceiling; Ulvac vacuum/CVD |
+| FEIM | 2026-07-13 | $747M | 5x ceiling; Frequency Electronics |
+| NVEC | 2026-07-13 | $474M | 3x ceiling; NVE Corporation spintronics |
+| MX | 2026-07-13 | ~$270M | Above ceiling; MagnaChip Semiconductor |
+
+## Coverage Kills (>4 sell-side analysts — coverage void eliminated)
+
+| Ticker | Date | Analyst Count | Notes |
+|--------|------|--------------|-------|
+| KLIC | 2026-07-13 | 12+ | Graduated — now well-covered; thesis priced |
+| VSH | 2026-07-13 | 10 | Vishay Intertechnology |
+| COMT/COTN.SW | 2026-07-13 | 10 | Comet Group AG |
+| OSTKF | 2026-07-13 | 8 | Osaka Titanium; also no signal |
+| 4203.T | 2026-07-13 | 21 | Sumitomo Bakelite |
+| SLAHF | 2026-07-13 | 7 | Stella Chemifa |
+| ROG | 2026-07-13 | 6-9 | Rogers Corporation |
+| NOVT | 2026-07-13 | 7-10 | Novanta |
+| WOLF | 2026-07-13 | 15-20 | Also valuation kill; Wolfspeed |
+| AEHR | 2026-07-13 | 4-6 | Also coverage kill; already labeled AI play |
+| PDFS | 2026-07-13 | 5+ | PDF Solutions; also valuation kill |
+| LIQT | 2026-07-13 | 5 | LiqTech International |
+| PXLW | 2026-07-13 | 3 | Pixelworks; borderline but over threshold |
+| FVPLF/VNP.TO | 2026-07-13 | 4-6 | IVFarma; no BTB confirmed either |
+| AIXTRON | 2026-07-13 | multi | Also 67.4x fwd P/E; valuation kill |
+| KCTCF | 2026-07-13 | — | Also cap kill; KC Tech ($1.35-1.4B USD) |
+| LEENO | 2026-07-13 | — | Also cap kill (>$4B); LEENO Industrial |
+
+## M&A / Structure Kills
+
 | Ticker | Date | Reason |
-| CVV | 2026-07-13 | Zero new system orders (Q1 2026 orders all spare parts); backlog -66% YoY to $4.7M (flat QoQ); SiC market deflation from Chinese wafer supply; gross margin collapsed 8%; no moat found; post-SDC divestiture restructuring; PASS |
 |--------|------|--------|
-| VECO | 2026-07-13 | M&A risk — ACLS acquisition pending; standalone thesis neutralized |
-| ACLS | — | Pending merger with VECO creates complexity; skip until resolved |
-| PLAB | — | Accounting investigation flagged; deprioritize |
-| CAMT | — | Market cap ~$6.65B exceeds $6B ceiling; borderline, skip |
-| ONTO | — | ~$4.5B market cap; too large for asymmetry thesis |
-| HAYN | 2026-07-13 | Taken private by Acerinox S.A., November 2024 — delisted; no public 10-Q since June 2024 |
-| WOLF | 2026-07-13 | EV/Sales ~4-6x (at/above kill threshold) + 15-20 analysts (no coverage void); special-situation post-bankruptcy equity |
-| ROG | 2026-07-13 | 6-9 analysts + no confirmed 90-day backlog signal in filings; analyst count fails coverage-void criterion |
-| NOVT | 2026-07-13 | 7-10 analysts + EV/Sales ~3.2x + $2.5-3B cap; no coverage void; not a fit |
-| AEHR | 2026-07-13 | 4-6 analysts, already labeled AI play, imminent Q4 earnings binary — not structural asymmetry |
-| IVAC | 2026-07-13 | Acquired by Seagate Technology Holdings (2025), no longer a public filer |
-| PDFS | 2026-07-13 | EV/Sales ~4-6x fails valuation gate |
-| FVPLF/VNP.TO | 2026-07-13 | 4-6 analysts, no BTB confirmed, fails Run 8 screen |
-| IEC | 2026-07-13 | No semiconductor/BTB signal confirmed |
-| CPSH | 2026-07-13 | Cap below $100M floor, no BTB confirmed |
-| LEENO | 2026-07-13 | KOSDAQ entry with estimated market cap >$4B; CAP KILL |
-| AIXTRON | 2026-07-13 | Forward P/E 67.4x + multi-analyst European coverage; VALUATION + COVERAGE KILL |
-| XFAB | 2026-07-13 | BTB ~0.87, backlog declining, no order signal; NO SIGNAL |
-| VSH | 2026-07-13 | 10 sell-side analysts covering; fails <4-analyst coverage-void threshold; COVERAGE KILL |
-| AMAT/LRCX/KLAC/AEIS/MKSI/ENTG/TER | 2026-07-13 | All >$4B market cap (EDGAR EFTS Scout B returns large-caps only; keyword search skews toward large disclosing companies) |
-| FROHF | 2026-07-13 | 45-day cooldown from Run 9 WATCH analysis (2026-07-13); do not re-analyze until 2026-08-27 |
-| COMT / COTN.SW | 2026-07-13 | Comet Group AG; 10 active analysts — exceeds <4-analyst coverage-void threshold; COVERAGE KILL |
-| SLAHF / 4109.T | 2026-07-13 | Stella Chemifa Corporation; 7 active analysts — exceeds <4-analyst coverage-void threshold; COVERAGE KILL |
-| 4203.T | 2026-07-13 | Sumitomo Bakelite Co. Ltd.; 21 sell-side analysts covering; far exceeds <4-analyst threshold; COVERAGE KILL |
-| OSTKF | 2026-07-13 | Osaka Titanium Technologies Co. Ltd.; 8 sell-side analysts; revenue declining -9.56% YoY; no backlog signal identified; NO SIGNAL + COVERAGE KILL |
-| LSRCY / 6920.T | 2026-07-13 | Lasertec Corporation; ~$27.4B market cap — 180x above $150M ceiling; CAP KILL |
-| UVACF / 6728.T | 2026-07-13 | Ulvac Inc; ~$1.7B market cap — 11x above $150M ceiling; CAP KILL |
-| SCRCF / 7735.T | 2026-07-13 | SCREEN Holdings Co. Ltd; ~$8-15B market cap — 50-100x above $150M ceiling; CAP KILL |
-| GSIT | 2026-07-13 | GSI Technology; $261M cap — above $150M ceiling; also +219% YoY; CAP + PRICE KILL |
-| FEIM | 2026-07-13 | Frequency Electronics; $747M cap — 5x above ceiling; CAP KILL |
-| EMKR | 2026-07-13 | EMCORE Corporation; acquired by Charlesbank (Velocity One) March 2025 — no longer publicly traded; ANALYTIC KILL |
-| MX | 2026-07-13 | MagnaChip Semiconductor; ~$270M cap — above $150M ceiling; +29% surge on AI server MOSFET news; CAP KILL |
-| AKTS / AKTSQ | 2026-07-13 | Akoustis Technologies; ~$1.06B cap reported; in or near bankruptcy (AKTSQ OTC suffix); CAP + ANALYTIC KILL |
-| TGAN | 2026-07-13 | Transphorm Inc; acquired by Renesas Electronics June 2024 — no longer independently traded; ANALYTIC KILL |
-| LIQT | 2026-07-13 | LiqTech International; cap ~$19-26M (borderline floor); 5 Wall Street analysts — exceeds ≤2 threshold; COVERAGE KILL |
-| NVEC | 2026-07-13 | NVE Corporation; $474M cap — well above $150M ceiling; CAP KILL |
-| PXLW | 2026-07-13 | Pixelworks Inc; $40M cap passes gate but 3 analysts — exceeds ≤2 threshold; COVERAGE KILL |
-| KCTCF | 2026-07-13 | KC Tech Co. Ltd; ~$1.35-1.4B USD cap (1.8T KRW) — 9-10x above ceiling; CAP KILL |
-| NANX | 2026-07-13 | Nanophase Technologies; pivoted to personal care/beauty; no longer semiconductor supply chain; SECTOR KILL |
+| VECO | 2026-07-13 | Pending ACLS acquisition; standalone thesis neutralized |
+| ACLS | — | Pending merger with VECO; skip until resolved |
+
+## Analytic Kills (fundamental screen)
+
+| Ticker | Date | Reason |
+|--------|------|--------|
+| XFAB | 2026-07-13 | BTB ~0.87, backlog declining; no order signal |
+| PLAB | — | Accounting investigation flagged |
+| CAMT | — | Market cap ~$6.65B exceeds ceiling |
+| ONTO | — | ~$4.5B market cap; too large |
