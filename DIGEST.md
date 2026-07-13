@@ -32,6 +32,7 @@ An individual can buy 1,000 shares with zero market impact.
 | FROHF | Ferrotec Holdings | WATCH | 2026-07-13 | small | thin | 2 | GICS 4520 mislabel; fiscal-year stub; Japan-listed | ¥350B 9-month guidance; EV/Sales ~1.43x; WFE-consumable operating leverage |
 | HURC | Hurco Companies Inc. | WATCH | 2026-07-13 | ~$150M | thin | 1-2 | Near-zero coverage; below institutional mandate | 1.29x BTB; orders +41% YoY; 0.6x P/Sales; semiconductor narrative unconfirmed but microstructure asymmetry real |
 | ELMT | The Elmet Group Co. | WATCH | 2026-07-13 | ~$500M | thin | ~2 | Fresh IPO April 2026; accounting distortion | Record $113.3M backlog (+52% YoY); B2B 1.30x; IPO G&A one-time masking true EPS |
+| SCIA | SCI Engineered Materials Inc. | WATCH | 2026-07-13 | $30.22M | ~$50-100K/day | 0 | OTCQB + GICS Specialty Chemicals mislabel + 0 analysts = triple exclusion | Backlog +173% QoQ to $7.1M; deposits +330% QoQ; revenue +133% YoY record; QUALIFIED moat; Q2 2026 catalyst |
 
 ## CANDIDATE List (signal present, asymmetry weaker)
 
@@ -48,6 +49,7 @@ An individual can buy 1,000 shares with zero market impact.
 
 | Ticker | Reason |
 |--------|--------|
+| CVV | Post-SDC-divestiture restructuring; zero system orders; SiC deflation; gross margin 8%; no moat |
 | ASYS | +572% 12-mo; strongest signal found but fully priced |
 | ICHR | +323% 12-mo; GM inflection real but captured |
 | COHU | +213% 12-mo; AI compute orders confirmed; captured |

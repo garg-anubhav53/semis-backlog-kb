@@ -19,6 +19,7 @@
 
 ## Analytic Kills (fundamental issues)
 | Ticker | Date | Reason |
+| CVV | 2026-07-13 | Zero new system orders (Q1 2026 orders all spare parts); backlog -66% YoY to $4.7M (flat QoQ); SiC market deflation from Chinese wafer supply; gross margin collapsed 8%; no moat found; post-SDC divestiture restructuring; PASS |
 |--------|------|--------|
 | VECO | 2026-07-13 | M&A risk — ACLS acquisition pending; standalone thesis neutralized |
 | ACLS | — | Pending merger with VECO creates complexity; skip until resolved |
@@ -45,3 +46,17 @@
 | SLAHF / 4109.T | 2026-07-13 | Stella Chemifa Corporation; 7 active analysts — exceeds <4-analyst coverage-void threshold; COVERAGE KILL |
 | 4203.T | 2026-07-13 | Sumitomo Bakelite Co. Ltd.; 21 sell-side analysts covering; far exceeds <4-analyst threshold; COVERAGE KILL |
 | OSTKF | 2026-07-13 | Osaka Titanium Technologies Co. Ltd.; 8 sell-side analysts; revenue declining -9.56% YoY; no backlog signal identified; NO SIGNAL + COVERAGE KILL |
+| LSRCY / 6920.T | 2026-07-13 | Lasertec Corporation; ~$27.4B market cap — 180x above $150M ceiling; CAP KILL |
+| UVACF / 6728.T | 2026-07-13 | Ulvac Inc; ~$1.7B market cap — 11x above $150M ceiling; CAP KILL |
+| SCRCF / 7735.T | 2026-07-13 | SCREEN Holdings Co. Ltd; ~$8-15B market cap — 50-100x above $150M ceiling; CAP KILL |
+| GSIT | 2026-07-13 | GSI Technology; $261M cap — above $150M ceiling; also +219% YoY; CAP + PRICE KILL |
+| FEIM | 2026-07-13 | Frequency Electronics; $747M cap — 5x above ceiling; CAP KILL |
+| EMKR | 2026-07-13 | EMCORE Corporation; acquired by Charlesbank (Velocity One) March 2025 — no longer publicly traded; ANALYTIC KILL |
+| MX | 2026-07-13 | MagnaChip Semiconductor; ~$270M cap — above $150M ceiling; +29% surge on AI server MOSFET news; CAP KILL |
+| AKTS / AKTSQ | 2026-07-13 | Akoustis Technologies; ~$1.06B cap reported; in or near bankruptcy (AKTSQ OTC suffix); CAP + ANALYTIC KILL |
+| TGAN | 2026-07-13 | Transphorm Inc; acquired by Renesas Electronics June 2024 — no longer independently traded; ANALYTIC KILL |
+| LIQT | 2026-07-13 | LiqTech International; cap ~$19-26M (borderline floor); 5 Wall Street analysts — exceeds ≤2 threshold; COVERAGE KILL |
+| NVEC | 2026-07-13 | NVE Corporation; $474M cap — well above $150M ceiling; CAP KILL |
+| PXLW | 2026-07-13 | Pixelworks Inc; $40M cap passes gate but 3 analysts — exceeds ≤2 threshold; COVERAGE KILL |
+| KCTCF | 2026-07-13 | KC Tech Co. Ltd; ~$1.35-1.4B USD cap (1.8T KRW) — 9-10x above ceiling; CAP KILL |
+| NANX | 2026-07-13 | Nanophase Technologies; pivoted to personal care/beauty; no longer semiconductor supply chain; SECTOR KILL |

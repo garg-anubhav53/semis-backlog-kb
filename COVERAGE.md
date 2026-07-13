@@ -1,9 +1,9 @@
 # Coverage Map
 
 ## Cursor
-Last run: 2026-07-13 (Run 10 complete)
-Run count: 10
-Total companies analyzed: 17 unique (KLIC, ELMT, INTT, ASYS, ICHR, COHU, UCTT at scout level + SHMD, FORM, MTRN, AEHR, HURC, RELL, FROHF, IQEPF, XPP, TPLKF)
+Last run: 2026-07-13 (Run 11 complete)
+Run count: 11
+Total companies analyzed: 19 unique (KLIC, ELMT, INTT, ASYS, ICHR, COHU, UCTT at scout level + SHMD, FORM, MTRN, AEHR, HURC, RELL, FROHF, IQEPF, XPP, TPLKF, SCIA, CVV)
 
 ## Analyzed
 | Ticker | Date | Verdict | Score | Notes |
@@ -24,6 +24,8 @@ Total companies analyzed: 17 unique (KLIC, ELMT, INTT, ASYS, ICHR, COHU, UCTT at
 | IQEPF | 2026-07-13 | CANDIDATE | — | Tower SEMI multi-year InP deal + MACOM £30M investment; AIM-listed; InP volume ramp deferred to 2027; strategic review cleared 6 weeks ago |
 | XPP | 2026-07-13 | WATCH | — | UK-industrial classification void; 6 analysts with underwater consensus; £16.4M cash-backed prepayment; £115.8M order book (1.53x BTB); 4 Aug H1 catalyst |
 | TPLKF | 2026-07-13 | CANDIDATE | — | 8-analyst HBM name; 3.4x EV/Sales above preference zone; €121.6M Q1 orders already in consensus; Q1 EBITDA miss ambiguous; 6 Aug H1 print resolves |
+| SCIA | 2026-07-13 | WATCH | — | OTCQB $30M; 0 analysts; Specialty Chemicals GICS; backlog +173% QoQ to $7.1M; deposits +330% QoQ to $3.56M; revenue +133% YoY; QUALIFIED moat (ISO 9001:2015, 5yr agreement, PVD qualification lock-in); Q2 2026 catalyst Aug 2026 |
+| CVV | 2026-07-13 | PASS | — | Backlog flat at $4.7M (-66% YoY); zero new system orders (spare parts only); gross margin 8.0%; SiC deflation headwind; post-SDC divestiture restructuring; no moat found |
 
 ## Run History
 | Run | Date | Companies Analyzed | Results | Push Status |
@@ -38,12 +40,19 @@ Total companies analyzed: 17 unique (KLIC, ELMT, INTT, ASYS, ICHR, COHU, UCTT at
 | 8 | 2026-07-13 | RELL (medium-high) | 0 WATCH, 1 CANDIDATE | PENDING |
 | 9 | 2026-07-13 | FROHF (—), IQEPF (—) | 1 WATCH, 1 CANDIDATE | KB_UPDATED (manual direct write) |
 | 10 | 2026-07-13 | XPP (—), TPLKF (—) | 1 WATCH, 1 CANDIDATE | KB_UPDATED (manual direct write) |
+| 11 | 2026-07-13 | SCIA (WATCH), CVV (PASS) | 1 WATCH, 1 PASS | PENDING |
 
 ## Do Not Re-Analyze (45-day cooldown)
-ICHR, ASYS, COHU, KLIC, ELMT, INTT, UCTT, SHMD, FORM, MTRN, AEHR, HURC, RELL, FROHF, IQEPF, XPP, TPLKF — all analyzed 2026-07-13; skip until 2026-08-27
+ICHR, ASYS, COHU, KLIC, ELMT, INTT, UCTT, SHMD, FORM, MTRN, AEHR, HURC, RELL, FROHF, IQEPF, XPP, TPLKF, SCIA, CVV — all analyzed 2026-07-13; skip until 2026-08-27
 
 ## Scout Pipeline (next runs — apply valuation gate first)
 | Ticker | Company | ~Mkt Cap | Signal | Priority |
 |--------|---------|----------|--------|----------|
-| ACLS | Axcelis Technologies | ~$1.8B | $453M backlog; VECO merger pending — skip until resolved | Low |
-| PLAB | Photronics | ~$800-950M | $330M capex; accounting flag — deprioritize | Low |
+| TRT | Trio-Tech International | ~$121M | SIC 7389 services mislabel; 0 analysts; $5.3M AI GPU burn-in board order March 2026; 124% Q3 revenue growth; verify daily vol before proceeding | HIGH |
+| CMLMF | CML Microsystems plc | ~$56M USD | AIM-listed UK; 0 US analysts; RF/mmWave ICs for satellite; cap confirmed June 2026 | MEDIUM |
+| RFIL | RF Industries Ltd | ~$40-60M est. | RF connectors for ATE; 0-1 analysts; need live cap verification | MEDIUM |
+| WTT | Wireless Telecom Group | ~$30-50M est. | RF attenuators for semi ATE; 0-1 analysts; need live cap verification | LOW |
+| PCTEL | PCTEL Inc | ~$55-85M est. | RF test solutions; 1-2 analysts; borderline analyst count | LOW |
+| IPWR | Ideal Power Inc | ~$30-60M est. | B-TRAN bidirectional power transistor; 0-1 analysts; early stage | LOW |
+| ACLS | Axcelis Technologies | ~$1.8B | $453M backlog; VECO merger pending — skip until resolved | KILL |
+| PLAB | Photronics | ~$800-950M | $330M capex; accounting flag — deprioritize | KILL |

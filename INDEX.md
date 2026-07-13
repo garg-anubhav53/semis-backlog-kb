@@ -13,6 +13,8 @@
 | TPLKF | PVA TePla AG | CANDIDATE | 2026-07-13 | ~€500M | thin | 8 | German-listed; English gap | €121.6M Q1 orders (+164% YoY); 2.2x BTB; but 8 analysts and 3.4x EV/Sales |
 | IQEPF | IQE plc | CANDIDATE | 2026-07-13 | ~£80M | thin | 3 | AIM-listed; thin English coverage | Tower SEMI InP deal + MACOM £30M; strategic review cleared; InP inflection 2027 |
 | INTT | inTEST Corporation | MONITOR | 2026-07-13 | ~$197M | thin | ~4 | Borderline exclusion zone | $51.8M backlog +36% YoY; B2B declined to 0.94x; needs Q2 rebound |
+| SCIA | SCI Engineered Materials Inc. | WATCH | 2026-07-13 | $30.22M | ~$50-100K/day | 0 | OTCQB; GICS Specialty Chemicals (off semi screens); zero institutional access | Backlog +173% QoQ to $7.1M; deposits +330% QoQ to $3.56M; revenue +133% YoY to record $8.16M; QUALIFIED moat (ISO 9001, 5yr agreement, PVD lock-in) |
+| CVV | CVD Equipment Corporation | PASS | 2026-07-13 | ~$27-32M | thin | 0 | NASDAQ compliance warning; pure CVD Equipment post-SDC sale | Backlog flat $4.7M (-66% YoY); zero system orders; gross margin 8%; SiC deflation; NO SIGNAL |
 | KLIC | Kulicke & Soffa Industries | COVERAGE_VOID_GONE | 2026-07-13 | ~$2B | high | 12+ | Now well-covered; asymmetry gone | TCB capacity; ASE $8.5B capex; already in consensus |
 | ASYS | Amtech Systems | PRICE_KILL | 2026-07-13 | ~$320M | moderate | ~4 | +572% 12-mo | BTB >1.0x 2Q; GM -2%→48%; priced |
 | ICHR | Ichor Holdings | PRICE_KILL | 2026-07-13 | ~$900M | high | ~8 | +323% 12-mo | GM inflection; priced |
