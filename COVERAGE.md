@@ -40,7 +40,7 @@ Total companies analyzed: 19 unique (KLIC, ELMT, INTT, ASYS, ICHR, COHU, UCTT at
 | 8 | 2026-07-13 | RELL (medium-high) | 0 WATCH, 1 CANDIDATE | PENDING |
 | 9 | 2026-07-13 | FROHF (—), IQEPF (—) | 1 WATCH, 1 CANDIDATE | KB_UPDATED (manual direct write) |
 | 10 | 2026-07-13 | XPP (—), TPLKF (—) | 1 WATCH, 1 CANDIDATE | KB_UPDATED (manual direct write) |
-| 11 | 2026-07-13 | SCIA (WATCH), CVV (PASS) | 1 WATCH, 1 PASS | PENDING |
+| 11 | 2026-07-13 | SCIA (WATCH), CVV (PASS) | 1 WATCH, 1 PASS | PUSH_OK |
 
 ## Do Not Re-Analyze (45-day cooldown)
 ICHR, ASYS, COHU, KLIC, ELMT, INTT, UCTT, SHMD, FORM, MTRN, AEHR, HURC, RELL, FROHF, IQEPF, XPP, TPLKF, SCIA, CVV — all analyzed 2026-07-13; skip until 2026-08-27
