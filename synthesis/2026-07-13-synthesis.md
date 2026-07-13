@@ -1,3 +1,44 @@
+# Cross-Company Synthesis — Run 7 (AEHR, HURC)
+
+Date: 2026-07-13
+Analyst posture: skeptical, adversarial. Question is asymmetry, not signal quality.
+
+**Verdicts: AEHR — PASS. HURC — WATCH (semi narrative stripped out).**
+
+## The lens Run 7 has to pass through
+
+Seven runs in, the edge is settled and the prior kills prove it: a demand thesis on a coverable name is not an asymmetry, it is a queue you are standing at the back of (ASYS +572%, AXTI +5100%). In a $140–150B, 14/14-bulls WFE cycle, being right about backlog is worthless — the surviving edge comes from *microstructure and optics*: foreign-issuer voids, fresh-IPO accounting distortions, unlabeled subsystems below four analysts and under $500M. Judge both names against that bar, not against whether the orders are real.
+
+## AEHR — PASS
+
+The $38.7M backlog and 3.5x BTB are real. Not the question. The question is whether the market structurally cannot see them, and it plainly can.
+
+**The imminent catalyst is disqualifying, not encouraging (Q1).** Q4 FY2026 prints in 0–4 weeks. A forcing event that close means positioning is already set — smart money has had two full earnings cycles since the April call to model a footnote-to-P&L conversion this obvious. The brief's own biggest uncertainty concedes it: the information "may already be priced in." That converts the thesis from a structural asymmetry into a binary earnings trade. We do not trade prints; we harvest voids. Different game, and the wrong one.
+
+**There is no coverage void (Q2).** 4–6 analysts breaches the macro's own <4 threshold. At that level the $38.7M backlog, the 3.5x BTB, and the 228% QoQ booking jump are in consensus models by definition — modeling exactly that conversion is what sell-side is *for*. The "buried in balance-sheet footnotes, missed by EBITDA screens" argument is the tell: it presumes a sophistication gap that six covering analysts on a well-known name do not leave open.
+
+**The miscategorization claim fails hardest.** The brief says AEHR is "not tagged as AI infrastructure." AEHR has traded as a silicon-photonics / AI-processor burn-in story for over a year — it is one of the most explicitly labeled small-cap AI names retail owns. The asymmetry source asserts the opposite of the market's actual framing. When a thesis mis-describes how the name is already perceived, the mispricing is in the thesis. Covered, labeled, demand-insight name with a coin-flip catalyst two weeks out — the exact archetype prior runs learned to avoid. PASS. Only a July *miss* that collapses coverage would reopen a void; absent that, no action.
+
+## HURC — WATCH (with the semiconductor story valued at zero)
+
+**Discard the semi angle (Q3).** No filing, no transcript names a semiconductor OEM customer. It is speculative layering on Hurco, a CNC machine-tool maker — a cyclical industrial-capex proxy, not WFE. Treating it as investment-grade would repeat the demand-insight error that price-killed prior names. If we own HURC, the semi narrative is worth nothing in the underwrite; a named OEM would be upside, not a reason to buy.
+
+**What survives fits the archetype cleanly.** 1–2 analysts is a genuine, durable coverage void — the structural condition Runs 1–6 identified (the ELMT/SHMD shape, not the ASYS shape). Sub-$500M cap, ~0.6–0.7x P/Sales (far under the 2x asymmetry-zone floor), 1.29x BTB, orders +41% YoY. This is microstructure: cheap and unfollowed for structural filing/float reasons, order momentum running ahead of the revenue recognition thin coverage is slow to model.
+
+**The adversarial risk.** Machine tools are cheap because they are low-margin and cyclical — 0.6x P/Sales may be a fair price for a value trap, not a gift. The entire thesis rests on the Q2 order spike being durable demand rather than timing/mix; if Q3 (Sept, quarter ended July 31) revenue does not accelerate, it collapses (the brief's own single biggest uncertainty). WATCH earned on the coverage-gap and valuation dislocation alone, not on any growth story.
+
+## What moves each to diligence-ready BUY
+
+- **HURC** upgrades if: (1) primary-filing evidence that Q2 orders are durable, not a single large order or channel timing — the conversion gate; (2) margins hold as volume steps up, proving 0.6x P/Sales is a dislocation and not a fair price for a cyclical; (3) entry stays under ~2x EV/Sales. A named semi OEM is upside only — do not wait for it, do not underwrite on it.
+- **AEHR** stays PASS unless a July miss capitulates coverage and reopens the void.
+
+## Run 8 implication
+
+The pattern holds a seventh time: the name that clears the bar (HURC) does so on a structural coverage void the Street *can't* cheaply follow; the name that fails (AEHR) fails on being covered, labeled, and contested with a catalyst already in view. Keep pushing the scout floor sub-$500M and into miscategorized/uncovered buckets. Down-weight covered names with imminent prints — an earnings catalyst 0–4 weeks out is a reason for skepticism, not enthusiasm.
+
+---
+---
+
 # Cross-Company Synthesis — 2026-07-13
 
 *Skeptical read on FORM and SHMD against a fully-telegraphed WFE upcycle. The question is not "is the demand real" — in a $140–150B, AI-driven, 14/14-bulls cycle the demand is almost always real. The question is whether the market structurally cannot see what these briefs see, or whether it sees it fine and has already acted.*

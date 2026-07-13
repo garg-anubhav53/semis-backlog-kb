@@ -1,9 +1,9 @@
 # Coverage Map
 
 ## Cursor
-Last run: 2026-07-13 (Run 6 complete)
-Run count: 6
-Total companies analyzed: 10 unique (KLIC, ELMT, INTT, ASYS, ICHR, COHU, UCTT at scout level + SHMD, FORM, MTRN)
+Last run: 2026-07-13 (Run 7 complete)
+Run count: 7
+Total companies analyzed: 12 unique (KLIC, ELMT, INTT, ASYS, ICHR, COHU, UCTT at scout level + SHMD, FORM, MTRN, AEHR, HURC)
 
 ## Analyzed
 | Ticker | Date | Verdict | Score | Notes |
@@ -17,6 +17,8 @@ Total companies analyzed: 10 unique (KLIC, ELMT, INTT, ASYS, ICHR, COHU, UCTT at
 | SHMD | 2026-07-13 | WATCH | 72 | Analyzed run 5; foreign-issuer coverage void; Q2 guidance update (July 14) |
 | FORM | 2026-07-13 | CANDIDATE | 68 | Analyzed run 5; 2027 Farmers Branch ramp not yet modeled |
 | MTRN | 2026-07-13 | CANDIDATE | medium | Record backlog; defense $60M Q1 bookings; Electronic Materials EBITDA 2x YoY; miscategorization asymmetry; August 5 Q2 binary |
+| AEHR | 2026-07-13 | PASS | — | Analyzed run 7; 4-6 analysts, already labeled AI play; Q4 FY2026 earnings binary (0-4 weeks); not structural asymmetry |
+| HURC | 2026-07-13 | WATCH | 65 | Analyzed run 7; 1-2 analysts, genuine coverage void; BTB 1.29x, orders +41% YoY, 0.6x P/Sales; semi narrative unconfirmed |
 
 ## Run History
 | Run | Date | Companies Analyzed | Results | Push Status |
@@ -27,13 +29,13 @@ Total companies analyzed: 10 unique (KLIC, ELMT, INTT, ASYS, ICHR, COHU, UCTT at
 | 4 | 2026-07-13 | KLIC (70), ASYS (63) | 1 WATCH, 1 MONITOR | PUSH_FAILED (no write scope on PAT) |
 | 5 | 2026-07-13 | SHMD (72), FORM (68) | 1 WATCH, 1 CANDIDATE | KB_UPDATED (manual direct write) |
 | 6 | 2026-07-13 | MTRN (medium) | 0 WATCH, 1 CANDIDATE | PENDING |
+| 7 | 2026-07-13 | AEHR (—), HURC (65) | 1 WATCH, 1 PASS | KB_UPDATED (manual direct write) |
 
 ## Do Not Re-Analyze (45-day cooldown)
-ICHR, ASYS, COHU, KLIC, ELMT, INTT, UCTT, SHMD, FORM, MTRN — all analyzed 2026-07-13; skip until 2026-08-27
+ICHR, ASYS, COHU, KLIC, ELMT, INTT, UCTT, SHMD, FORM, MTRN, AEHR, HURC — all analyzed 2026-07-13; skip until 2026-08-27
 
 ## Scout Pipeline (next runs — apply valuation gate first)
 | Ticker | Company | ~Mkt Cap | Signal | Priority |
 |--------|---------|----------|--------|----------|
-| CYBE | CyberOptics | ~$230M | Wafer inspection sensors (WaferSense); 2-4 analysts; sub-$500M; need 2026 backlog confirmation | High |
-| ACLS | Axcelis Technologies | ~$1.8B | $453M backlog; check 12-mo price first | Medium |
+| ACLS | Axcelis Technologies | ~$1.8B | $453M backlog; VECO merger pending — skip until resolved | Low |
 | PLAB | Photronics | ~$800-950M | $330M capex; accounting flag — deprioritize | Low |

@@ -10,6 +10,7 @@
 | UCTT | 2026-07-13 | ~+230% | n/a | Eliminated at scout stage |
 | AXTI | 2026-07-13 | +5,100% | n/a | Price-killed AND cap-killed ($4.1B); substrate revenue story fully priced; remove from pipeline |
 | ACMR | 2026-07-13 | +162% | n/a | Price-killed; shipment-vs-revenue deferred gap was the thesis but market got there |
+| CYBE | 2026-07-13 | n/a | n/a | Acquired by Nordson Corporation (2022), no longer a public filer |
 
 ## Analytic Kills (fundamental issues)
 | Ticker | Date | Reason |
@@ -23,4 +24,6 @@
 | WOLF | 2026-07-13 | EV/Sales ~4-6x (at/above kill threshold) + 15-20 analysts (no coverage void); special-situation post-bankruptcy equity |
 | ROG | 2026-07-13 | 6-9 analysts + no confirmed 90-day backlog signal in filings; analyst count fails coverage-void criterion |
 | NOVT | 2026-07-13 | 7-10 analysts + EV/Sales ~3.2x + $2.5-3B cap; no coverage void; not a fit |
+| AEHR | 2026-07-13 | 4-6 analysts, already labeled AI play, imminent Q4 earnings binary — not structural asymmetry |
+| IVAC | 2026-07-13 | Acquired by Seagate Technology Holdings (2025), no longer a public filer |
 | AMAT/LRCX/KLAC/AEIS/MKSI/ENTG/TER | 2026-07-13 | All >$4B market cap (EDGAR EFTS Scout B returns large-caps only; keyword search skews toward large disclosing companies) |
