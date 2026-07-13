@@ -11,6 +11,11 @@
 | AXTI | 2026-07-13 | +5,100% | n/a | Price-killed AND cap-killed ($4.1B); substrate revenue story fully priced; remove from pipeline |
 | ACMR | 2026-07-13 | +162% | n/a | Price-killed; shipment-vs-revenue deferred gap was the thesis but market got there |
 | CYBE | 2026-07-13 | n/a | n/a | Acquired by Nordson Corporation (2022), no longer a public filer |
+| PSK | 2026-07-13 | +473% | n/a | KOSDAQ semi-equipment OEM; thesis fully priced in |
+| JUSUNG | 2026-07-13 | +773.7% | n/a | KOSDAQ semi-equipment OEM; euphoric euphoria; thesis fully priced |
+| EUGENE | 2026-07-13 | +136.22% | n/a | KOSDAQ display/semi-adjacent equipment; thesis priced in |
+| WONIK | 2026-07-13 | +143.9% | n/a | KOSDAQ memory-related equipment; thesis priced in |
+| TES | 2026-07-13 | ~+80% | n/a | KOSDAQ semiconductor-related; co-moved with sector surge |
 
 ## Analytic Kills (fundamental issues)
 | Ticker | Date | Reason |
@@ -30,4 +35,8 @@
 | FVPLF/VNP.TO | 2026-07-13 | 4-6 analysts, no BTB confirmed, fails Run 8 screen |
 | IEC | 2026-07-13 | No semiconductor/BTB signal confirmed |
 | CPSH | 2026-07-13 | Cap below $100M floor, no BTB confirmed |
+| LEENO | 2026-07-13 | KOSDAQ entry with estimated market cap >$4B; CAP KILL |
+| AIXTRON | 2026-07-13 | Forward P/E 67.4x + multi-analyst European coverage; VALUATION + COVERAGE KILL |
+| XFAB | 2026-07-13 | BTB ~0.87, backlog declining, no order signal; NO SIGNAL |
+| VSH | 2026-07-13 | 10 sell-side analysts covering; fails <4-analyst coverage-void threshold; COVERAGE KILL |
 | AMAT/LRCX/KLAC/AEIS/MKSI/ENTG/TER | 2026-07-13 | All >$4B market cap (EDGAR EFTS Scout B returns large-caps only; keyword search skews toward large disclosing companies) |

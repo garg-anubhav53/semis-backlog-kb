@@ -8,6 +8,7 @@
 | 2 | ELMT | The Elmet Group Co. | 69 | WATCH | 2026-07-13 | Record $113.3M backlog (+52% YoY); B2B 1.30x; 95% converts FY2026; IPO G&A distortion masking true EPS; Lockheed/Raytheon/P&W customers |
 | 3 | SHMD | SCHMID Group N.V. | 72 | WATCH | 2026-07-13 | €97M order book covers FY2026 guidance 1.56x; foreign-issuer coverage void; 6-day-old €37M order; Q2 guidance update imminent (July 14) |
 | 4 | HURC | Hurco Companies Inc. | 65 | WATCH | 2026-07-13 | BTB 1.29x; orders +41% YoY; 0.6x P/Sales; 1-2 analysts; semi narrative unconfirmed but microstructure asymmetry clear |
+| 5 | FROHF | Ferrotec Holdings | — | WATCH | 2026-07-13 | GICS 4520 exclusion + 2 analysts + fiscal-year stub masks real WFE-consumable operating leverage; ¥350B 9-month guidance pending primary-file verification; EV/Sales ~1.43x; signal fidelity: high (conditional) |
 
 ## MONITOR List
 
@@ -17,6 +18,7 @@
 | FORM | FormFactor Inc. | 68 | CANDIDATE | 2026-07-13 | 2026 capacity fully booked; 2027 Farmers Branch ramp not yet modeled; EV/Sales ~1.5x; post-earnings dip re-entry point |
 | MTRN | Materion Corporation | medium | CANDIDATE | 2026-07-13 | August 5 Q2 earnings; second beat + dollar backlog figure upgrades to WATCH |
 | RELL | Richardson Electronics Ltd. | medium-high | CANDIDATE | 2026-07-13 | Q4 earnings July 29: PMT BTB 1.28x implied, $151.2M backlog (2.72x revenue); SIC 5065 bypass real but 3 of 4 asymmetry legs weak; upgrade if PMT re-accelerates to ~+20% YoY on July 29 print |
+| IQEPF | IQE plc | — | CANDIDATE | 2026-07-13 | Tower SEMI multi-year InP deal + MACOM £30M strategic investment; AIM listing + 3 active analysts; InP inflection likely 2027; strategic review overhang cleared 6 weeks ago; signal fidelity: medium |
 
 ## Price-Screen Kills (>+80% 12-month return — thesis already priced in) & Analytic Kills (asymmetry void)
 
@@ -27,10 +29,24 @@
 | COHU | Cohu, Inc. | +213% | 75 | AI compute orders +211% YoY; already priced |
 | UCTT | Ultra Clean Holdings | ~+230% | n/a | Eliminated at scout stage |
 | AEHR | Aehr Test Systems | unclear/binary | — | 4-6 analysts, already labeled AI play; imminent Q4 FY2026 earnings (0-4 weeks); binary print, not structural asymmetry |
+| PSK | PSK Inc. | +473% | — | KOSDAQ semi-equipment OEM; fully priced in |
+| JUSUNG | Jusung Engineering | +773.7% | — | KOSDAQ semi-equipment OEM; euphoric move; thesis priced in |
+| EUGENE | Eugene Technology | +136.22% | — | KOSDAQ display-equipment related; priced in |
+| WONIK | Wonik IPS | +143.9% | — | KOSDAQ memory-related capex; priced in |
+| TES | TES Co. Ltd | ~+80% | — | KOSDAQ semiconductor-related; co-moved with complex surge |
+
+## Analytic Kills (fundamental issues, Run 9)
+
+| Ticker | Company | Reason |
+|--------|---------|--------|
+| LEENO | Leeno Industrial | Market cap >$4B estimated; CAP KILL |
+| AIXTRON | Aixtron SE | Forward P/E 67.4x, multi-analyst European coverage; VALUATION + COVERAGE KILL |
+| XFAB | X-FAB Silicon Foundries | BTB ~0.87, backlog declining, no order signal; NO SIGNAL |
+| VSH | Vishay Intertechnology | 10 sell-side analysts; COVERAGE KILL (>4 analyst threshold) |
 
 ---
 
-## Macro Observations (accumulated across 8 runs)
+## Macro Observations (accumulated across 9 runs)
 
 1. **AI packaging is idiosyncratic, not a broad WFE recovery.** Axcelis BTB at 0.64x while ASYS AI thermal BTB at 1.09x — demand is structural AI OSAT capex, not cyclical. More durable signal.
 2. **The price screen eliminates most obvious names.** All strongest backlog signals (ASYS, ICHR, COHU, UCTT) were already up 200-572%. Future runs must valuation-gate candidates BEFORE forensic work.
@@ -40,11 +56,12 @@
 6. **Run 6 convergence:** MTRN has a real record-backlog signal (defense $60M Q1 bookings, Electronic Materials EBITDA 2x YoY) but three of four asymmetry legs are public or decaying. The only durable leg — specialty-metals miscategorization causing WFE fund-flow bypass — is too slow for a 23-day binary event. Edge is shrinking: 15 scouted → 13 gate-killed → 1 soft CANDIDATE. Pipeline must move down-cap (sub-$500M) and sideways into miscategorized/uncovered buckets. AXTI and ACMR both permanently killed (priced in).
 7. **Run 7 convergence:** AEHR killed — 4-6 analysts, already labeled AI play, imminent Q4 earnings binary (0-4 weeks) is a coin-flip trade, not structural asymmetry. HURC WATCH on valuation/microstructure only; semiconductor narrative speculative and unconfirmed. CYBE and IVAC both acquired (removed from pipeline). Run 8 screen: non-semiconductor-labeled names trading <1x P/Sales, sub-$300M, ≤2 analysts, confirmed BTB >1.20.
 8. **#8 — Run 8 convergence:** RELL (Richardson Electronics) CANDIDATE. Universe sub-$300M ex-skip-list down to near-zero genuinely novel names. SIC classification bypass is real but PMT growing at half the WFE cycle rate (+9.7% vs +21.4%) marks it as a WFE-sleeve distributor not a pure-play. July 29 Q4 earnings is the forcing event: upgrade to WATCH if PMT/EDG semiconductor wafer fab revenue accelerates and backlog reaches $155-160M. Gate-kill count this run: 4 of 6 candidates killed. The universe exhaustion is itself the signal — Run 9 must go cross-listed/OTC or international.
+9. **#9 — Run 9 convergence:** KOSDAQ semiconductor-equipment OEM names already up 100-770%; asymmetry retreated to materials/components suppliers (GICS-miscategorized) and non-US-listed names below sell-side radar. FROHF (Japan GICS industrial, 2 analysts, fiscal-year stub) and IQEPF (AIM-listed, 3 analysts) sole survivors; 9 of 11 gate-killed. Universe largely exhausted at screenable OEM layer; Run 10 should focus sub-$200M, Japanese/EU materials suppliers, primary-document-accessible foreign filings. Edge remains but requires labor-intensive foreign-filing work; real signal but lower-conviction than early runs.
 
 ## Scout Pipeline (next runs — apply valuation gate first)
 
-Run 9 targets: international/cross-listed names (KOSDAQ, TSX, LSE), OTC-accessible sub-$200M cap, non-semiconductor-labeled by GICS, confirmed BTB >1.20. Possible lead: unnamed KOSDAQ memory equipment company (2026 orders exceeding 2025 full-year revenue; identified by Scarcity Trade Substack June 11, 2026 — ticker not yet confirmed).
+Run 10+ targets: sub-$200M market cap floor, Japanese/European materials and consumables suppliers (not OEMs), foreign-issuer filings (TSE, Euronext, LSE AIM), explicitly prioritize foreign-language documents and non-GICS-4520-listed names. KOSDAQ/TSX/OTC micro-caps (<$100M) with WFE-consumable exposure and <2 analysts. Previous KOSDAQ leads exhausted by July 2026; move to materials layer.
 
 ---
 
-*Last consolidated: 2026-07-13 — Run 8 complete (RELL CANDIDATE); 4 gate-kills (PDFS, FVPLF/VNP.TO, IEC, CPSH); Run 9 scope: cross-listed/OTC/international.*
+*Last consolidated: 2026-07-13 — Run 9 complete (FROHF WATCH, IQEPF CANDIDATE); 9 gate-kills (PSK, Jusung, Eugene, Wonik IPS, Leeno, TES, Aixtron, X-FAB, Vishay); Run 10 scope: sub-$200M materials/components suppliers, foreign filings.*

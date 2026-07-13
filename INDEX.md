@@ -15,3 +15,5 @@
 | AEHR | Aehr Test Systems | — | PASS | 2026-07-13 | $38.7M backlog, 3.5x BTB, real but 4-6 analysts already labeled as AI; Q4 FY2026 earnings binary (0-4 weeks); not structural asymmetry |
 | HURC | Hurco Companies Inc. | 65 | WATCH | 2026-07-13 | 1-2 analysts genuine coverage void; 1.29x BTB, orders +41% YoY, 0.6x P/Sales far below 2x asymmetry-zone floor; Q3 FY2026 earnings ~September 2026; semi narrative unconfirmed and valued at zero |
 | RELL | Richardson Electronics Ltd. | medium-high | CANDIDATE | 2026-07-13 | BTB ~1.28x implied; $151.2M backlog 2.72x revenue; SIC 5065 bypass real but PMT +9.7% at half WFE rate; July 29 earnings forcing event |
+| FROHF | Ferrotec Holdings | — | WATCH | 2026-07-13 | GICS 4520 exclusion + 2 analysts + fiscal-year stub masks WFE-consumable operating leverage; ¥350B 9-month guidance pending primary-file verification; EV/Sales ~1.43x |
+| IQEPF | IQE plc | — | CANDIDATE | 2026-07-13 | Tower SEMI multi-year InP deal + MACOM £30M investment; AIM listing + 3 analysts; InP inflection 2027; strategic review overhang cleared 6 weeks ago |

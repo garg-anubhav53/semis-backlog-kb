@@ -1,9 +1,9 @@
 # Coverage Map
 
 ## Cursor
-Last run: 2026-07-13 (Run 8 complete)
-Run count: 8
-Total companies analyzed: 13 unique (KLIC, ELMT, INTT, ASYS, ICHR, COHU, UCTT at scout level + SHMD, FORM, MTRN, AEHR, HURC, RELL)
+Last run: 2026-07-13 (Run 9 complete)
+Run count: 9
+Total companies analyzed: 15 unique (KLIC, ELMT, INTT, ASYS, ICHR, COHU, UCTT at scout level + SHMD, FORM, MTRN, AEHR, HURC, RELL, FROHF, IQEPF)
 
 ## Analyzed
 | Ticker | Date | Verdict | Score | Notes |
@@ -20,6 +20,8 @@ Total companies analyzed: 13 unique (KLIC, ELMT, INTT, ASYS, ICHR, COHU, UCTT at
 | AEHR | 2026-07-13 | PASS | — | Analyzed run 7; 4-6 analysts, already labeled AI play; Q4 FY2026 earnings binary (0-4 weeks); not structural asymmetry |
 | HURC | 2026-07-13 | WATCH | 65 | Analyzed run 7; 1-2 analysts, genuine coverage void; BTB 1.29x, orders +41% YoY, 0.6x P/Sales; semi narrative unconfirmed |
 | RELL | 2026-07-13 | CANDIDATE | medium-high | Q4 earnings July 29; BTB 1.28x implied; SIC 5065 bypass; PMT at half WFE growth rate |
+| FROHF | 2026-07-13 | WATCH | — | GICS 4520 exclusion + 2 analysts + fiscal-year stub masks WFE-consumable operating leverage; ¥350B guidance pending primary TSE filing verification |
+| IQEPF | 2026-07-13 | CANDIDATE | — | Tower SEMI multi-year InP deal + MACOM £30M investment; AIM-listed; InP volume ramp deferred to 2027; strategic review cleared 6 weeks ago |
 
 ## Run History
 | Run | Date | Companies Analyzed | Results | Push Status |
@@ -32,9 +34,10 @@ Total companies analyzed: 13 unique (KLIC, ELMT, INTT, ASYS, ICHR, COHU, UCTT at
 | 6 | 2026-07-13 | MTRN (medium) | 0 WATCH, 1 CANDIDATE | PENDING |
 | 7 | 2026-07-13 | AEHR (—), HURC (65) | 1 WATCH, 1 PASS | KB_UPDATED (manual direct write) |
 | 8 | 2026-07-13 | RELL (medium-high) | 0 WATCH, 1 CANDIDATE | PENDING |
+| 9 | 2026-07-13 | FROHF (—), IQEPF (—) | 1 WATCH, 1 CANDIDATE | KB_UPDATED (manual direct write) |
 
 ## Do Not Re-Analyze (45-day cooldown)
-ICHR, ASYS, COHU, KLIC, ELMT, INTT, UCTT, SHMD, FORM, MTRN, AEHR, HURC, RELL — all analyzed 2026-07-13; skip until 2026-08-27
+ICHR, ASYS, COHU, KLIC, ELMT, INTT, UCTT, SHMD, FORM, MTRN, AEHR, HURC, RELL, FROHF, IQEPF — all analyzed 2026-07-13; skip until 2026-08-27
 
 ## Scout Pipeline (next runs — apply valuation gate first)
 | Ticker | Company | ~Mkt Cap | Signal | Priority |
