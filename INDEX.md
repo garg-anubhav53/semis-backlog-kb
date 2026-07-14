@@ -21,3 +21,8 @@
 | COHU | Cohu, Inc. | PRICE_KILL | 2026-07-13 | ~$700M | moderate | ~8 | +213% 12-mo | AI compute orders; priced |
 | UCTT | Ultra Clean Holdings | PRICE_KILL | 2026-07-13 | ~$1B | high | ~8 | ~+230% 12-mo | WFE sub-systems; priced |
 | AEHR | Aehr Test Systems | PASS | 2026-07-13 | ~$300M | moderate | 4-6 | Already labeled AI play | Binary Q4 earnings; no structural asymmetry |
+| CMLMF | CML Microsystems | WATCH | 2026-07-14 | ~$56M | <$400K | 3 UK only | AIM/Pink+vol+0-US-analysts | H2 FY26 +18% seq; GNSS 12yr moat; FY27 H1 Oct/Nov 2026 catalyst |
+| IPWR | Ideal Power | PASS | 2026-07-14 | ~$94M | ~$700K | 2 | pre-revenue/no-signal | N/A |
+| RFIL | RF Industries | CAP_KILL | 2026-07-14 | $196.52M | — | 2+ | CAP_KILL: >$150M; Russell 3000; B.Riley initiated | N/A |
+| WTT | Wireless Telecom Group | DEAD_KILL | 2026-07-14 | N/A | — | — | acquired Maury Microwave 2023 | N/A |
+| PCTEL | PCTEL Inc | DEAD_KILL | 2026-07-14 | N/A | — | — | acquired Amphenol Feb 2024 | N/A |

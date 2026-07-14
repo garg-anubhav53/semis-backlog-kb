@@ -8,12 +8,15 @@
 | HURC | 2026-07-14 | SECTOR KILL | False positive — no semiconductor angle in any 10-K or earnings call. Pure industrial CNC machine tool company. "Electronics" in end-market descriptions triggered screen incorrectly. Remove from semiconductor watchlist permanently. Note: real business, net cash $50M, buy zone $15-17 on industrial cyclical watchlist |
 | AKTS/AKTSQ | 2026-07-13 | INTEGRITY KILL | In or near bankruptcy; AKTSQ OTC suffix indicates post-default |
 | CVV | 2026-07-13 | NO SIGNAL | Zero new system orders Q1 2026; backlog -66% YoY to $4.7M; gross margin collapsed; no moat; SiC market deflation from Chinese supply |
+| IPWR | 2026-07-14 | NO SIGNAL / PRE-REVENUE | Pre-revenue R&D stage; Q1 2026 revenue $0; no backlog; "$300M funnel" = LOIs only; B-TRAN vs. entrenched IGBT/SiC incumbents; daily vol borderline; not WFE supply chain |
 | HAYN | 2026-07-13 | DEAD KILL | Taken private by Acerinox S.A. November 2024; delisted |
 | IVAC | 2026-07-13 | DEAD KILL | Acquired by Seagate Technology Holdings 2025; no longer public filer |
 | EMKR | 2026-07-13 | DEAD KILL | Acquired by Charlesbank (Velocity One) March 2025; no longer independently traded |
 | TGAN | 2026-07-13 | DEAD KILL | Acquired by Renesas Electronics June 2024; no longer independently traded |
 | CYBE | 2026-07-13 | DEAD KILL | Acquired by Nordson Corporation 2022; no longer public filer |
 | NANX | 2026-07-13 | SECTOR KILL | Pivoted to personal care/beauty; no longer semiconductor supply chain |
+| WTT | 2026-07-14 | DEAD KILL | Acquired by Maury Microwave 2023; no longer publicly traded |
+| PCTEL | 2026-07-14 | DEAD KILL | Acquired by Amphenol Corporation February 2024; last trade Feb 16, 2024 |
 
 ## Price Screen Kills (>+80% 12-month return — thesis already priced)
 
@@ -37,6 +40,7 @@
 
 | Ticker | Date | Market Cap | Notes |
 |--------|------|-----------|-------|
+| RFIL | 2026-07-14 | $196.52M | Market cap exceeds $150M ceiling; joined Russell 3000 June 29 2026; B. Riley initiated at $18 PT; exclusion zone exited |
 | FROHF | 2026-07-14 | ~$2.74B | Mislabeled as small cap; actually 18x our ceiling. Ferrofluidic feedthrough moat is genuine; EV/EBITDA ~9.4x vs. Entegris 15-20x. Track separately for size-agnostic watchlist |
 | LSRCY | 2026-07-13 | ~$27.4B | 180x ceiling; EUV mask inspection monopoly |
 | SCRCF | 2026-07-13 | ~$8-15B | 50-100x ceiling; SCREEN Holdings wafer cleaning |

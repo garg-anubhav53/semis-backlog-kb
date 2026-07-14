@@ -33,6 +33,7 @@ An individual can buy 1,000 shares with zero market impact.
 | HURC | Hurco Companies Inc. | WATCH | 2026-07-13 | ~$150M | thin | 1-2 | Near-zero coverage; below institutional mandate | 1.29x BTB; orders +41% YoY; 0.6x P/Sales; semiconductor narrative unconfirmed but microstructure asymmetry real |
 | ELMT | The Elmet Group Co. | WATCH | 2026-07-13 | ~$500M | thin | ~2 | Fresh IPO April 2026; accounting distortion | Record $113.3M backlog (+52% YoY); B2B 1.30x; IPO G&A one-time masking true EPS |
 | SCIA | SCI Engineered Materials Inc. | WATCH | 2026-07-13 | $30.22M | ~$50-100K/day | 0 | OTCQB + GICS Specialty Chemicals mislabel + 0 analysts = triple exclusion | Backlog +173% QoQ to $7.1M; deposits +330% QoQ; revenue +133% YoY record; QUALIFIED moat; Q2 2026 catalyst |
+| CMLMF | CML Microsystems plc | WATCH | 2026-07-14 | ~$56M | <$400K/day | 3 (UK only) | AIM/Pink Sheets; <$400K vol; 0 US analysts | H2 FY26 +18% seq; GNSS 12yr $30M+ design-in; "progressive order book"; FY27 growth expected; QUALIFIED moat |
 
 ## CANDIDATE List (signal present, asymmetry weaker)
 
@@ -72,6 +73,7 @@ An individual can buy 1,000 shares with zero market impact.
 4. **Analyst initiation is itself the re-rating catalyst.** The structural edge is being in BEFORE initiation. Once even one analyst initiates, the price re-rates toward the DCF. The bet is on a name graduating out of the exclusion zone.
 5. **Gate-all-around transitions add ~30% more process steps per chip** — structural content-per-tool tailwind beyond cyclical WFE unit recovery.
 6. **Universe exhaustion is the signal to go deeper/sideways.** When 13 of 15 candidates fail the gate in a single run, it means the layer being screened is played out — move down-cap or into non-OEM materials/consumables.
+7. **QUEUED universe self-prunes rapidly via M&A and cap graduation.** This run found 3 of 5 QUEUED names were either acquired (WTT, PCTEL) or graduated past the cap ceiling (RFIL). Universe requires continuous fresh scouting to replace pruned names. The exclusion zone is not static — names exit via graduation (good outcome) or acquisition (neutral). Running the QUEUED list to completion requires scout runs to refill.
 
 ---
 

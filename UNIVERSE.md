@@ -3,10 +3,10 @@
 This file is the persistent map of all exclusion-zone semiconductor supply chain companies ever surfaced by the routine. Scouts add to it every run. The pipeline rotates through it systematically.
 
 ## Rotation Cursor
-Next to analyze: CMLMF
+Next to analyze: TRT
 Last full rotation completed: NEVER
 Universe size: 32
-Analyzed this quarter: 13
+Analyzed this quarter: 18
 
 ## Legend
 Status: WATCH | CANDIDATE | PASS | PRICE_KILL | GRADUATED (left exclusion zone) | QUEUED (found, not yet analyzed)
@@ -30,11 +30,11 @@ Moat: MONOPOLY | DUOPOLY | QUALIFIED (requalification >12mo) | COMPETING | COMMO
 | IQEPF | IQE plc | AIM-listed epi wafers | AIM-listed; thin English coverage | 2026-07-13 | 2026-07-13 | CANDIDATE | UNKNOWN |
 | INTT | inTEST Corporation | 3825 instruments | Borderline; thin coverage | 2026-07-13 | 2026-07-13 | MONITOR | UNKNOWN |
 | TRT | Trio-Tech International | SIC 7389 services mislabel | $121M cap; SIC 7389 keeps it off semi screens; 0 analysts; Singapore-HQ AI GPU burn-in | 2026-07-13 | NEVER | QUEUED | UNKNOWN |
-| CMLMF | CML Microsystems plc | AIM-listed RF/mmWave ICs | AIM-listed; ~$56M USD cap; 0 US analysts; RF IC for satellite/IoT | 2026-07-13 | NEVER | QUEUED | UNKNOWN |
-| RFIL | RF Industries Ltd | 3679 RF connectors/cable | ~$40-60M cap est; 0-1 analysts; RF connectors for ATE | 2026-07-13 | NEVER | QUEUED | UNKNOWN |
-| WTT | Wireless Telecom Group | 3679 RF test components | ~$30-50M cap est; 0-1 analysts; RF attenuators for semi ATE | 2026-07-13 | NEVER | QUEUED | UNKNOWN |
-| PCTEL | PCTEL Inc | 3825 RF test solutions | ~$55-85M cap est; 1-2 analysts; antenna/RF test for semi validation | 2026-07-13 | NEVER | QUEUED | UNKNOWN |
-| IPWR | Ideal Power Inc | 3674 power semi device | ~$30-60M cap est; 0-1 analysts; B-TRAN bidirectional power transistor | 2026-07-13 | NEVER | QUEUED | UNKNOWN |
+| CMLMF | CML Microsystems plc | AIM-listed RF/mmWave ICs | AIM-listed; ~$56M USD cap; 0 US analysts; RF IC for satellite/IoT | 2026-07-13 | 2026-07-14 | WATCH | QUALIFIED |
+| RFIL | RF Industries Ltd | 3679 RF connectors/cable | ~$40-60M cap est; 0-1 analysts; RF connectors for ATE | 2026-07-13 | 2026-07-14 | PRICE_KILL | UNKNOWN |
+| WTT | Wireless Telecom Group | 3679 RF test components | ~$30-50M cap est; 0-1 analysts; RF attenuators for semi ATE | 2026-07-13 | 2026-07-14 | PRICE_KILL | UNKNOWN |
+| PCTEL | PCTEL Inc | 3825 RF test solutions | ~$55-85M cap est; 1-2 analysts; antenna/RF test for semi validation | 2026-07-13 | 2026-07-14 | PRICE_KILL | UNKNOWN |
+| IPWR | Ideal Power Inc | 3674 power semi device | ~$30-60M cap est; 0-1 analysts; B-TRAN bidirectional power transistor | 2026-07-13 | 2026-07-14 | PASS | UNKNOWN |
 | AXTI | AXT Inc. | 3674 semi | CAP/PRICE KILL +5100%; $4.1B cap | 2026-07-13 | NEVER | PRICE_KILL | UNKNOWN |
 | VECO | Veeco Instruments | 3559 equip | M&A KILL — ACLS acquisition pending | 2026-07-13 | NEVER | PRICE_KILL | UNKNOWN |
 | ACMR | ACM Research Inc. | 3559 equip | PRICE_KILL +162% | 2026-07-13 | NEVER | PRICE_KILL | UNKNOWN |
