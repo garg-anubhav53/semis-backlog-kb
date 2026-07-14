@@ -26,3 +26,4 @@
 | RFIL | RF Industries | CAP_KILL | 2026-07-14 | $196.52M | — | 2+ | CAP_KILL: >$150M; Russell 3000; B.Riley initiated | N/A |
 | WTT | Wireless Telecom Group | DEAD_KILL | 2026-07-14 | N/A | — | — | acquired Maury Microwave 2023 | N/A |
 | PCTEL | PCTEL Inc | DEAD_KILL | 2026-07-14 | N/A | — | — | acquired Amphenol Feb 2024 | N/A |
+| TRT | Trio-Tech International | WATCH | 2026-07-14 | $112.75M | <$2M est | 0 | SIC 7389 mislabel + Singapore HQ + NYSE AMEX; triple exclusion | Q3 FY2026 rev +124%; SBS segment +141%; $10.4M burn-in board orders; IATF 16949 auto moat; cap proximity; Q4 FY2026 catalyst |

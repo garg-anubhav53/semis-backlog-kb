@@ -1,9 +1,9 @@
 # Coverage Map
 
 ## Cursor
-Last run: 2026-07-14 (Run 12 complete)
-Run count: 12
-Total companies analyzed: 24 unique (KLIC, ELMT, INTT, ASYS, ICHR, COHU, UCTT at scout level + SHMD, FORM, MTRN, AEHR, HURC, RELL, FROHF, IQEPF, XPP, TPLKF, SCIA, CVV, CMLMF, IPWR, RFIL, WTT, PCTEL)
+Last run: 2026-07-14 (Run 13 complete)
+Run count: 13
+Total companies analyzed: 25 unique (KLIC, ELMT, INTT, ASYS, ICHR, COHU, UCTT at scout level + SHMD, FORM, MTRN, AEHR, HURC, RELL, FROHF, IQEPF, XPP, TPLKF, SCIA, CVV, CMLMF, IPWR, RFIL, WTT, PCTEL, TRT)
 
 ## Analyzed
 | Ticker | Date | Verdict | Score | Notes |
@@ -28,6 +28,7 @@ Total companies analyzed: 24 unique (KLIC, ELMT, INTT, ASYS, ICHR, COHU, UCTT at
 | CVV | 2026-07-13 | PASS | — | Backlog flat at $4.7M (-66% YoY); zero new system orders (spare parts only); gross margin 8.0%; SiC deflation headwind; post-SDC divestiture restructuring; no moat found |
 | CMLMF | 2026-07-14 | WATCH | moderate+QUALIFIED | H2 FY26 inflection; GNSS 12yr moat; AIM exclusion; 0 US analysts; FY27 H1 catalyst |
 | IPWR | 2026-07-14 | PASS | none+UNKNOWN | Pre-revenue; zero orders; borderline vol; not WFE supply chain |
+| TRT | 2026-07-14 | WATCH | moderate+QUALIFIED | SIC 7389 services mislabel; Singapore HQ; NYSE AMEX; 0 analysts; Q3 FY2026 +124% rev; $10.4M burn-in orders; IATF 16949 auto moat; cap proximity risk |
 
 ## Run History
 | Run | Date | Companies Analyzed | Results | Push Status |
@@ -44,10 +45,11 @@ Total companies analyzed: 24 unique (KLIC, ELMT, INTT, ASYS, ICHR, COHU, UCTT at
 | 10 | 2026-07-13 | XPP (—), TPLKF (—) | 1 WATCH, 1 CANDIDATE | KB_UPDATED (manual direct write) |
 | 11 | 2026-07-13 | SCIA (WATCH), CVV (PASS) | 1 WATCH, 1 PASS | PUSH_OK |
 | 12 | 2026-07-14 | CMLMF (WATCH), IPWR (PASS) + kills: RFIL(CAP), WTT(DEAD), PCTEL(DEAD) | 1 WATCH, 1 PASS, 3 kills | COMPLETE |
+| 13 | 2026-07-14 | TRT (WATCH) | 1 WATCH, 0 PASS | PENDING |
 
 ## Do Not Re-Analyze (45-day cooldown)
 ICHR, ASYS, COHU, KLIC, ELMT, INTT, UCTT, SHMD, FORM, MTRN, AEHR, HURC, RELL, FROHF, IQEPF, XPP, TPLKF, SCIA, CVV — all analyzed 2026-07-13; skip until 2026-08-27
-CMLMF, IPWR, RFIL, WTT, PCTEL — all analyzed 2026-07-14; skip until 2026-08-28
+CMLMF, IPWR, RFIL, WTT, PCTEL, TRT — all analyzed 2026-07-14; skip until 2026-08-28
 
 ## Scout Pipeline (next runs — apply valuation gate first)
 | Ticker | Company | ~Mkt Cap | Signal | Priority |
