@@ -41,6 +41,8 @@
 
 | Ticker | Date | Market Cap | Notes |
 |--------|------|-----------|-------|
+| RBERP | 2026-07-15 | ~€250M (~$270M USD) | GRADUATED — was €60M 12 months ago (+383% YoY); cap above $150M ceiling; dominant MBE duopoly (ROSIE monopoly-in-formation); 2 analysts; Sep 24 H1 catalyst still intact but entry window closed |
+| ALSEM | 2026-07-15 | €523M | Euronext Growth IPO July 2025 at €154M; now €523M; 5 analysts; missed graduation window — electrostatic chuck monopoly/duopoly thesis intact but priced |
 | QUIK | 2026-07-15 | $336M | CAP_KILL: 2.2x ceiling; $8.7M daily vol (4.4x ceiling) — volume kill compounds cap kill |
 | KOPN | 2026-07-15 | $1.04B | CAP_KILL: 7x ceiling; also 3 analysts (coverage kill) |
 | POET | 2026-07-15 | $930M | CAP_KILL: 6x ceiling; POET Technologies photonic IC supplier |
@@ -58,6 +60,12 @@
 | Ticker | Date | Market Cap | Notes |
 |--------|------|-----------|-------|
 | NNODF | 2026-07-15 | £4.6M (~$5.8M) | BELOW_FLOOR_KILL: below $20M absolute floor; Nanoco Group quantum dot display materials |
+
+## Sector Kills (correct market cap and volume, but not semiconductor supply chain)
+
+| Ticker | Date | Kill Type | Reason |
+|--------|------|-----------|--------|
+| AXE | 2026-07-15 | SECTOR_KILL | Archer Materials (ASX); $56-60M cap; 0 analysts; quantum computing chip developer (12CQ) — NOT semiconductor supply chain (WFE equipment, materials, components, chemicals, subsystems); pre-revenue device maker analogous to IPWR kill |
 
 ## Coverage Kills (>4 sell-side analysts — coverage void eliminated)
 

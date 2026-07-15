@@ -1,9 +1,9 @@
 # Coverage Map
 
 ## Cursor
-Last run: 2026-07-15 (Run 14 complete)
-Run count: 14
-Total companies analyzed: 26 unique (KLIC, ELMT, INTT, ASYS, ICHR, COHU, UCTT at scout level + SHMD, FORM, MTRN, AEHR, HURC, RELL, FROHF, IQEPF, XPP, TPLKF, SCIA, CVV, CMLMF, IPWR, RFIL, WTT, PCTEL, TRT, KRMKF)
+Last run: 2026-07-15 (Run 15 complete)
+Run count: 15
+Total companies analyzed: 27 unique (KLIC, ELMT, INTT, ASYS, ICHR, COHU, UCTT at scout level + SHMD, FORM, MTRN, AEHR, HURC, RELL, FROHF, IQEPF, XPP, TPLKF, SCIA, CVV, CMLMF, IPWR, RFIL, WTT, PCTEL, TRT, KRMKF, RBERP)
 
 ## Analyzed
 | Ticker | Date | Verdict | Score | Notes |
@@ -30,6 +30,7 @@ Total companies analyzed: 26 unique (KLIC, ELMT, INTT, ASYS, ICHR, COHU, UCTT at
 | CMLMF | 2026-07-14 | WATCH | moderate+QUALIFIED | H2 FY26 inflection; GNSS 12yr moat; AIM exclusion; 0 US analysts; FY27 H1 catalyst |
 | IPWR | 2026-07-14 | PASS | none+UNKNOWN | Pre-revenue; zero orders; borderline vol; not WFE supply chain |
 | TRT | 2026-07-14 | WATCH | moderate+QUALIFIED | SIC 7389 services mislabel; Singapore HQ; NYSE AMEX; 0 analysts; Q3 FY2026 +124% rev; $10.4M burn-in orders; IATF 16949 auto moat; cap proximity risk |
+| RBERP | 2026-07-15 | GRADUATED | moderate signal+DUOPOLY moat | Euronext Growth MBE maker; cap +383% to ~€270M; was in zone at April 2026 ($124M); ROSIE monopoly-in-formation; Sep 24 catalyst; caught too late |
 
 ## Run History
 | Run | Date | Companies Analyzed | Results | Push Status |
@@ -48,20 +49,14 @@ Total companies analyzed: 26 unique (KLIC, ELMT, INTT, ASYS, ICHR, COHU, UCTT at
 | 12 | 2026-07-14 | CMLMF (WATCH), IPWR (PASS) + kills: RFIL(CAP), WTT(DEAD), PCTEL(DEAD) | 1 WATCH, 1 PASS, 3 kills | COMPLETE |
 | 13 | 2026-07-14 | TRT (WATCH) | 1 WATCH, 0 PASS | PENDING |
 | 14 | 2026-07-15 | KRMKF (WATCH) + kills: QUIK(CAP), KOPN(CAP), RBCN(DEAD), POET(CAP), NNODF(BELOW_FLOOR) | 1 WATCH, 5 kills | COMPLETE |
+| 15 | 2026-07-15 | RBERP (GRADUATED) + kills: ALSEM(CAP+COVERAGE), AXE(SECTOR), no new QUEUED names added | 0 WATCH, 0 CANDIDATE, 1 GRADUATED, 3 kills | PENDING |
 
 ## Do Not Re-Analyze (45-day cooldown)
 ICHR, ASYS, COHU, KLIC, ELMT, INTT, UCTT, SHMD, FORM, MTRN, AEHR, HURC, RELL, FROHF, IQEPF, XPP, TPLKF, SCIA, CVV — all analyzed 2026-07-13; skip until 2026-08-27
 CMLMF, IPWR, RFIL, WTT, PCTEL, TRT — all analyzed 2026-07-14; skip until 2026-08-28
 KRMKF — analyzed 2026-07-15; skip until 2026-08-29
+RBERP — analyzed 2026-07-15; skip until 2026-08-29 (also CAP_KILL above $150M ceiling)
 
 ## Scout Pipeline (next runs — apply valuation gate first)
-| Ticker | Company | ~Mkt Cap | Signal | Priority |
-|--------|---------|----------|--------|----------|
-| TRT | Trio-Tech International | ~$121M | SIC 7389 services mislabel; 0 analysts; $5.3M AI GPU burn-in board order March 2026; 124% Q3 revenue growth; verify daily vol before proceeding | HIGH |
-| CMLMF | CML Microsystems plc | ~$56M USD | AIM-listed UK; 0 US analysts; RF/mmWave ICs for satellite; cap confirmed June 2026 | MEDIUM |
-| RFIL | RF Industries Ltd | ~$40-60M est. | RF connectors for ATE; 0-1 analysts; need live cap verification | MEDIUM |
-| WTT | Wireless Telecom Group | ~$30-50M est. | RF attenuators for semi ATE; 0-1 analysts; need live cap verification | LOW |
-| PCTEL | PCTEL Inc | ~$55-85M est. | RF test solutions; 1-2 analysts; borderline analyst count | LOW |
-| IPWR | Ideal Power Inc | ~$30-60M est. | B-TRAN bidirectional power transistor; 0-1 analysts; early stage | LOW |
-| ACLS | Axcelis Technologies | ~$1.8B | $453M backlog; VECO merger pending — skip until resolved | KILL |
-| PLAB | Photronics | ~$800-950M | $330M capex; accounting flag — deprioritize | KILL |
+
+Scout pipeline status: EXHAUSTED — standard US/AIM/Euronext Growth screen returned no new qualifying names in Run 15. Pivot to: (1) Euronext Growth IPO scan 2021-2025 for semiconductor-adjacent names; (2) TSX-V specialty materials (quartz, ceramics, precision metals); (3) one controlled $150-400M cap-band run.

@@ -28,3 +28,6 @@
 | WTT | Wireless Telecom Group | DEAD_KILL | 2026-07-14 | N/A | — | — | acquired Maury Microwave 2023 | N/A |
 | PCTEL | PCTEL Inc | DEAD_KILL | 2026-07-14 | N/A | — | — | acquired Amphenol Feb 2024 | N/A |
 | TRT | Trio-Tech International | WATCH | 2026-07-14 | $112.75M | <$2M est | 0 | SIC 7389 mislabel + Singapore HQ + NYSE AMEX; triple exclusion | Q3 FY2026 rev +124%; SBS segment +141%; $10.4M burn-in board orders; IATF 16949 auto moat; cap proximity; Q4 FY2026 catalyst |
+| RBERP | Riber SA | GRADUATED | 2026-07-15 | ~€270M USD (~$263-303M) | ~€3.7M/day elevated | 2 (Edison+TPICAP) | Euronext Growth; 0 US analysts; French filings; GICS Electronic Equip (not Semiconductor Equip) | Dominant MBE duopoly (79-86% share); ROSIE silicon photonics monopoly-in-formation; order book €26.9M (+24% YoY); Jul 9 2026 order; Sep 24 H1 catalyst; GRADUATED — cap +383% YoY above $150M ceiling |
+| ALSEM | SEMCO Technologies SA | CAP_KILL | 2026-07-15 | €523M (scout find) | ~€1.2M/day | 5 | Euronext Growth IPO July 2025; graduated from zone | Electrostatic chucks for WFE; IPO at €154M now €523M; 5 analysts; CAP_KILL + COVERAGE_KILL |
+| AXE | Archer Materials Ltd | SECTOR_KILL | 2026-07-15 | ~$56-60M USD (ASX) | ~$20K/day | 0 | ASX-listed; 0 analysts; no US OTC | Quantum computing device maker (12CQ qubit); IonQ deal; NOT WFE supply chain — SECTOR_KILL |
