@@ -23,30 +23,36 @@ An individual can buy 1,000 shares with zero market impact.
 
 ---
 
-## Current WATCH List (institutionally excluded, signal verified)
+## Current WATCH List — Deep-Diligenced, Asymmetry Confirmed
 
-| Ticker | Company | Verdict | Date | Mkt Cap | Daily Vol | Analysts | Why Excluded | Key Signal |
-|--------|---------|---------|------|---------|-----------|----------|--------------|------------|
-| KRMKF | Kromek Group plc | WATCH | 2026-07-15 | £57-71M (~$71-89M) | <$50K OTC | 0 | AIM+OTC Pink+0 analysts+GICS void; quad exclusion | CBRN Detection +115% (£4.3m); H2 £8.8m orders; UK £84m/4yr + US DoD $8.2bn/10yr frameworks; FY2026 £27.2m rev + £2.15m PBT guided; Sep 2026 FY results; FY2027 Siemens cliff risk |
-| XPP | XP Power plc | WATCH | 2026-07-13 | ~£200M | thin | 6 (underwater) | UK-industrial mislabel; not in WFE screens | £115.8M order book (1.53x BTB); £16.4M cash-backed contract liabilities; 4 Aug H1 catalyst |
-| SHMD | SCHMID Group N.V. | WATCH | 2026-07-13 | ~$150-350M | thin | ~2 | Foreign-issuer coverage void; recent listing | €97M order book 1.56x covers FY2026; 6-day-old €37M order at time of analysis |
-| FROHF | Ferrotec Holdings | WATCH | 2026-07-13 | small | thin | 2 | GICS 4520 mislabel; fiscal-year stub; Japan-listed | ¥350B 9-month guidance; EV/Sales ~1.43x; WFE-consumable operating leverage |
-| HURC | Hurco Companies Inc. | WATCH | 2026-07-13 | ~$150M | thin | 1-2 | Near-zero coverage; below institutional mandate | 1.29x BTB; orders +41% YoY; 0.6x P/Sales; semiconductor narrative unconfirmed but microstructure asymmetry real |
-| ELMT | The Elmet Group Co. | WATCH | 2026-07-13 | ~$500M | thin | ~2 | Fresh IPO April 2026; accounting distortion | Record $113.3M backlog (+52% YoY); B2B 1.30x; IPO G&A one-time masking true EPS |
-| SCIA | SCI Engineered Materials Inc. | WATCH | 2026-07-13 | $30.22M | ~$50-100K/day | 0 | OTCQB + GICS Specialty Chemicals mislabel + 0 analysts = triple exclusion | Backlog +173% QoQ to $7.1M; deposits +330% QoQ; revenue +133% YoY record; QUALIFIED moat; Q2 2026 catalyst |
-| CMLMF | CML Microsystems plc | WATCH | 2026-07-14 | ~$56M | <$400K/day | 3 (UK only) | AIM/Pink Sheets; <$400K vol; 0 US analysts | H2 FY26 +18% seq; GNSS 12yr $30M+ design-in; "progressive order book"; FY27 growth expected; QUALIFIED moat |
-| TRT | Trio-Tech International | WATCH | 2026-07-14 | $112.75M | <$2M est | 0 | SIC 7389 mislabel + Singapore HQ + NYSE AMEX | Q3 FY2026 revenue +124% YoY; $10.4M burn-in orders; IATF 16949 auto moat; cap proximity risk ($158M peak); Q4 earnings Aug-Sep 2026 |
+| Ticker | Company | Verdict | Date | Mkt Cap | Buy Zone | Analysts | Moat | Next Catalyst |
+|--------|---------|---------|------|---------|----------|----------|------|---------------|
+| KRMKF | Kromek Group plc | WATCH ⚡ | 2026-07-15 | £57M (~$73M) | current price (8.3p) | 0 US / 2 UK | QUALIFIED — CZT crystal IP licensed by Siemens | **TOMORROW Jul 24 FY2026 results** — watch: (1) CBRN ≥£10M FY2026; (2) Siemens supply order confirmation; (3) FY2027 guidance; (4) PCCT OEM named; (5) net debt <£2M. 2.7x upside to 22.5p analyst PT |
+| ELMT | The Elmet Group Co. | WATCH | 2026-07-14 | ~$440M | $11-12 pullback OR Aug 25 GM ≥22% | 4 (underwriter) | MONOPOLY — sole US-owned W/Mo precision mfr; ITAR/AS9100 locked | Aug 25 Q2 2026 earnings — GM print ≥22% confirms margin expansion |
+| TRT | Trio-Tech International | WATCH | 2026-07-15 | ~$109M | $8-10 | 0 | THIN — IATF certs + relationships, not IP moat | Q4 FY2026 earnings Aug/Sep 2026 — gross margin ≥20% is the single observable |
+| CMLMF | CML Microsystems plc | WATCH | 2026-07-15 | £44.6M (~$57M) | 220-240p (not PASS at 262p) | 0 US / 1-2 UK | QUALIFIED — fabless RF niche in high-reliability comms institutions don't serve | H1 FY2027 revenue ≥£11M (Nov 2026) OR named mmWave/satellite win |
+| XPP | XP Power plc | WATCH_ASYMMETRY_SPENT | 2026-07-14 | ~£548M | 1,200-1,400p limit order | 6 (underwater) | QUALIFIED — 12-24mo OEM qualification lock-in | Aug 4 H1 2026 results — but stock already above all analyst PTs |
 
-## CANDIDATE List (signal present, asymmetry weaker)
+## Tracking (real business, outside exclusion zone)
 
-| Ticker | Company | Verdict | Date | Note |
-|--------|---------|---------|------|------|
-| FORM | FormFactor Inc. | CANDIDATE | 2026-07-13 | 2026 fully booked; 2027 ramp not in models; EV/Sales ~1.5x; post-earnings dip re-entry |
-| MTRN | Materion Corporation | CANDIDATE | 2026-07-13 | Record backlog; defense bookings; specialty-metals mislabel; Aug 5 Q2 binary |
-| RELL | Richardson Electronics | CANDIDATE | 2026-07-13 | BTB ~1.28x implied; SIC 5065 bypass real; July 29 Q4 forcing event |
-| TPLKF | PVA TePla AG | CANDIDATE | 2026-07-13 | €121.6M Q1 orders (+164% YoY) but 8 analysts, 3.4x EV/Sales — asymmetry thin |
-| IQEPF | IQE plc | CANDIDATE | 2026-07-13 | Tower SEMI InP deal + MACOM £30M investment; AIM-listed, 3 analysts; inflection 2027 |
-| INTT | inTEST Corporation | MONITOR | 2026-07-13 | B2B declined to 0.94x; needs Q2 order rebound ≥$34M to upgrade |
+| Ticker | Company | Status | Mkt Cap | Note |
+|--------|---------|--------|---------|------|
+| FROHF | Ferrotec Holdings | OVERSIZED | ~$2.74B | Ferrofluidic feedthrough monopoly, 9.4x EV/EBITDA — real moat but 18x our ceiling. Track for size-agnostic watchlist |
+
+## Deep-Diligence Kills (2026-07-14 to 2026-07-15)
+
+| Ticker | Kill Type | Reason |
+|--------|-----------|--------|
+| SHMD | INTEGRITY KILL | Negative book equity; serial dilution (43M→57.8M shares in months); active Nasdaq delisting notice; €110M vs €67M revenue unreconciled; Schmid family insider-lending at discounts. Expected value ~$2.50 vs $4.35 price |
+| HURC | SECTOR KILL | Zero semiconductor angle in any 10-K. Pure industrial CNC machine tool. "Electronics" in end-market text was the false positive |
+| SCIA | CONCENTRATION KILL | 66-74% single-customer revenue dependency. 49% H1 2025 revenue collapse unexplained. No investable moat independent of one relationship |
+| FORM | CAP KILL | $9.07B market cap — 45x the ceiling |
+| MTRN | TRIPLE KILL | +255.86% 12-mo + $5.41B cap + 5+ analysts |
+| TPLKF | COVERAGE KILL | 8-17 sell-side analysts |
+| CVV | INTEGRITY KILL | Nasdaq compliance warning + +134% 12-mo + -78% Q1 revenue collapse + $4.1M annual cash burn |
+| INTT | PRICE KILL | +119.89% 12-month return |
+| RELL | CAP KILL | Graduated to $238M (was ~$150M on card) — backlog thesis was correct, stock re-rated first |
+| IQEPF | DOUBLE KILL | +300%+ 12-mo + $690M market cap (was ~$100M on card) — Tower/MACOM thesis was correct, market priced it violently |
 
 ## Price-Screen / Asymmetry-Void Kills
 
