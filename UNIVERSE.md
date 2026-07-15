@@ -3,10 +3,10 @@
 This file is the persistent map of all exclusion-zone semiconductor supply chain companies ever surfaced by the routine. Scouts add to it every run. The pipeline rotates through it systematically.
 
 ## Rotation Cursor
-Next to analyze: NONE (queue empty — fresh scouting required)
+Next to analyze: QUEUED: RBERP (OTC ticker unconfirmed; Euronext Paris MBE equipment maker)
 Last full rotation completed: NEVER
-Universe size: 32
-Analyzed this quarter: 19
+Universe size: 38
+Analyzed this quarter: 20
 
 ## Legend
 Status: WATCH | CANDIDATE | PASS | PRICE_KILL | GRADUATED (left exclusion zone) | QUEUED (found, not yet analyzed)
@@ -16,6 +16,7 @@ Moat: MONOPOLY | DUOPOLY | QUALIFIED (requalification >12mo) | COMPETING | COMMO
 
 | Ticker | Company | SIC / GICS | Excl. Reason | Date Added | Last Analyzed | Status | Moat |
 |--------|---------|-----------|--------------|------------|---------------|--------|------|
+| KRMKF | Kromek Group plc | CZT radiation detectors (instruments/medical) | AIM + OTC Pink dual-venue exclusion; 0 analysts; GICS void; Siemens milestone distortion | 2026-07-15 | 2026-07-15 | WATCH | QUALIFIED |
 | XPP | XP Power plc | UK-industrial mislabel | GICS void; thin English coverage | 2026-07-13 | 2026-07-13 | WATCH_ASYMMETRY_SPENT | QUALIFIED |
 | SHMD | SCHMID Group N.V. | Recent foreign listing | Coverage void; new listing | 2026-07-13 | 2026-07-13 | TRIAGE_KILL | COMPETING |
 | FROHF | Ferrotec Holdings | GICS 4520 mislabel | Japan-listed; fiscal stub; industrial label | 2026-07-13 | 2026-07-14 | OVERSIZED | MONOPOLY |
@@ -49,3 +50,9 @@ Moat: MONOPOLY | DUOPOLY | QUALIFIED (requalification >12mo) | COMPETING | COMMO
 | GSIT | GSI Technology Inc | 3674 SRAM | CAP KILL — $261M cap; also +219% YoY | 2026-07-13 | NEVER | PRICE_KILL | UNKNOWN |
 | NVEC | NVE Corporation | 3674 spintronics | CAP KILL — $474M cap | 2026-07-13 | NEVER | PRICE_KILL | UNKNOWN |
 | EMKR | EMCORE Corporation | 3674 compound semi | ANALYTIC KILL — acquired by Charlesbank (Velocity One) March 2025 | 2026-07-13 | NEVER | PRICE_KILL | UNKNOWN |
+| QUIK | QuickLogic Corporation | 3674 FPGA semi | CAP_KILL — $336M cap (2.2x ceiling); $8.7M daily vol (4.4x ceiling) | 2026-07-15 | NEVER | CAP_KILL | UNKNOWN |
+| KOPN | Kopin Corporation | 3674 micro-display compound semi | CAP_KILL — $1.04B cap (7x ceiling); 3 analysts (coverage kill) | 2026-07-15 | NEVER | CAP_KILL | UNKNOWN |
+| RBCN | Rubicon Technology | 3674 sapphire crystal | DEAD_KILL — delisted NASDAQ Dec 2022; now OTC Pink with 11 analysts reported | 2026-07-15 | NEVER | DEAD_KILL | UNKNOWN |
+| POET | POET Technologies Inc | 3674 compound semi/photonic IC | CAP_KILL — $930M cap (6x ceiling) | 2026-07-15 | NEVER | CAP_KILL | UNKNOWN |
+| NNODF | Nanoco Group plc | GICS instruments/specialty materials | BELOW_FLOOR_KILL — £4.6M cap (below $20M floor); quantum dot display materials | 2026-07-15 | NEVER | BELOW_FLOOR_KILL | UNKNOWN |
+| RBERP | Riber SA | 3559 MBE equipment (Euronext Paris) | QUEUED — €20-30M cap est; 0-1 French analysts; 0 US analysts; no confirmed OTC US ticker; Euronext Paris Growth listing; MBE equipment for III-V compound semi | 2026-07-15 | NEVER | QUEUED | UNKNOWN |

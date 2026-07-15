@@ -27,6 +27,7 @@ An individual can buy 1,000 shares with zero market impact.
 
 | Ticker | Company | Verdict | Date | Mkt Cap | Daily Vol | Analysts | Why Excluded | Key Signal |
 |--------|---------|---------|------|---------|-----------|----------|--------------|------------|
+| KRMKF | Kromek Group plc | WATCH | 2026-07-15 | £57-71M (~$71-89M) | <$50K OTC | 0 | AIM+OTC Pink+0 analysts+GICS void; quad exclusion | CBRN Detection +115% (£4.3m); H2 £8.8m orders; UK £84m/4yr + US DoD $8.2bn/10yr frameworks; FY2026 £27.2m rev + £2.15m PBT guided; Sep 2026 FY results; FY2027 Siemens cliff risk |
 | XPP | XP Power plc | WATCH | 2026-07-13 | ~£200M | thin | 6 (underwater) | UK-industrial mislabel; not in WFE screens | £115.8M order book (1.53x BTB); £16.4M cash-backed contract liabilities; 4 Aug H1 catalyst |
 | SHMD | SCHMID Group N.V. | WATCH | 2026-07-13 | ~$150-350M | thin | ~2 | Foreign-issuer coverage void; recent listing | €97M order book 1.56x covers FY2026; 6-day-old €37M order at time of analysis |
 | FROHF | Ferrotec Holdings | WATCH | 2026-07-13 | small | thin | 2 | GICS 4520 mislabel; fiscal-year stub; Japan-listed | ¥350B 9-month guidance; EV/Sales ~1.43x; WFE-consumable operating leverage |
@@ -76,7 +77,8 @@ An individual can buy 1,000 shares with zero market impact.
 6. **Universe exhaustion is the signal to go deeper/sideways.** When 13 of 15 candidates fail the gate in a single run, it means the layer being screened is played out — move down-cap or into non-OEM materials/consumables.
 7. **QUEUED universe self-prunes rapidly via M&A and cap graduation.** This run found 3 of 5 QUEUED names were either acquired (WTT, PCTEL) or graduated past the cap ceiling (RFIL). Universe requires continuous fresh scouting to replace pruned names. The exclusion zone is not static — names exit via graduation (good outcome) or acquisition (neutral). Running the QUEUED list to completion requires scout runs to refill.
 8. **SIC services-code mislabels create deep exclusion.** SIC 7389 ("Services — NEC") keeps TRT off every semiconductor fund screen regardless of what the company does. Once a company is in a services SIC code, it is structurally invisible to chip-supply-chain quant screens until a deliberate reclassification.
+9. **Universe exhaustion after 14 runs signals axis pivot, not re-run.** The $20–150M / <2 analyst / <$2M volume / semiconductor supply chain gate is now mined out; the last survivor (KRMKF) cleared only via listing-venue gap + GICS void, not via fundamental mispricing. The intersection is finite and small; re-running the identical gate returns the empty set. Next scouting must pivot: (1) shift from coverage-gap to listing-venue-gap (AIM, TSX-V, ASX, KOSDAQ, Taipei, Japan small-caps); (2) mine GICS void up the WFE chain (specialty materials, precision components); (3) test cap-band widen to $150–400M for one controlled run. Do not re-check CANDIDATE cohort — their triggers are catalyst-scheduled, not calendar-daily.
 
 ---
 
-*Doctrine formalized: 2026-07-13 — 10 runs completed; 5 institutional-exclusion-zone WATCHes active; next runs source from Finviz Nano/Micro + EDGAR SIC + SBIR Phase II + OTC Markets.*
+*Doctrine formalized: 2026-07-13 — 10 runs completed; 5 institutional-exclusion-zone WATCHes active; 2026-07-15 Run 14 confirms universe exhaustion; pivot scouting axis.*

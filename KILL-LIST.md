@@ -4,6 +4,7 @@
 
 | Ticker | Date | Kill Type | Reason |
 |--------|------|-----------|--------|
+| RBCN | 2026-07-15 | DEAD_KILL | Delisted from NASDAQ December 2022; now trades OTC Pink only; 11 analysts reported (coverage kill if relisted); sapphire crystal substrate supplier for LED/RF |
 | SHMD | 2026-07-14 | INTEGRITY KILL | Negative book equity (-€54.6M); active Nasdaq delisting compliance notice (unresolved); shares outstanding 43M→57.8M in months via converts/SEPA (serial dilution); €110M vs €67M revenue discrepancy unreconciled between press release and filings; Schmid family insider lending at discount terms to own public company |
 | HURC | 2026-07-14 | SECTOR KILL | False positive — no semiconductor angle in any 10-K or earnings call. Pure industrial CNC machine tool company. "Electronics" in end-market descriptions triggered screen incorrectly. Remove from semiconductor watchlist permanently. Note: real business, net cash $50M, buy zone $15-17 on industrial cyclical watchlist |
 | AKTS/AKTSQ | 2026-07-13 | INTEGRITY KILL | In or near bankruptcy; AKTSQ OTC suffix indicates post-default |
@@ -40,6 +41,9 @@
 
 | Ticker | Date | Market Cap | Notes |
 |--------|------|-----------|-------|
+| QUIK | 2026-07-15 | $336M | CAP_KILL: 2.2x ceiling; $8.7M daily vol (4.4x ceiling) — volume kill compounds cap kill |
+| KOPN | 2026-07-15 | $1.04B | CAP_KILL: 7x ceiling; also 3 analysts (coverage kill) |
+| POET | 2026-07-15 | $930M | CAP_KILL: 6x ceiling; POET Technologies photonic IC supplier |
 | RFIL | 2026-07-14 | $196.52M | Market cap exceeds $150M ceiling; joined Russell 3000 June 29 2026; B. Riley initiated at $18 PT; exclusion zone exited |
 | FROHF | 2026-07-14 | ~$2.74B | Mislabeled as small cap; actually 18x our ceiling. Ferrofluidic feedthrough moat is genuine; EV/EBITDA ~9.4x vs. Entegris 15-20x. Track separately for size-agnostic watchlist |
 | LSRCY | 2026-07-13 | ~$27.4B | 180x ceiling; EUV mask inspection monopoly |
@@ -48,6 +52,12 @@
 | FEIM | 2026-07-13 | $747M | 5x ceiling; Frequency Electronics |
 | NVEC | 2026-07-13 | $474M | 3x ceiling; NVE Corporation spintronics |
 | MX | 2026-07-13 | ~$270M | Above ceiling; MagnaChip Semiconductor |
+
+## Floor Kills (market cap below $20M minimum — below screening minimum)
+
+| Ticker | Date | Market Cap | Notes |
+|--------|------|-----------|-------|
+| NNODF | 2026-07-15 | £4.6M (~$5.8M) | BELOW_FLOOR_KILL: below $20M absolute floor; Nanoco Group quantum dot display materials |
 
 ## Coverage Kills (>4 sell-side analysts — coverage void eliminated)
 

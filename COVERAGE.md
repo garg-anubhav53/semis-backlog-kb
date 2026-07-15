@@ -1,13 +1,14 @@
 # Coverage Map
 
 ## Cursor
-Last run: 2026-07-14 (Run 13 complete)
-Run count: 13
-Total companies analyzed: 25 unique (KLIC, ELMT, INTT, ASYS, ICHR, COHU, UCTT at scout level + SHMD, FORM, MTRN, AEHR, HURC, RELL, FROHF, IQEPF, XPP, TPLKF, SCIA, CVV, CMLMF, IPWR, RFIL, WTT, PCTEL, TRT)
+Last run: 2026-07-15 (Run 14 complete)
+Run count: 14
+Total companies analyzed: 26 unique (KLIC, ELMT, INTT, ASYS, ICHR, COHU, UCTT at scout level + SHMD, FORM, MTRN, AEHR, HURC, RELL, FROHF, IQEPF, XPP, TPLKF, SCIA, CVV, CMLMF, IPWR, RFIL, WTT, PCTEL, TRT, KRMKF)
 
 ## Analyzed
 | Ticker | Date | Verdict | Score | Notes |
 |--------|------|---------|-------|-------|
+| KRMKF | 2026-07-15 | WATCH | moderate+QUALIFIED | AIM/OTC Pink 0-analyst; CBRN gov franchise; Sep 2026 FY results forcing event; FY2027 Siemens cliff primary risk |
 | ICHR | 2026-07-13 | PRICE_KILL | 78 | Analyzed run 1; price-screened by run 3 (+323%) |
 | ASYS | 2026-07-13 | PRICE_KILL | 75 | Analyzed runs 1, 2, 4; price-screened by run 3 (+572%) |
 | COHU | 2026-07-13 | PRICE_KILL | 75 | Analyzed run 2; price-screened by run 3 (+213%) |
@@ -46,10 +47,12 @@ Total companies analyzed: 25 unique (KLIC, ELMT, INTT, ASYS, ICHR, COHU, UCTT at
 | 11 | 2026-07-13 | SCIA (WATCH), CVV (PASS) | 1 WATCH, 1 PASS | PUSH_OK |
 | 12 | 2026-07-14 | CMLMF (WATCH), IPWR (PASS) + kills: RFIL(CAP), WTT(DEAD), PCTEL(DEAD) | 1 WATCH, 1 PASS, 3 kills | COMPLETE |
 | 13 | 2026-07-14 | TRT (WATCH) | 1 WATCH, 0 PASS | PENDING |
+| 14 | 2026-07-15 | KRMKF (WATCH) + kills: QUIK(CAP), KOPN(CAP), RBCN(DEAD), POET(CAP), NNODF(BELOW_FLOOR) | 1 WATCH, 5 kills | COMPLETE |
 
 ## Do Not Re-Analyze (45-day cooldown)
 ICHR, ASYS, COHU, KLIC, ELMT, INTT, UCTT, SHMD, FORM, MTRN, AEHR, HURC, RELL, FROHF, IQEPF, XPP, TPLKF, SCIA, CVV — all analyzed 2026-07-13; skip until 2026-08-27
 CMLMF, IPWR, RFIL, WTT, PCTEL, TRT — all analyzed 2026-07-14; skip until 2026-08-28
+KRMKF — analyzed 2026-07-15; skip until 2026-08-29
 
 ## Scout Pipeline (next runs — apply valuation gate first)
 | Ticker | Company | ~Mkt Cap | Signal | Priority |

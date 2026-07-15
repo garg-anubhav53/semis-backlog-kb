@@ -2,6 +2,7 @@
 
 | Ticker | Company | Verdict | Date | Mkt Cap | Daily Vol | Analysts | Why Excluded from Institutions | Key Signal |
 |--------|---------|---------|------|---------|-----------|----------|-------------------------------|------------|
+| KRMKF | Kromek Group plc | WATCH | 2026-07-15 | £57-71M (~$71-89M) | <$50K/day OTC | 0 | AIM+OTC Pink+0 analysts+GICS void; quad exclusion | CBRN Detection +115% YoY (£4.3m); FY2026 £27.2m rev + £2.15m PBT guided; H2 £8.8m orders; UK Home Office £84m pre-qual + US DoD $8.2bn IDIQ; Sep 2026 FY results forcing event |
 | XPP | XP Power plc | WATCH | 2026-07-13 | ~£200M | thin | 6 (underwater) | UK-industrial GICS mislabel; not in WFE screens | £115.8M order book (1.53x BTB, +48% Q1 intake YoY); £16.4M cash-backed contract liabilities; P/S ~1.7-2.1x |
 | SHMD | SCHMID Group N.V. | WATCH | 2026-07-13 | ~$150-350M | thin | ~2 | Foreign-issuer coverage void; recent listing | €97M order book 1.56x FY2026 guidance; €37M order 6 days prior; July 14 Q2 update |
 | FROHF | Ferrotec Holdings | WATCH | 2026-07-13 | small | thin | 2 | GICS 4520 mislabel; Japan-listed OTC; fiscal stub | ¥350B 9-month guidance; EV/Sales ~1.43x; WFE-consumable operating leverage |
