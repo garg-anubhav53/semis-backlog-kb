@@ -133,3 +133,94 @@ Ranked highest → lowest conviction across the full standing WATCH list (source
   "macro_note": "Record WFE cycle (~$140-150B CY2026) does NOT lift either name — GaN laser defense (BLG) and CZT medical imaging (KRMKF) are not WFE-correlated; both reach screen only via GICS/classification voids."
 }
 ```
+
+---
+---
+
+# Cross-Company Synthesis (Addendum) — 2026-07-16 — ENSI Run
+
+**Run context:** Single-company run. **EnSilica plc (AIM: ENSI)** evaluated under the 2x2 framework. The second candidate, **CMX (ChemX Materials)**, was killed on entry as **BELOW_FLOOR** ($2.2M USD market cap, ASX-suspended) — it never reached scoring. All scout attempts to find a replacement second name failed; the universe is exhausted per established doctrine. This addendum therefore synthesizes **one** name against the framework and does not force a cross-company comparison that no longer exists.
+
+**Framework note — Step 4b override applied:** The Step 4b memo (ENSI-2026-07-16.md) labeled ENSI **CANDIDATE**. That label used a "passes-all-questions, watch-the-cash" rubric — **not** the 2x2 defined for this step. Under the 2x2 as written, CANDIDATE means *weak signal + strong moat*. ENSI's signal is **Strong** (Step 4b and the brief both concur), and a Strong signal **cannot** occupy the CANDIDATE cell. The framework therefore reaches a **different verdict: WATCH.** This is the intended reconciliation, not a contradiction.
+
+---
+
+## 2x2 Verdict Matrix
+
+| Company | Signal Strength | Moat Strength | Verdict |
+|---|---|---|---|
+| **ENSI** | **Strong** | **Qualified** (product-level monopoly; company-level requalification lock-in) | **WATCH — high conviction (durable re-rating), balance-sheet-caveated** |
+| CMX | — | — | **KILLED — BELOW_FLOOR** (never scored; $2.2M cap, ASX-suspended) |
+
+**Cell mapping:** Strong signal + a genuine (Qualified) moat lands in the **top-left / high-conviction WATCH** region — *not* the timing-sensitive momentum-trade cell, which is reserved for Strong signal + **weak/unknown** moat. A Qualified moat (sole-source per part, requalification >12mo, installed-base stickiness) is a real structural moat, so this is a **hold-through-volatility, durable re-rating** thesis rather than a momentum trade. It sits **below** a company-wide Monopoly name (e.g. ELMT on the standing list) because the moat is *product-level*, not a single company-wide structural lock, and because a live financing risk caps equity durability until the end-2026 cash-flow inflection.
+
+---
+
+## ENSI (EnSilica plc) — WATCH (high conviction, balance-sheet-caveated)
+
+### SIGNAL: STRONG
+Order momentum is real, specific, and cash-backed. It clears the criteria decisively, with one honest data gap.
+
+- **Backlog growing — YES.** £250M lifetime supply under contract (**2.4x** the £107M market cap), plus £400M identified pipeline (mgmt-guided 25–30% win rate → +£100–120M incremental). Backlog is not static: 5 new design-and-supply ASIC contracts + 1 supply contract were won in H1 FY2026 alone.
+- **Forward coverage extraordinary.** **95% of FY2026 revenue contracted** (billing certainty, not guidance) and **~80% of FY2027 pre-contracted** as of Feb 2026 reporting. These are unusually high visibility ratios for a sub-£150M name.
+- **Specific delivery commitments — YES.** £18M **7-year** design-and-supply ASIC contract (European auto/industrial); £75M multi-year automotive supply contract (European Tier-1); 4 chips in production, 9+ in design pipeline. Named counterparties: AST SpaceMobile, Siemens, Oriole Networks, unnamed Tier-1 automotive.
+- **Realized in the P&L.** FY2026 revenue **£27.5M (+51% YoY)**, record, beat top of guidance; EBITDA **£4.7M**, beat the £3.5–4.5M range. The FY2025 −28% dip was NRE-phase lumpiness, not demand failure — FY2026 confirms the supply transition.
+- **Bookings > billings (implied B2B >1.0).** Not disclosed as a formal ratio, but 5 design+supply wins + 1 supply win booked in a half that billed £12.7M implies a book-to-bill comfortably above 1.0.
+- **Data gap (flagged, not fatal):** contract-liability / customer-deposit balance-sheet lines were not extractable (annual-report PDF returned HTTP 403). This leaves the *cash pre-payment* leg unverified. It does not downgrade the signal — the contracted-coverage ratios already evidence deferred recognition — but it is the one criterion not directly confirmed. **Net: Strong.**
+
+### MOAT: QUALIFIED (product-level monopoly)
+Real, structural, and compounding — but company-level, not a regulatory/structural company-wide monopoly.
+
+- **Sole-source (per product) — YES.** Each custom ASIC has exactly one mask set, one GDSII, one qualified supply relationship. Per part, ENSI is the only possible source by design.
+- **Requalification >12mo — YES.** 12–24mo minimum; 18–36mo and £0.5–5M+ in automotive (AEC-Q100 / IATF 16949) and satellite/space (radiation, thermal, vibration) segments. This is the defining feature of the **Qualified** category.
+- **Installed-base stickiness — YES.** The 7-year supply term and automotive programme-lifetime economics (5–10yr production + spares) make mid-programme switching commercially prohibitive.
+- **Proprietary process — PARTIAL.** Design capability + ARM partner accreditation narrow the qualified supplier pool, but ENSI is **fabless** (third-party foundries) — no proprietary *manufacturing* process. The moat is design + accreditation + lock-in, not a fab.
+- **Monopoly/duopoly framing — PRODUCT-LEVEL only.** Company-level, a customer can engage a different design house (Socionext, GF ASIC, others) for the *next* chip. No regulatory licence or structural barrier prevents that. Hence **Qualified**, not **Monopoly**.
+- **Compounding dynamic (the key structural point):** the moat grows with each of the 9+ pipeline chips that graduates to production — every new production ASIC is another product-level monopoly bolted onto the recurring base. **Net: Qualified**, at the strong end of the category.
+
+### Macro linkage (WFE correlation) — INDIRECT / DOWNSTREAM, not beta
+Consistent with this run's discipline: ENSI is **not** a WFE equipment play and will not appear on any WFE screen. Its end-markets (automotive electrification, satellite broadband, industrial, AI edge/photonics) are **downstream** of the structural AI demand that drives the WFE cycle — closer to the demand cycle than KRMKF/BLG (edge AI increasingly needs custom ASICs over general-purpose silicon), but the record ~$140–150B WFE capex cycle does **not** provide direct beta. Credit a modest secular demand tailwind, not cycle beta. It reaches the screen via **AIM invisibility + business-model/SIC classification void**, not via the equipment cycle.
+
+### (a) What keeps institutions out NOW
+1. **AIM listing (not LSE Main Market)** → excluded from FTSE All-Share, MSCI standard indices, and all US semiconductor ETFs (SOXX / SMH / XSD / PSI). No ADR, no US roadshow.
+2. **Business-model / classification mismatch** — design services + chip supply maps cleanly to no standard semiconductor SIC/GICS bucket; automated sector/ETF processes never organically capture it.
+3. **FCF not yet positive** (breakeven guided end-CY2026) → removed from FCF-positive and most quality screens today. This filter alone excludes the natural graduation buyers.
+4. **Coverage desert** — 1–2 UK analysts, **zero US coverage**; nobody is marketing this to a Fidelity/Wellington PM.
+5. **Illiquidity** — ~£100–300K/day volume caps institutional position-building; sizing >£0.5–1M requires multi-week accumulation with price impact.
+6. **£250M contracted backlog is invisible to standard ratios** — a P/E or EV/EBITDA screen cannot see contracted-but-undelivered lifetime supply; market cap (£107M) is <half the contracted backlog.
+7. **Prior FY2025 −28% dip** trips momentum/mean-reversion screens as a false negative.
+
+### (b) Graduation trigger (institutions CAN buy = re-rating event)
+- **Primary / binary: operating-cash-flow breakeven** confirmed (guided end-CY2026; most likely printed at **H1 FY2027 results, Jan–Feb 2027**). Removes the cash-burn discount and opens FCF-positive + quality-growth mandates.
+- **FY2027 guidance at FY2026 annual results (~Aug 2026)** — with 80% pre-contracted, a specific £35–40M-type print compresses forward EV/Revenue and makes the valuation legible to generalists.
+- **Rolling: pipeline-to-production** — each of the 9+ chips taping out and entering production step-changes the recurring supply run-rate (RNS-announceable).
+- **First US analyst initiation** — hardest to forecast, disproportionate impact off a zero-coverage base.
+- **Mechanical: market cap crossing ~£150M** (UK small-cap discovery) then ~£250M+ (mid-cap / early US small-cap). Current price leaves ~40–100% of appreciation runway before the discovery threshold binds.
+
+### (c) What kills the thesis
+- **Financing risk (primary):** ~£2M cash is thin. If FCF breakeven slips past end-2026, an AIM placing at a discount is the likely fix — dilutive. This is the single biggest equity risk.
+- **Customer concentration (undisclosed):** loss of a major customer's *next* programme could reproduce an FY2025-style dip; the data does not disclose top-1–3 customer share.
+- **Delivery/tape-out slippage** (foundry capacity, design iterations) → guidance miss on the uncontracted ~20% FY2027 tail.
+- **Moat is product-level:** if the design-win rate on *new* programmes falls, the compounding stops and ENSI becomes a slow-grower at a full multiple (~3.8x EV/Sales, ~22x EV/EBITDA on trailing — not cheap).
+- **Structural trap:** if a US institutional pathway never opens, the asymmetry never gets paid despite a real business.
+
+---
+
+## Thesis Durability (one paragraph)
+
+The ENSI thesis is **durable on the business and moat, exposed on the balance sheet**. Each production ASIC is a multi-year annuity guarded by a >12-month requalification wall, and the moat *compounds* — every chip that graduates from the 9+ pipeline into production bolts another product-level monopoly onto the recurring base, while the £250M contracted lifetime supply (2.4x market cap) sits as a floor that standard ratios cannot see. That structure supports a **hold-through-volatility, durable re-rating** posture, not a momentum trade — which is precisely why the 2x2 pushes past Step 4b's CANDIDATE label to **WATCH**. The vulnerability is runway, not franchise: ~£2M cash against a not-yet-achieved FCF breakeven means one delivery slip forces a dilutive raise, and undisclosed customer concentration leaves a tail risk of another FY2025-style trough. Durability is therefore **high on the moat/signal and moderate on the equity** until the end-2026 cash-flow inflection prints — after which the same name re-rates from "invisible pre-breakeven AIM micro-cap" to a screenable, FCF-positive, backlog-covered compounder. Ranked against the standing WATCH list, ENSI slots as a **high-conviction WATCH below the Monopoly-moat names (e.g. ELMT) but on par with or above the other Qualified-moat WATCHes**, distinguished by the strongest *confirmed forward-contracted* signal on the book (95%/80% coverage).
+
+---
+
+```json
+{
+  "date": "2026-07-16",
+  "run": "ENSI single-company run (CMX killed BELOW_FLOOR; universe exhausted)",
+  "evaluations": [
+    {"ticker": "ENSI", "company": "EnSilica plc (AIM)", "signal": "Strong", "moat": "Qualified (product-level monopoly)", "verdict": "WATCH (high conviction, balance-sheet-caveated)", "step4b_label": "CANDIDATE (superseded — different rubric)", "framework_2x2_cell": "Strong signal + Qualified moat = high-conviction WATCH", "wfe_correlated": false, "macro_link": "indirect/downstream (edge-AI ASIC demand), not WFE beta", "graduation_trigger": "operating cash-flow breakeven end-CY2026 (printed ~H1 FY2027 results Jan-Feb 2027); FY2027 guidance at FY2026 annuals ~Aug 2026", "primary_kill": "thin ~£2M cash + FCF-breakeven slip -> dilutive AIM placing; undisclosed customer concentration"},
+    {"ticker": "CMX", "company": "ChemX Materials (ASX)", "verdict": "KILLED — BELOW_FLOOR", "reason": "$2.2M USD cap, ASX-suspended; never scored"}
+  ],
+  "override_note": "Step 4b labeled ENSI CANDIDATE under a pass/watch-cash rubric. Under the 2x2 (CANDIDATE = weak signal + strong moat), a Strong signal cannot occupy CANDIDATE; framework verdict = WATCH.",
+  "macro_note": "ENSI is not WFE-correlated; downstream of structural AI/auto/space demand but not equipment-cycle beta. Reaches screen via AIM invisibility + SIC/GICS classification void."
+}
+```

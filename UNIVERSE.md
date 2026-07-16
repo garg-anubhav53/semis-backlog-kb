@@ -3,10 +3,10 @@
 This file is the persistent map of all exclusion-zone semiconductor supply chain companies ever surfaced by the routine. Scouts add to it every run. The pipeline rotates through it systematically.
 
 ## Rotation Cursor
-Next to analyze: CMX (ChemX Materials, ASX) — pivot scan yielded 1 new QUEUED name; run on next session
+Next to analyze: [queue empty — scouts needed]
 Last full rotation completed: NEVER (queue cleared; scouts found no passing replacements)
-Universe size: 40 (BLG added as CANDIDATE, CMX added as QUEUED from Run 16 ASX pivot)
-Analyzed this quarter: 21 (KRMKF re-checked Run 16; BLG new)
+Universe size: 42 (ENSI added as WATCH, SOLI added as COVERAGE_KILL, CMX moved to BELOW_FLOOR_KILL+SUSPENDED)
+Analyzed this quarter: 24 (KRMKF re-checked Run 16; BLG, ENSI new; SOLI, CMX analyzed Run 17)
 
 ## Legend
 Status: WATCH | CANDIDATE | PASS | PRICE_KILL | GRADUATED (left exclusion zone) | QUEUED (found, not yet analyzed)
@@ -18,7 +18,9 @@ Moat: MONOPOLY | DUOPOLY | QUALIFIED (requalification >12mo) | COMPETING | COMMO
 |--------|---------|-----------|--------------|------------|---------------|--------|------|
 | KRMKF | Kromek Group plc | CZT radiation detectors (instruments/medical) | AIM + OTC Pink dual-venue exclusion; 0 analysts; GICS void; Siemens milestone distortion | 2026-07-15 | 2026-07-16 | WATCH | QUALIFIED |
 | BLG | BluGlass Limited | 3674/GaN compound semi foundry | ASX micro-cap; ~$40M USD cap; 0-2 boutique analysts; RPCVD GaN laser foundry/IP licensor | 2026-07-16 | 2026-07-16 | CANDIDATE | QUALIFIED |
-| CMX | ChemX Materials Limited | 2819 specialty materials (HPA) | ASX micro-cap; ~$20-22M USD cap; 0 analysts; High Purity Alumina for semiconductor substrates | 2026-07-16 | NEVER | QUEUED | UNKNOWN |
+| CMX | ChemX Materials Limited | 2819 specialty materials (HPA) | BELOW_FLOOR_KILL + SUSPENDED: cap $2.2M USD (90% below $20M floor); ASX trading suspended Dec 2024; pre-commercial HPA producer | 2026-07-16 | 2026-07-16 | BELOW_FLOOR_KILL | UNKNOWN |
+| ENSI | EnSilica plc | 3674/Fabless ASIC design (AIM) | AIM-listed; 1-2 analysts; SIC/GICS classification void; no US coverage; NRE+supply model mislabeled by screeners | 2026-07-16 | 2026-07-16 | WATCH | QUALIFIED |
+| SOLI | Solid State plc | Electronic components (AIM) | AIM-listed; £90.95M (~$114M) cap; 4 analysts (fails ≤2 gate) | 2026-07-16 | 2026-07-16 | COVERAGE_KILL | UNKNOWN |
 | XPP | XP Power plc | UK-industrial mislabel | GICS void; thin English coverage | 2026-07-13 | 2026-07-13 | WATCH_ASYMMETRY_SPENT | QUALIFIED |
 | SHMD | SCHMID Group N.V. | Recent foreign listing | Coverage void; new listing | 2026-07-13 | 2026-07-13 | TRIAGE_KILL | COMPETING |
 | FROHF | Ferrotec Holdings | GICS 4520 mislabel | Japan-listed; fiscal stub; industrial label | 2026-07-13 | 2026-07-14 | OVERSIZED | MONOPOLY |

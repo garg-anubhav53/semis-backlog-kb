@@ -59,6 +59,7 @@
 
 | Ticker | Date | Market Cap | Notes |
 |--------|------|-----------|-------|
+| CMX | 2026-07-16 | $2.2M USD | BELOW_FLOOR_KILL + SUSPENDED: cap 90% below $20M floor; ASX trading suspended since December 19, 2024; pre-commercial HPA producer; HiPurA® pilot plant commissioned June 2024 but zero commercial HPA revenue; Mercer Street convertible facility restructuring; BELOW_FLOOR and SUSPENDED dual kill |
 | NNODF | 2026-07-15 | £4.6M (~$5.8M) | BELOW_FLOOR_KILL: below $20M absolute floor; Nanoco Group quantum dot display materials |
 
 ## Sector Kills (correct market cap and volume, but not semiconductor supply chain)
@@ -71,6 +72,7 @@
 
 | Ticker | Date | Analyst Count | Notes |
 |--------|------|--------------|-------|
+| SOLI | 2026-07-16 | 4 | Solid State plc; AIM-listed; £90.95M (~$114M USD) cap and ~£100-509K/day volume both pass; revenue £125M FY2025; defense-grade electronic components; fails on 4 analysts (needs ≤2) |
 | KLIC | 2026-07-13 | 12+ | Graduated — now well-covered; thesis priced |
 | VSH | 2026-07-13 | 10 | Vishay Intertechnology |
 | COMT/COTN.SW | 2026-07-13 | 10 | Comet Group AG |

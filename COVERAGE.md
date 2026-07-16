@@ -1,9 +1,9 @@
 # Coverage Map
 
 ## Cursor
-Last run: 2026-07-16 (Run 16 complete)
-Run count: 16
-Total companies analyzed: 28 unique (KLIC, ELMT, INTT, ASYS, ICHR, COHU, UCTT at scout level + SHMD, FORM, MTRN, AEHR, HURC, RELL, FROHF, IQEPF, XPP, TPLKF, SCIA, CVV, CMLMF, IPWR, RFIL, WTT, PCTEL, TRT, KRMKF, RBERP, BLG)
+Last run: 2026-07-16 (Run 17 complete)
+Run count: 17
+Total companies analyzed: 31 unique (KLIC, ELMT, INTT, ASYS, ICHR, COHU, UCTT at scout level + SHMD, FORM, MTRN, AEHR, HURC, RELL, FROHF, IQEPF, XPP, TPLKF, SCIA, CVV, CMLMF, IPWR, RFIL, WTT, PCTEL, TRT, KRMKF, RBERP, BLG, ENSI, CMX, SOLI)
 
 ## Analyzed
 | Ticker | Date | Verdict | Score | Notes |
@@ -32,6 +32,8 @@ Total companies analyzed: 28 unique (KLIC, ELMT, INTT, ASYS, ICHR, COHU, UCTT at
 | IPWR | 2026-07-14 | PASS | none+UNKNOWN | Pre-revenue; zero orders; borderline vol; not WFE supply chain |
 | TRT | 2026-07-14 | WATCH | moderate+QUALIFIED | SIC 7389 services mislabel; Singapore HQ; NYSE AMEX; 0 analysts; Q3 FY2026 +124% rev; $10.4M burn-in orders; IATF 16949 auto moat; cap proximity risk |
 | RBERP | 2026-07-15 | GRADUATED | moderate signal+DUOPOLY moat | Euronext Growth MBE maker; cap +383% to ~€270M; was in zone at April 2026 ($124M); ROSIE monopoly-in-formation; Sep 24 catalyst; caught too late |
+| ENSI | 2026-07-16 | WATCH | strong+QUALIFIED | AIM-listed custom ASIC design+supply; £250M contracted backlog 2.4x mkt cap; 51% revenue growth; 80% FY2027 pre-contracted; QUALIFIED moat (custom ASIC lock-in 18-36mo; 7yr supply contract; automotive qualification); FCF breakeven end-2026 catalyst |
+| CMX | 2026-07-16 | BELOW_FLOOR_KILL | none+UNKNOWN | $2.2M USD cap (90% below $20M floor); ASX suspended Dec 2024; pre-commercial |
 
 ## Run History
 | Run | Date | Companies Analyzed | Results | Push Status |
@@ -52,16 +54,16 @@ Total companies analyzed: 28 unique (KLIC, ELMT, INTT, ASYS, ICHR, COHU, UCTT at
 | 14 | 2026-07-15 | KRMKF (WATCH) + kills: QUIK(CAP), KOPN(CAP), RBCN(DEAD), POET(CAP), NNODF(BELOW_FLOOR) | 1 WATCH, 5 kills | COMPLETE |
 | 15 | 2026-07-15 | RBERP (GRADUATED) + kills: ALSEM(CAP+COVERAGE), AXE(SECTOR), no new QUEUED names added | 0 WATCH, 0 CANDIDATE, 1 GRADUATED, 3 kills | PENDING |
 | 16 | 2026-07-16 | KRMKF re-check (WATCH), BLG new (CANDIDATE) + CMX QUEUED | 1 WATCH (re-check), 1 CANDIDATE | COMPLETE |
+| 17 | 2026-07-16 | ENSI (WATCH), CMX (BELOW_FLOOR_KILL) + kills: SOLI(COVERAGE_KILL) | 1 WATCH, 1 BELOW_FLOOR_KILL, 1 COVERAGE_KILL | COMPLETE |
 
 ## Do Not Re-Analyze (45-day cooldown)
 ICHR, ASYS, COHU, KLIC, ELMT, INTT, UCTT, SHMD, FORM, MTRN, AEHR, HURC, RELL, FROHF, IQEPF, XPP, TPLKF, SCIA, CVV — all analyzed 2026-07-13; skip until 2026-08-27
 CMLMF, IPWR, RFIL, WTT, PCTEL, TRT — all analyzed 2026-07-14; skip until 2026-08-28
 KRMKF — analyzed 2026-07-16; skip until 2026-08-30
 BLG — analyzed 2026-07-16; skip until 2026-08-30
+ENSI — analyzed 2026-07-16; skip until 2026-08-30
 RBERP — analyzed 2026-07-15; skip until 2026-08-29 (also CAP_KILL above $150M ceiling)
 
 ## Scout Pipeline (next runs — apply valuation gate first)
 
-Scout pipeline status: ASX PIVOT ACTIVE — Run 16 ASX micro-cap scan yielded BLG (CANDIDATE) and CMX (QUEUED). Apply hard gate before analysis.
-
-CMX.AX (ChemX Materials, ASX) — ~$20-22M USD; 0 analysts; HPA for semiconductor substrates; QUEUED from Run 16 ASX pivot scout. Apply gate before analysis.
+Scout pipeline status: QUEUE EMPTY — Run 17 processed ENSI (WATCH), CMX (BELOW_FLOOR_KILL), SOLI (COVERAGE_KILL). Next run requires fresh scouting. Recommended: continue AIM/TSX-V/Euronext Growth semiconductor-adjacent IPO tripwire; expand KOSDAQ scan for new micro-cap entrants; test cap-band widen to $150-400M for one controlled run.
