@@ -1,14 +1,15 @@
 # Coverage Map
 
 ## Cursor
-Last run: 2026-07-15 (Run 15 complete)
-Run count: 15
-Total companies analyzed: 27 unique (KLIC, ELMT, INTT, ASYS, ICHR, COHU, UCTT at scout level + SHMD, FORM, MTRN, AEHR, HURC, RELL, FROHF, IQEPF, XPP, TPLKF, SCIA, CVV, CMLMF, IPWR, RFIL, WTT, PCTEL, TRT, KRMKF, RBERP)
+Last run: 2026-07-16 (Run 16 complete)
+Run count: 16
+Total companies analyzed: 28 unique (KLIC, ELMT, INTT, ASYS, ICHR, COHU, UCTT at scout level + SHMD, FORM, MTRN, AEHR, HURC, RELL, FROHF, IQEPF, XPP, TPLKF, SCIA, CVV, CMLMF, IPWR, RFIL, WTT, PCTEL, TRT, KRMKF, RBERP, BLG)
 
 ## Analyzed
 | Ticker | Date | Verdict | Score | Notes |
 |--------|------|---------|-------|-------|
-| KRMKF | 2026-07-15 | WATCH | moderate+QUALIFIED | AIM/OTC Pink 0-analyst; CBRN gov franchise; Sep 2026 FY results forcing event; FY2027 Siemens cliff primary risk |
+| KRMKF | 2026-07-16 | WATCH | moderate+QUALIFIED | AIM/OTC Pink 0-US-analyst; CBRN gov franchise; Re-checked 2026-07-16, thesis intact; Sep 2026 FY results forcing event; FY2027 Siemens cliff primary risk |
+| BLG | 2026-07-16 | CANDIDATE | weak+QUALIFIED | ASX GaN laser foundry; RPCVD IP + gov qualification; no formal backlog; FY2026 Annual Results Aug 2026 catalyst; scale risk vs. incumbents |
 | ICHR | 2026-07-13 | PRICE_KILL | 78 | Analyzed run 1; price-screened by run 3 (+323%) |
 | ASYS | 2026-07-13 | PRICE_KILL | 75 | Analyzed runs 1, 2, 4; price-screened by run 3 (+572%) |
 | COHU | 2026-07-13 | PRICE_KILL | 75 | Analyzed run 2; price-screened by run 3 (+213%) |
@@ -50,13 +51,17 @@ Total companies analyzed: 27 unique (KLIC, ELMT, INTT, ASYS, ICHR, COHU, UCTT at
 | 13 | 2026-07-14 | TRT (WATCH) | 1 WATCH, 0 PASS | PENDING |
 | 14 | 2026-07-15 | KRMKF (WATCH) + kills: QUIK(CAP), KOPN(CAP), RBCN(DEAD), POET(CAP), NNODF(BELOW_FLOOR) | 1 WATCH, 5 kills | COMPLETE |
 | 15 | 2026-07-15 | RBERP (GRADUATED) + kills: ALSEM(CAP+COVERAGE), AXE(SECTOR), no new QUEUED names added | 0 WATCH, 0 CANDIDATE, 1 GRADUATED, 3 kills | PENDING |
+| 16 | 2026-07-16 | KRMKF re-check (WATCH), BLG new (CANDIDATE) + CMX QUEUED | 1 WATCH (re-check), 1 CANDIDATE | COMPLETE |
 
 ## Do Not Re-Analyze (45-day cooldown)
 ICHR, ASYS, COHU, KLIC, ELMT, INTT, UCTT, SHMD, FORM, MTRN, AEHR, HURC, RELL, FROHF, IQEPF, XPP, TPLKF, SCIA, CVV — all analyzed 2026-07-13; skip until 2026-08-27
 CMLMF, IPWR, RFIL, WTT, PCTEL, TRT — all analyzed 2026-07-14; skip until 2026-08-28
-KRMKF — analyzed 2026-07-15; skip until 2026-08-29
+KRMKF — analyzed 2026-07-16; skip until 2026-08-30
+BLG — analyzed 2026-07-16; skip until 2026-08-30
 RBERP — analyzed 2026-07-15; skip until 2026-08-29 (also CAP_KILL above $150M ceiling)
 
 ## Scout Pipeline (next runs — apply valuation gate first)
 
-Scout pipeline status: EXHAUSTED — standard US/AIM/Euronext Growth screen returned no new qualifying names in Run 15. Pivot to: (1) Euronext Growth IPO scan 2021-2025 for semiconductor-adjacent names; (2) TSX-V specialty materials (quartz, ceramics, precision metals); (3) one controlled $150-400M cap-band run.
+Scout pipeline status: ASX PIVOT ACTIVE — Run 16 ASX micro-cap scan yielded BLG (CANDIDATE) and CMX (QUEUED). Apply hard gate before analysis.
+
+CMX.AX (ChemX Materials, ASX) — ~$20-22M USD; 0 analysts; HPA for semiconductor substrates; QUEUED from Run 16 ASX pivot scout. Apply gate before analysis.

@@ -3,10 +3,10 @@
 This file is the persistent map of all exclusion-zone semiconductor supply chain companies ever surfaced by the routine. Scouts add to it every run. The pipeline rotates through it systematically.
 
 ## Rotation Cursor
-Next to analyze: NONE — universe exhausted. Scout pivot required: (1) systematic Euronext Growth IPO scan 2021-2025 for semiconductor-adjacent listings; (2) TSX-V ceramics/quartz/specialty metals; (3) controlled cap-band test to $150-400M for one run
+Next to analyze: CMX (ChemX Materials, ASX) — pivot scan yielded 1 new QUEUED name; run on next session
 Last full rotation completed: NEVER (queue cleared; scouts found no passing replacements)
-Universe size: 38 (no new entries that fully passed gate this run — SEMCO and Archer both failed)
-Analyzed this quarter: 21
+Universe size: 40 (BLG added as CANDIDATE, CMX added as QUEUED from Run 16 ASX pivot)
+Analyzed this quarter: 21 (KRMKF re-checked Run 16; BLG new)
 
 ## Legend
 Status: WATCH | CANDIDATE | PASS | PRICE_KILL | GRADUATED (left exclusion zone) | QUEUED (found, not yet analyzed)
@@ -16,7 +16,9 @@ Moat: MONOPOLY | DUOPOLY | QUALIFIED (requalification >12mo) | COMPETING | COMMO
 
 | Ticker | Company | SIC / GICS | Excl. Reason | Date Added | Last Analyzed | Status | Moat |
 |--------|---------|-----------|--------------|------------|---------------|--------|------|
-| KRMKF | Kromek Group plc | CZT radiation detectors (instruments/medical) | AIM + OTC Pink dual-venue exclusion; 0 analysts; GICS void; Siemens milestone distortion | 2026-07-15 | 2026-07-15 | WATCH | QUALIFIED |
+| KRMKF | Kromek Group plc | CZT radiation detectors (instruments/medical) | AIM + OTC Pink dual-venue exclusion; 0 analysts; GICS void; Siemens milestone distortion | 2026-07-15 | 2026-07-16 | WATCH | QUALIFIED |
+| BLG | BluGlass Limited | 3674/GaN compound semi foundry | ASX micro-cap; ~$40M USD cap; 0-2 boutique analysts; RPCVD GaN laser foundry/IP licensor | 2026-07-16 | 2026-07-16 | CANDIDATE | QUALIFIED |
+| CMX | ChemX Materials Limited | 2819 specialty materials (HPA) | ASX micro-cap; ~$20-22M USD cap; 0 analysts; High Purity Alumina for semiconductor substrates | 2026-07-16 | NEVER | QUEUED | UNKNOWN |
 | XPP | XP Power plc | UK-industrial mislabel | GICS void; thin English coverage | 2026-07-13 | 2026-07-13 | WATCH_ASYMMETRY_SPENT | QUALIFIED |
 | SHMD | SCHMID Group N.V. | Recent foreign listing | Coverage void; new listing | 2026-07-13 | 2026-07-13 | TRIAGE_KILL | COMPETING |
 | FROHF | Ferrotec Holdings | GICS 4520 mislabel | Japan-listed; fiscal stub; industrial label | 2026-07-13 | 2026-07-14 | OVERSIZED | MONOPOLY |

@@ -27,7 +27,7 @@ An individual can buy 1,000 shares with zero market impact.
 
 | Ticker | Company | Verdict | Date | Mkt Cap | Buy Zone | Analysts | Moat | Next Catalyst |
 |--------|---------|---------|------|---------|----------|----------|------|---------------|
-| KRMKF | Kromek Group plc | WATCH ⚡ | 2026-07-15 | £57M (~$73M) | current price (8.3p) | 0 US / 2 UK | QUALIFIED — CZT crystal IP licensed by Siemens | **TOMORROW Jul 24 FY2026 results** — watch: (1) CBRN ≥£10M FY2026; (2) Siemens supply order confirmation; (3) FY2027 guidance; (4) PCCT OEM named; (5) net debt <£2M. 2.7x upside to 22.5p analyst PT |
+| KRMKF | Kromek Group plc | WATCH ⚡ | 2026-07-16 | £57M (~$73M) | current price (8.80p) | 0 US / 2 UK | QUALIFIED — CZT crystal IP licensed by Siemens | **September 2026 FY2026 formal accounts** (May 12 trading update already confirmed £27.2m, £2.15m PBT) — watch: (1) CBRN ≥£10M FY2026; (2) FY2027 guidance (Siemens cliff); (3) PCCT Tier 1 OEM named; (4) net debt <£2M. 2.7x upside to 22.5p analyst PT | Re-checked 2026-07-16, thesis intact, price 8.80p |
 | ELMT | The Elmet Group Co. | WATCH | 2026-07-14 | ~$440M | $11-12 pullback OR Aug 25 GM ≥22% | 4 (underwriter) | MONOPOLY — sole US-owned W/Mo precision mfr; ITAR/AS9100 locked | Aug 25 Q2 2026 earnings — GM print ≥22% confirms margin expansion |
 | TRT | Trio-Tech International | WATCH | 2026-07-15 | ~$109M | $8-10 | 0 | THIN — IATF certs + relationships, not IP moat | Q4 FY2026 earnings Aug/Sep 2026 — gross margin ≥20% is the single observable |
 | CMLMF | CML Microsystems plc | WATCH | 2026-07-15 | £44.6M (~$57M) | 220-240p (not PASS at 262p) | 0 US / 1-2 UK | QUALIFIED — fabless RF niche in high-reliability comms institutions don't serve | H1 FY2027 revenue ≥£11M (Nov 2026) OR named mmWave/satellite win |
@@ -38,6 +38,12 @@ An individual can buy 1,000 shares with zero market impact.
 | Ticker | Company | Status | Mkt Cap | Note |
 |--------|---------|--------|---------|------|
 | FROHF | Ferrotec Holdings | OVERSIZED | ~$2.74B | Ferrofluidic feedthrough monopoly, 9.4x EV/EBITDA — real moat but 18x our ceiling. Track for size-agnostic watchlist |
+
+## Tracking — CANDIDATE
+
+| Ticker | Company | Status | Mkt Cap | Note |
+|--------|---------|--------|---------|------|
+| BLG | BluGlass Limited | CANDIDATE | ~A$61M (~$40M USD) | ASX; GaN laser foundry; 66 patents; RPCVD IP; US gov qualified; weak signal (no formal backlog); FY2026 results Aug 2026 |
 
 ## Deep-Diligence Kills (2026-07-14 to 2026-07-15)
 
@@ -85,7 +91,8 @@ An individual can buy 1,000 shares with zero market impact.
 8. **SIC services-code mislabels create deep exclusion.** SIC 7389 ("Services — NEC") keeps TRT off every semiconductor fund screen regardless of what the company does. Once a company is in a services SIC code, it is structurally invisible to chip-supply-chain quant screens until a deliberate reclassification.
 9. **Universe exhaustion after 14 runs signals axis pivot, not re-run.** The $20–150M / <2 analyst / <$2M volume / semiconductor supply chain gate is now mined out; the last survivor (KRMKF) cleared only via listing-venue gap + GICS void, not via fundamental mispricing. The intersection is finite and small; re-running the identical gate returns the empty set. Next scouting must pivot: (1) shift from coverage-gap to listing-venue-gap (AIM, TSX-V, ASX, KOSDAQ, Taipei, Japan small-caps); (2) mine GICS void up the WFE chain (specialty materials, precision components); (3) test cap-band widen to $150–400M for one controlled run. Do not re-check CANDIDATE cohort — their triggers are catalyst-scheduled, not calendar-daily.
 10. **Graduation velocity in record WFE cycles is fast — catch IPOs at listing, not after.** RBERP (Riber SA) was €60M cap 12 months ago and is now €270M (+383% YoY), missing the exclusion window entirely. SEMCO Technologies (Euronext Growth July 2025 IPO) listed at €154M and is now €523M in 12 months. Both have dominant moats (RBERP: MBE duopoly + ROSIE monopoly-in-formation; SEMCO: electrostatic chuck monopoly candidate). The system needs a real-time tripwire for new Euronext Growth / AIM / TSX-V semiconductor-adjacent IPOs — not a retrospective screen. Recommended: create a "graduation-cohort watchlist" of sub-$150M-at-IPO semiconductor supply chain companies that are now $150-400M and approaching analyst initiation.
+11. **ASX micro-cap pivot yielded two new names in first search.** BluGlass (BLG) and ChemX Materials (CMX) both pass the hard gate. Neither is WFE-correlated — GaN defense and HPA substrates track defense/health budgets, not fab capex. This confirms the axis-pivot from coverage-gap to listing-venue-gap works: ASX + TSX-V have untapped semiconductor-adjacent micro-caps not visible on US screens.
 
 ---
 
-*Doctrine formalized: 2026-07-13 — 10 runs completed; 2026-07-15 Run 15 confirms universe queue fully cleared; RBERP GRADUATED; scouts found no replacements; pivot to IPO-tripwire scouting required.*
+*Doctrine formalized: 2026-07-13 — 10 runs completed; updated 2026-07-16 Run 16 — KRMKF re-checked (thesis intact); BLG added as CANDIDATE (ASX pivot confirmed); CMX QUEUED; pivot to IPO-tripwire + listing-venue-gap scouting confirmed.*
