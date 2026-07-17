@@ -38,7 +38,6 @@ Total companies analyzed: 31 unique pipeline + 7 new scout kills (Run 18): GCTS,
 ## Run History
 | Run | Date | Companies Analyzed | Results | Push Status |
 |-----|------|--------------------|---------|-------------|
-| 18 | 2026-07-17 | Scout-only: GCTS(CAP_KILL), MX(COVERAGE_KILL re-check), ENET(INTEGRITY_KILL), 5217.T(DEAD_KILL), ESP(SECTOR_KILL), SIF(SECTOR_KILL), LEDS(BELOW_FLOOR_KILL) | 0 WATCH, 0 CANDIDATE, 7 kills — queue empty, web-search layer exhausted | PENDING |
 | 1 | 2026-07-13 | ICHR (78), ASYS (75) | 2 WATCH | PUSH_FAILED (no write scope on PAT) |
 | 2 | 2026-07-13 | COHU (75), ASYS (74) | 2 WATCH | PUSH_FAILED (no write scope on PAT) |
 | 3 | 2026-07-13 | ELMT (69), INTT (54) | 1 WATCH, 1 MONITOR | PUSH_FAILED (no write scope on PAT) |
@@ -56,6 +55,7 @@ Total companies analyzed: 31 unique pipeline + 7 new scout kills (Run 18): GCTS,
 | 15 | 2026-07-15 | RBERP (GRADUATED) + kills: ALSEM(CAP+COVERAGE), AXE(SECTOR), no new QUEUED names added | 0 WATCH, 0 CANDIDATE, 1 GRADUATED, 3 kills | PENDING |
 | 16 | 2026-07-16 | KRMKF re-check (WATCH), BLG new (CANDIDATE) + CMX QUEUED | 1 WATCH (re-check), 1 CANDIDATE | COMPLETE |
 | 17 | 2026-07-16 | ENSI (WATCH), CMX (BELOW_FLOOR_KILL) + kills: SOLI(COVERAGE_KILL) | 1 WATCH, 1 BELOW_FLOOR_KILL, 1 COVERAGE_KILL | COMPLETE |
+| 18 | 2026-07-17 | Scout-only: GCTS(CAP_KILL), MX(COVERAGE_KILL re-check), ENET(INTEGRITY_KILL), 5217.T(DEAD_KILL), ESP(SECTOR_KILL), SIF(SECTOR_KILL), LEDS(BELOW_FLOOR_KILL) | 0 WATCH, 0 CANDIDATE, 7 kills — web-search layer exhausted | PUSH_OK |
 
 ## Do Not Re-Analyze (45-day cooldown)
 ICHR, ASYS, COHU, KLIC, ELMT, INTT, UCTT, SHMD, FORM, MTRN, AEHR, HURC, RELL, FROHF, IQEPF, XPP, TPLKF, SCIA, CVV — all analyzed 2026-07-13; skip until 2026-08-27
@@ -67,4 +67,8 @@ RBERP — analyzed 2026-07-15; skip until 2026-08-29 (also CAP_KILL above $150M 
 
 ## Scout Pipeline (next runs — apply valuation gate first)
 
-Scout pipeline status: QUEUE EMPTY — Run 17 processed ENSI (WATCH), CMX (BELOW_FLOOR_KILL), SOLI (COVERAGE_KILL). Next run requires fresh scouting. Recommended: continue AIM/TSX-V/Euronext Growth semiconductor-adjacent IPO tripwire; expand KOSDAQ scan for new micro-cap entrants; test cap-band widen to $150-400M for one controlled run.
+Scout pipeline status: QUEUE EMPTY — Run 18 (2026-07-17) conducted full scout: 2 Haiku agents + 12 main-agent searches. All vectors exhausted. 7 kills, 0 new QUEUED names. Standard web-search layer is now mined out. **Next run MUST use one of these alternatives:**
+1. Direct broker screen (Interactive Brokers KOSDAQ/TSE filter, OTCMarkets.com direct search)
+2. Controlled cap-band widen test: $150-400M for one run (ELMT, RELL, TPLKF territory)
+3. Japanese TSE direct database scan for quartz/SiC/ceramic consumables suppliers at ¥2-20B cap
+4. Euronext Growth + AIM new IPO tripwire (2025-2026 listings only) for semiconductor supply chain
