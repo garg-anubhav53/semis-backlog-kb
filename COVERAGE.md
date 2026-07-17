@@ -1,9 +1,9 @@
 # Coverage Map
 
 ## Cursor
-Last run: 2026-07-17 (Run 18 complete — scout-only, 0 pipeline companies)
-Run count: 18
-Total companies analyzed: 31 unique pipeline + 7 new scout kills (Run 18): GCTS, MX-recheck, ENET, 5217.T, ESP, SIF, LEDS
+Last run: 2026-07-17 (Run 19 complete — scout-only cap-band widen test, 0 pipeline companies)
+Run count: 19
+Total companies analyzed: 31 unique pipeline + 7 Run 18 kills + 2 Run 19 kills (GSM, ALMU)
 
 ## Analyzed
 | Ticker | Date | Verdict | Score | Notes |
@@ -56,6 +56,7 @@ Total companies analyzed: 31 unique pipeline + 7 new scout kills (Run 18): GCTS,
 | 16 | 2026-07-16 | KRMKF re-check (WATCH), BLG new (CANDIDATE) + CMX QUEUED | 1 WATCH (re-check), 1 CANDIDATE | COMPLETE |
 | 17 | 2026-07-16 | ENSI (WATCH), CMX (BELOW_FLOOR_KILL) + kills: SOLI(COVERAGE_KILL) | 1 WATCH, 1 BELOW_FLOOR_KILL, 1 COVERAGE_KILL | COMPLETE |
 | 18 | 2026-07-17 | Scout-only: GCTS(CAP_KILL), MX(COVERAGE_KILL re-check), ENET(INTEGRITY_KILL), 5217.T(DEAD_KILL), ESP(SECTOR_KILL), SIF(SECTOR_KILL), LEDS(BELOW_FLOOR_KILL) | 0 WATCH, 0 CANDIDATE, 7 kills — web-search layer exhausted | PUSH_OK |
+| 19 | 2026-07-17 | Cap-band widen scout ($150-400M test): GSM(CAP_KILL $610M), ALMU(CAP_KILL $432.6M); 6 inline searches (TSE Japan, Euronext Growth Oslo, TSX-V/ASX, EDGAR SIC); 0 new QUEUED names | 0 WATCH, 0 CANDIDATE, 2 kills — cap-band widen $150-400M also exhausted via web-search | PUSH_PENDING |
 
 ## Do Not Re-Analyze (45-day cooldown)
 ICHR, ASYS, COHU, KLIC, ELMT, INTT, UCTT, SHMD, FORM, MTRN, AEHR, HURC, RELL, FROHF, IQEPF, XPP, TPLKF, SCIA, CVV — all analyzed 2026-07-13; skip until 2026-08-27
@@ -67,8 +68,8 @@ RBERP — analyzed 2026-07-15; skip until 2026-08-29 (also CAP_KILL above $150M 
 
 ## Scout Pipeline (next runs — apply valuation gate first)
 
-Scout pipeline status: QUEUE EMPTY — Run 18 (2026-07-17) conducted full scout: 2 Haiku agents + 12 main-agent searches. All vectors exhausted. 7 kills, 0 new QUEUED names. Standard web-search layer is now mined out. **Next run MUST use one of these alternatives:**
-1. Direct broker screen (Interactive Brokers KOSDAQ/TSE filter, OTCMarkets.com direct search)
-2. Controlled cap-band widen test: $150-400M for one run (ELMT, RELL, TPLKF territory)
-3. Japanese TSE direct database scan for quartz/SiC/ceramic consumables suppliers at ¥2-20B cap
-4. Euronext Growth + AIM new IPO tripwire (2025-2026 listings only) for semiconductor supply chain
+Scout pipeline status: QUEUE EMPTY — Run 19 (2026-07-17) tested cap-band widen $150-400M via 2 Haiku scouts + 6 inline searches. Found only GSM ($610M) and ALMU ($432.6M), both CAP_KILLs. **BOTH standard ($20-150M) AND extended ($150-400M) web-search layers now confirmed exhausted. Next run MUST use direct-database methods:**
+1. **Direct broker screen** (Interactive Brokers KOSDAQ/TSE filter, OTCMarkets.com internal screen) — required; web search cannot reach these databases
+2. **Japanese TSE direct database scan** for quartz/SiC/ceramic consumables at ¥2-20B cap — requires kabutan.jp or Yahoo Finance Japan direct queries
+3. **Korea KOSDAQ/KONEX semiconductor supply chain screen** — semiconductor precision parts, specialty gas, ceramic components under ₩100B cap
+4. **OTCMarkets.com internal sector screen** — OTCQB/OTCQX semiconductor SIC codes below $50M cap; web search returns general lists, not live screener data

@@ -39,10 +39,12 @@
 | EUGENE | 2026-07-13 | +136.22% | KOSDAQ display/semi-adjacent |
 | TES | 2026-07-13 | ~+80% | KOSDAQ semiconductor-related |
 
-## Cap Kills (market cap above $200M ceiling — graduated from exclusion zone)
+## Cap Kills (market cap above ceiling — graduated from exclusion zone)
 
 | Ticker | Date | Market Cap | Notes |
 |--------|------|-----------|-------|
+| GSM | 2026-07-17 | ~$610M USD | CAP_KILL: 1.5x above extended $400M widen ceiling; Ferroglobe PLC (NASDAQ); high-purity silicon metal + quartz for semiconductor wafer production; 2-3 analysts; surfaced in cap-band widen test |
+| ALMU | 2026-07-17 | ~$432.6M USD | CAP_KILL: above $400M extended ceiling; Aeluma Inc. (NASDAQ); photonics ICs for AI data center interconnects + LiDAR; 2 analysts; $4M+ DoD contracts; surfaced in cap-band widen test |
 | RBERP | 2026-07-15 | ~€250M (~$270M USD) | GRADUATED — was €60M 12 months ago (+383% YoY); cap above $150M ceiling; dominant MBE duopoly (ROSIE monopoly-in-formation); 2 analysts; Sep 24 H1 catalyst still intact but entry window closed |
 | ALSEM | 2026-07-15 | €523M | Euronext Growth IPO July 2025 at €154M; now €523M; 5 analysts; missed graduation window — electrostatic chuck monopoly/duopoly thesis intact but priced |
 | QUIK | 2026-07-15 | $336M | CAP_KILL: 2.2x ceiling; $8.7M daily vol (4.4x ceiling) — volume kill compounds cap kill |

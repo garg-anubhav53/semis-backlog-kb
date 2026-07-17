@@ -3,10 +3,10 @@
 This file is the persistent map of all exclusion-zone semiconductor supply chain companies ever surfaced by the routine. Scouts add to it every run. The pipeline rotates through it systematically.
 
 ## Rotation Cursor
-Next to analyze: [queue empty — Run 18 scouts ran and confirmed web-search layer exhausted; 0 new names added; 7 new kills added. Next run requires direct-DB scout OR cap-band widen test $150-400M]
+Next to analyze: [queue empty — Run 19 (2026-07-17) tested cap-band widen $150-400M via 2 Haiku scouts + 6 inline searches; found GSM (Ferroglobe, $610M CAP_KILL) and ALMU (Aeluma, $432.6M CAP_KILL); 0 new QUEUED names. BOTH standard web-search layer ($20-150M) AND cap-band widen ($150-400M) now confirmed exhausted. Next run MUST use: (1) direct broker DB screen (Interactive Brokers KOSDAQ/TSE filter, OTCMarkets.com internal screen), (2) Japanese TSE direct-DB scan ¥2-20B semiconductor consumables, OR (3) Korea KOSDAQ/KONEX semiconductor supply chain screen via direct query]
 Last full rotation completed: NEVER (queue cleared; scouts found no passing replacements)
-Universe size: 48 (Run 18 added 6 new kill entries: GCTS, ENET, 5217.T, ESP, SIF, LEDS; MX re-checked as COVERAGE_KILL)
-Analyzed this quarter: 24 (KRMKF re-checked Run 16; BLG, ENSI new; SOLI, CMX analyzed Run 17; Run 18 scout-only, no pipeline companies)
+Universe size: 50 (Run 19 added 2 new kill entries: GSM, ALMU; cap-band widen $150-400M also exhausted)
+Analyzed this quarter: 24 (KRMKF re-checked Run 16; BLG, ENSI new; SOLI, CMX analyzed Run 17; Run 18+19 scout-only, no pipeline companies)
 
 ## Legend
 Status: WATCH | CANDIDATE | PASS | PRICE_KILL | GRADUATED (left exclusion zone) | QUEUED (found, not yet analyzed)
@@ -68,3 +68,5 @@ Moat: MONOPOLY | DUOPOLY | QUALIFIED (requalification >12mo) | COMPETING | COMMO
 | ESP | Espey Mfg. & Electronics Corp | 3679/3812 defense electronics | NYSE American; ~$183-206M cap; defense power supplies/transformers; NOT semiconductor supply chain | 2026-07-17 | 2026-07-17 | SECTOR_KILL | UNKNOWN |
 | SIF | SIFCO Industries Inc | 3462 forgings | NYSE American; ~$123-146M cap; aerospace/defense forgings; NOT semiconductor supply chain | 2026-07-17 | 2026-07-17 | SECTOR_KILL | UNKNOWN |
 | LEDS | SemiLEDs Corporation | 3674 LED semiconductor | NASDAQ; ~$12M cap (below $20M floor); Taiwan-based LED semiconductor lighting | 2026-07-17 | 2026-07-17 | BELOW_FLOOR_KILL | UNKNOWN |
+| GSM | Ferroglobe PLC | Silicon metal/quartz (semiconductor materials) | NASDAQ; ~$610M cap (1.5x above $400M extended ceiling); high-purity silicon metal + quartz for semiconductor wafer production; 2-3 analysts | 2026-07-17 | 2026-07-17 | CAP_KILL | UNKNOWN |
+| ALMU | Aeluma Inc. | Photonics/integrated photonics IC | NASDAQ; ~$432.6M cap (above $400M extended ceiling); photonics ICs for AI data center interconnects + LiDAR; 2 analysts; $4M+ DoD contracts | 2026-07-17 | 2026-07-17 | CAP_KILL | UNKNOWN |
