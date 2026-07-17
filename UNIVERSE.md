@@ -3,10 +3,10 @@
 This file is the persistent map of all exclusion-zone semiconductor supply chain companies ever surfaced by the routine. Scouts add to it every run. The pipeline rotates through it systematically.
 
 ## Rotation Cursor
-Next to analyze: [queue empty — scouts needed]
+Next to analyze: [queue empty — Run 18 scouts ran and confirmed web-search layer exhausted; 0 new names added; 7 new kills added. Next run requires direct-DB scout OR cap-band widen test $150-400M]
 Last full rotation completed: NEVER (queue cleared; scouts found no passing replacements)
-Universe size: 42 (ENSI added as WATCH, SOLI added as COVERAGE_KILL, CMX moved to BELOW_FLOOR_KILL+SUSPENDED)
-Analyzed this quarter: 24 (KRMKF re-checked Run 16; BLG, ENSI new; SOLI, CMX analyzed Run 17)
+Universe size: 48 (Run 18 added 6 new kill entries: GCTS, ENET, 5217.T, ESP, SIF, LEDS; MX re-checked as COVERAGE_KILL)
+Analyzed this quarter: 24 (KRMKF re-checked Run 16; BLG, ENSI new; SOLI, CMX analyzed Run 17; Run 18 scout-only, no pipeline companies)
 
 ## Legend
 Status: WATCH | CANDIDATE | PASS | PRICE_KILL | GRADUATED (left exclusion zone) | QUEUED (found, not yet analyzed)
@@ -62,3 +62,9 @@ Moat: MONOPOLY | DUOPOLY | QUALIFIED (requalification >12mo) | COMPETING | COMMO
 | RBERP | Riber SA | 3559 MBE equipment (Euronext Paris) | GRADUATED — cap +383% YoY to ~€270M USD; breaches $150M ceiling; ROSIE monopoly-in-formation; 2 analysts; Sep 24 catalyst | 2026-07-15 | 2026-07-15 | GRADUATED | DUOPOLY |
 | ALSEM | SEMCO Technologies SA | 3559 electrostatic chucks (Euronext Growth) | Euronext Growth July 2025 IPO; electrostatic chucks for WFE; €34.7M 2025 revenue | 2026-07-15 | NEVER | CAP_KILL | UNKNOWN |
 | AXE | Archer Materials Ltd | ASX quantum materials | ASX-listed; $56-60M USD; 0 analysts; quantum qubit developer (12CQ); IonQ strategic agreement | 2026-07-15 | NEVER | SECTOR_KILL | UNKNOWN |
+| GCTS | GCT Semiconductor Holding | 3674 analog/mixed-signal SoC | NYSE; 2 analysts; 5G/satellite SoC provider; cap $244M (above ceiling) | 2026-07-17 | 2026-07-17 | CAP_KILL | UNKNOWN |
+| ENET | Ethernity Networks Ltd | AIM: 3674 network ASIC design | AIM-listed; near bankruptcy; $1M 2025 revenue; placed at £0.00004/share; <1yr cash runway | 2026-07-17 | 2026-07-17 | INTEGRITY_KILL | UNKNOWN |
+| 5217.T | Techno Quartz Inc | TSE: quartz semiconductor parts | TSE; ¥20B cap (~$130M); quartz parts for WFE; DELISTED September 2024 (taken private by GLTECHNO HOLDINGS) | 2026-07-17 | 2026-07-17 | DEAD_KILL | UNKNOWN |
+| ESP | Espey Mfg. & Electronics Corp | 3679/3812 defense electronics | NYSE American; ~$183-206M cap; defense power supplies/transformers; NOT semiconductor supply chain | 2026-07-17 | 2026-07-17 | SECTOR_KILL | UNKNOWN |
+| SIF | SIFCO Industries Inc | 3462 forgings | NYSE American; ~$123-146M cap; aerospace/defense forgings; NOT semiconductor supply chain | 2026-07-17 | 2026-07-17 | SECTOR_KILL | UNKNOWN |
+| LEDS | SemiLEDs Corporation | 3674 LED semiconductor | NASDAQ; ~$12M cap (below $20M floor); Taiwan-based LED semiconductor lighting | 2026-07-17 | 2026-07-17 | BELOW_FLOOR_KILL | UNKNOWN |

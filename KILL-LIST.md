@@ -18,6 +18,8 @@
 | NANX | 2026-07-13 | SECTOR KILL | Pivoted to personal care/beauty; no longer semiconductor supply chain |
 | WTT | 2026-07-14 | DEAD KILL | Acquired by Maury Microwave 2023; no longer publicly traded |
 | PCTEL | 2026-07-14 | DEAD KILL | Acquired by Amphenol Corporation February 2024; last trade Feb 16, 2024 |
+| 5217.T | 2026-07-17 | DEAD KILL | Techno Quartz Inc (Tokyo Stock Exchange); DELISTED September 27, 2024 — became wholly owned subsidiary of GLTECHNO HOLDINGS, INC; was ¥20B (~$130M USD) cap, 0 analysts, quartz products for semiconductor equipment — the archetype of the target but taken private; no US OTC ADR |
+| ENET | 2026-07-17 | INTEGRITY KILL | Ethernity Networks Ltd (AIM: ENET); ~$0 effective market cap; placing at £0.00004/share to raise £367K ($505K); FY2025 revenue $1.05M (-24% YoY); FCF -$2.1M with <1yr cash runway; 19B+ shares outstanding at near-zero; not a real business for investment purposes |
 
 ## Price Screen Kills (>+80% 12-month return — thesis already priced)
 
@@ -61,18 +63,23 @@
 |--------|------|-----------|-------|
 | CMX | 2026-07-16 | $2.2M USD | BELOW_FLOOR_KILL + SUSPENDED: cap 90% below $20M floor; ASX trading suspended since December 19, 2024; pre-commercial HPA producer; HiPurA® pilot plant commissioned June 2024 but zero commercial HPA revenue; Mercer Street convertible facility restructuring; BELOW_FLOOR and SUSPENDED dual kill |
 | NNODF | 2026-07-15 | £4.6M (~$5.8M) | BELOW_FLOOR_KILL: below $20M absolute floor; Nanoco Group quantum dot display materials |
+| LEDS | 2026-07-17 | ~$12M USD | BELOW_FLOOR_KILL: below $20M floor; SemiLEDs Corporation; Taiwan-based; LED semiconductor lighting; NASDAQ listed but sub-floor cap |
 
 ## Sector Kills (correct market cap and volume, but not semiconductor supply chain)
 
 | Ticker | Date | Kill Type | Reason |
 |--------|------|-----------|--------|
 | AXE | 2026-07-15 | SECTOR_KILL | Archer Materials (ASX); $56-60M cap; 0 analysts; quantum computing chip developer (12CQ) — NOT semiconductor supply chain (WFE equipment, materials, components, chemicals, subsystems); pre-revenue device maker analogous to IPWR kill |
+| ESP | 2026-07-17 | SECTOR_KILL + CAP_KILL | Espey Mfg. & Electronics Corp (NYSE American); ~$183-206M cap (above ceiling); defense power supplies, transformers, UPS systems for military — NOT semiconductor supply chain; the "semiconductor" keyword in filing is boilerplate industry list, not customer segment |
+| SIF | 2026-07-17 | SECTOR_KILL | SIFCO Industries (NYSE American); ~$123-146M cap; aerospace and defense forgings (blades, vanes, structural components) — NOT semiconductor supply chain; "semiconductor" in 10-Q was a boilerplate market list item, not a primary customer |
 
 ## Coverage Kills (>4 sell-side analysts — coverage void eliminated)
 
 | Ticker | Date | Analyst Count | Notes |
 |--------|------|--------------|-------|
 | SOLI | 2026-07-16 | 4 | Solid State plc; AIM-listed; £90.95M (~$114M USD) cap and ~£100-509K/day volume both pass; revenue £125M FY2025; defense-grade electronic components; fails on 4 analysts (needs ≤2) |
+| MX | 2026-07-17 | 9 | MagnaChip Semiconductor; re-surfaced in Run 18 scouting as cap dropped from $270M (Jul 2026 kill) to ~$140M; pivoting to AI server power MOSFETs; 9 analysts (was originally CAP_KILL 2026-07-13 at $270M; re-killed as COVERAGE_KILL at $140M with 9 analysts, 84% buy consensus, avg PT $5.50) |
+| GCTS | 2026-07-17 | 2 | GCT Semiconductor Holding (NYSE); cap $244M (above $150M ceiling); analog/mixed-signal 5G/satellite SoC provider; 287% Q1 2026 revenue growth; CAP_KILL (2 analysts but cap already out of zone) |
 | KLIC | 2026-07-13 | 12+ | Graduated — now well-covered; thesis priced |
 | VSH | 2026-07-13 | 10 | Vishay Intertechnology |
 | COMT/COTN.SW | 2026-07-13 | 10 | Comet Group AG |

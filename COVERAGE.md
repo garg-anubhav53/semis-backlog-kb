@@ -1,9 +1,9 @@
 # Coverage Map
 
 ## Cursor
-Last run: 2026-07-16 (Run 17 complete)
-Run count: 17
-Total companies analyzed: 31 unique (KLIC, ELMT, INTT, ASYS, ICHR, COHU, UCTT at scout level + SHMD, FORM, MTRN, AEHR, HURC, RELL, FROHF, IQEPF, XPP, TPLKF, SCIA, CVV, CMLMF, IPWR, RFIL, WTT, PCTEL, TRT, KRMKF, RBERP, BLG, ENSI, CMX, SOLI)
+Last run: 2026-07-17 (Run 18 complete — scout-only, 0 pipeline companies)
+Run count: 18
+Total companies analyzed: 31 unique pipeline + 7 new scout kills (Run 18): GCTS, MX-recheck, ENET, 5217.T, ESP, SIF, LEDS
 
 ## Analyzed
 | Ticker | Date | Verdict | Score | Notes |
@@ -38,6 +38,7 @@ Total companies analyzed: 31 unique (KLIC, ELMT, INTT, ASYS, ICHR, COHU, UCTT at
 ## Run History
 | Run | Date | Companies Analyzed | Results | Push Status |
 |-----|------|--------------------|---------|-------------|
+| 18 | 2026-07-17 | Scout-only: GCTS(CAP_KILL), MX(COVERAGE_KILL re-check), ENET(INTEGRITY_KILL), 5217.T(DEAD_KILL), ESP(SECTOR_KILL), SIF(SECTOR_KILL), LEDS(BELOW_FLOOR_KILL) | 0 WATCH, 0 CANDIDATE, 7 kills — queue empty, web-search layer exhausted | PENDING |
 | 1 | 2026-07-13 | ICHR (78), ASYS (75) | 2 WATCH | PUSH_FAILED (no write scope on PAT) |
 | 2 | 2026-07-13 | COHU (75), ASYS (74) | 2 WATCH | PUSH_FAILED (no write scope on PAT) |
 | 3 | 2026-07-13 | ELMT (69), INTT (54) | 1 WATCH, 1 MONITOR | PUSH_FAILED (no write scope on PAT) |
